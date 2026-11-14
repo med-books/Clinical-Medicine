@@ -1,0 +1,368 @@
+51
+
+Fig 2. Placement of the hands for testing chest expansion: anchor with the fingers and leave the thumbs free-floating.
+
+Figures 1–2 reproduced with permission from Oxford Handbook of Clinical Examination and Practical Skills.
+
+6 Front of chest
+• Apex beat.
+• Expansion: Ask patient to “breathe all the way out”, place hands as in fig 2, “now a deep breath in”, and note distance of thumbs to midline, is expansion equal? Repeat with hands laid on upper chest, equal?
+• Tactile vocal fremitus: Ask patient to repeat “99” each time they feel your hand while palpating the chest wall with your fingertips. This is rarely used as more information can be gained from vocal resonance.
+• Percussion: Percuss over different respiratory segments, comparing right and left.
+• Auscultation: Ask patient to “take steady breaths in and out through your mouth” and listen with diaphragm from apices to bases, comparing right and left.
+• Vocal resonance: Repeat auscultation, asking patient to repeat “99” each time they feel the stethoscope. If marked ↑ resonance heard, repeat with asking patient to whisper “99”; if clearly heard this is termed ‘whispering pectoriloquy’ and is a sensitive sign for consolidation. Outside of exams, the choice of vocal resonance or tactile vocal fremitus is a personal preference. Many clinicians prefer vocal resonance as it is an easier skill to master and provides more information than tactile vocal fremitus.
+
+7 Back of chest
+• Expansion
+• Tactile vocal fremitus
+• Percussion
+• Auscultation
+• Vocal resonance
+
+8 To complete the examination
+• Palpate for sacral and ankle oedema
+• Check peripheral pulses, observation chart for temperature and O₂ sats
+• Examine the sputum pot and check PEFR
+
+Top tips
+• Whispering pectoriloquy is a classic sign of consolidation and is specific, so worth picking up
+• If you don’t adequately expose the chest you may miss small scars eg from video thoracoscopy
+• If you see Horner’s syndrome, check for wasting of the small muscles of the hand; see p716 and p722
+
+
+52
+
+The respiratory system: examination II
+
+General inspection
+“Comfortable at rest” or unwell? Cachectic? Signs of respiratory distress
+Respiratory distress? (see MINIBOX; occurs if high negative intrathoracic pressures are needed to generate air entry). Stridor? Respiratory rate, breathing pattern (see BOX). Look for chest wall and spine deformities (see p55). Inspect for scars of past surgery, chest drains, or radiotherapy (skin thickening, tattoos for radiotherapy). Chest wall movement: symmetrical? (if not, pathology on restricted side). Paradoxical respiration? (abdomen sucked in with inspiration; seen in diaphragmatic paralysis, see p506).
+
+Signs of respiratory distress
+• Tachypnoea
+• Nasal flaring
+• Tracheal tug (pulling of thyroid cartilage towards sternal notch in inspiration)
+• Use of accessory muscles (sternocleidomastoid, platysma, infrahyoid)
+• Intercostal, subcostal and sternal recession
+• Pulsus paradoxus (p40)
+
+Hands
+Clubbing, peripheral cyanosis, tar stains, fine tremor (β-agonist use), wasting of intrinsic muscles (T1 lesions, eg Pancoast’s tumour, p722). Tender wrists (hypertrophic pulmonary osteoarthropathy—cancer). Asterixis (CO₂ retention). Pulse: paradoxical (respiratory distress), bounding (CO₂ retention).
+
+Face
+Ptosis and constricted pupil (Horner’s syndrome, eg Pancoast’s tumour, p722)? Bluish tongue and lips (central cyanosis, p28)? Conjunctival pallor (anaemia)?
+
+Neck
+Trachea: Central or displaced? (towards collapse or away from large pleural effusion/tension pneumothorax; slight deviation to right is normal). Cricosternal distance <3cm is hyperexpansion. Tracheal tug: descent of trachea with inspiration (severe airflow limitation). Lymphadenopathy: TB/Ca? JVP: ↑ in cor pulmonale.
+
+Examining the chest:
+
+Palpation
+Apex beat: impalpable? (COPD/pleural effusion/dextrocardia?) Expansion: <5cm on deep inspiration is abnormal. Symmetry? Tactile vocal fremitus: ↑ implies consolidation (< sensitive than vocal resonance).
+
+Percussion
+Dull percussion note: collapse, consolidation, fibrosis, pleural thickening, or pleural effusion (classically ‘stony dull’). Cardiac dullness usually detectable over the left side. Liver dullness usually extends up to 5th rib, right mid-clavicular line; below this, resonant chest is a sign of lung hyperexpansion (eg asthma, COPD). Hyperresonant percussion note: pneumothorax or hyperinflation (COPD).
+
+Auscultation
+Normal ‘vesicular’ breath sounds have a rustling quality. Bronchial breathing: Harsh with a gap between inspiration and expiration, occurs where lung tissue has become firm/solid, eg consolidation, localized fibrosis, above a pleural effusion, or large pericardial effusion (Ewart’s sign, p148). May be associated with increased vocal resonance and whispering pectoriloquy. Diminished breath sounds: Pleural effusions, pleural thickening, pneumothorax, bronchial obstruction, asthma, or COPD. Silent chest: In life-threatening asthma severe bronchospasm prevents adequate air entry. Added sounds: Wheezes (rhonchi): caused by air expired through narrowed airways. May be monophonic (single note, signifying a partial obstruction of one airway, eg tumour) or polyphonic (multiple notes, signifying widespread narrowing of airways of differing calibre, eg asthma, COPD). Wheeze is also heard in LVF (‘cardiac asthma’). Crackles (crepitations): caused by re-opening, during inspiration, of small airways which have become occluded during expiration. May be fine and late in inspiration if coming from distal air spaces (eg pulmonary oedema, fibrosing alveolitis) or coarse and mid-inspiratory if they originate more proximally (eg bronchiectasis). Early inspiratory crackles suggest small airways disease (eg COPD), whereas late/pan-inspiratory crackles suggest disease confined to alveoli. Crackles disappearing on coughing are insignificant. Pleural rubs: caused by movement of visceral pleura over parietal pleura, when both surfaces roughened, eg by inflammatory exudate. Causes include adjacent pneumonia or pulmonary infarction.
+
+
+53
+
+Pneumothorax click: produced by shallow left pneumothorax between layers of parietal pleura overlying heart, heard during cardiac systole.
+
+Further examination
+Sputum (see BOX), temperature charts, O₂ sats, PEFR.
+
+Breathing patterns
+Hyperventilation may be fast (tachypnoea, ie >20 breaths/min) or deep (hyperpnoea, ie tidal volume ↑). Hyperpnoea is not unpleasant, unlike dyspnoea. It may cause respiratory alkalosis, hence paraesthesiae ± muscle spasm (Ca²⁺↓). The main cause is anxiety: there is associated dizziness, chest tightness/pain, palpitations, and panic. Rare causes: response to metabolic acidosis; brainstem lesions.
+• Kussmaul respiration is deep, sighing breaths in severe metabolic acidosis (it helps to blow off CO₂), eg diabetic or alcoholic ketoacidosis, 35 renal impairment.
+• Neurogenic hyperventilation is produced by pontine lesions.
+• The hyperventilation syndrome involves panic attacks associated with hyperventilation, palpitations, dizziness, faintness, tinnitus, alarming chest pain/tightness, 36 perioral and peripheral tingling (plasma Ca²⁺↓). Treatment: relaxation techniques and breathing into a paper bag (↑ inspired CO₂ corrects the alkalosis).
+• NB: the anxious patient in A&E with hyperventilation and a respiratory alkalosis may actually be presenting with an aspirin overdose (p856).
+
+Cheyne–Stokes breathing
+Breaths get deeper and deeper, then shallower (± episodic apnoea) in cycles. Causes: Brainstem lesions or compression (stroke, ICP↑). If the cycle is long (eg 3min), the cause may be a long lung-to-brain circulation time (eg in chronic pulmonary oedema or ↓ cardiac output). It is enhanced by opioids.
+
+Sputum examination
+Always inspect any sputum produced, however unpleasant this task may be. Send suspicious sputum for microscopy (Gram stain and auramine/ZN stain, if indicated), culture, and cytology.
+• Black carbon specks in the sputum suggests smoking, the most common cause of increased sputum production.
+• Yellow/green sputum suggests infection, eg bronchiectasis, pneumonia.
+• Pink frothy sputum suggests pulmonary oedema.
+• Bloody sputum (haemoptysis) may be due to malignancy, TB, infection, or trauma, and requires investigation for these causes. See p49.
+• Clear sputum is probably saliva.
+
+Fig 1. The respiratory segments supplied by the segmental bronchi.
+
+Diagram labels:
+Anterior: Apical; Posterior; Anterior; Lateral; Middle; Medial middle; Inferior lingular; Superior lingular; Anterior basal; Lateral basal.
+Posterior: Apical; Apical + Posterior; Apical (lower lobe); Posterior basal; Lateral basal.
+
+
+54
+
+The respiratory system: important presentations
+
+Some physical signs
+
+Pleural effusion
+(There may be bronchial breathing at the top of an effusion)
+Expansion: ↓
+Percussion: ↓ (Stony dull)
+Air entry: ↓
+Vocal resonance: ↓
+Trachea + mediastinum central (shift away from affected side only with massive effusions ≥ 1000ml)
+
+Consolidation
+Expansion ↓
+Percussion note ↓
+Vocal resonance ↑
+Bronchial breathing ± coarse crackles (with whispering pectoriloquy)
+Trachea + mediastinum central
+
+Spontaneous pneumothorax/extensive collapse (± lobectomy/pneumonectomy)
+Expansion ↓
+Percussion note ↑
+Breath sounds ↓
+Trachea + mediastinum shift towards the affected side
+
+Tension pneumothorax (See fig 1 p763 for chest X-ray image)
+Expansion ↓
+Percussion note ↑
+Breath sounds ↓
+Trachea + mediastinum shift towards the affected side
+
+Fibrosis
+Expansion ↓
+Percussion note ↓
+Breath sounds bronchial ± crackles
+Trachea + mediastinum central or pulled towards the area of fibrosis
+
+Fig 1. Physical signs on chest examination.
+
+
+55
+
+Chest deformities
+• Barrel chest: AP diameter ↑, tracheal descent and chest expansion ↓, seen in chronic hyperinflation (eg asthma/COPD).
+• Pigeon chest (pectus carinatum): See fig 2.
+• Funnel chest (pectus excavatum): Developmental defect involving local sternum depression (lower end). See fig 3.
+• Kyphosis: ‘Humpback’ from ↑ AP thoracic spine curvature.
+• Scoliosis: Lateral curvature (OHCS p672); all of these may cause a restrictive ventilatory defect.
+
+Fig 2. Pectus carinatum (pigeon chest). Prominent sternum, from lung hyperinflation while the bony thorax is still developing, eg in chronic childhood asthma. Often seen with Harrison’s sulcus, a groove deformity caused by indrawing of lower ribs at the diaphragm attachment site. This usually has little functional significance in terms of respiration but can have significant psychological effects: see BOX.
+
+Fig 3. Pectus excavatum; the term for funnel or sunken chest. It is often asymptomatic, but may cause displacement of the heart to the left, and restricted ventilatory capacity ± mild air-trapping. Associations: scoliosis; Marfan’s; Ehlers–Danlos syndrome.
+
+Images courtesy of Prof Eric Fonkalsrud.
+
+Herr Minty and his pigeon chest
+Chest wall deformities such as pectus excavatum are quite common, often appearing during adolescent growth spurts. Exercise intolerance is the main symptom (from heart compression—consider CXR/CT). 37 Indications for surgical correction (rarely needed): ≥2 of: a severe, symptomatic deformity; progression of deformity; paradoxical respiratory chest wall motion; pectus index >3.25 on CT; cardiac or lung compression; restrictive spirometry; cardiac pathology that might be from compression of the heart.
+
+Psychological effects are interesting and not to be dismissed as their effects may be greater than any physical effects.38 Because these people hate exposing their chests they may become introverted, and never learn to swim, so don't let them sink without trace. Be sympathetic, and remember Herr Minty, who inaugurated Graham Greene’s theory of compensation: wherever a defect exists we must look for a compensating perfection to account for how the defect survives. In Minty’s case, although “crooked and yellow and pigeon-chested he had his deep refuge, the inexhaustible ingenuity of his mind.” England Made Me
+
+
+56
+
+The gastrointestinal system: history
+
+Presenting symptoms — Direct questions
+
+Abdominal pain (see BOX 2 and p608) — ‘SOCRATES’ (p34)
+Distension (see BOX 3)
+Nausea, vomiting (see BOX 1) — Timing? Relation to meals? Amount? Content (liquid, solid, bile, blood)? Frequency? Fresh (bright red)/dark/’coffee grounds’? Consider neoplasia (weight loss, dysphagia, pain, melaena?), NSAIDS/warfarin? Surgery? Smoking?
+Haematemesis (p252–4)
+Dysphagia (p240) — Level? Onset? Intermittent? Progressive? Painful swallow (odynophagia)?
+Indigestion/dyspepsia/reflux (p242) — Timing (relation to meals)?
+Recent change in bowel habit — Consider neoplasia (weight loss, dysphagia, pain, melaena?)
+Diarrhoea (p246), constipation (p248)
+Rectal bleeding (p631) or melaena (p252) — Pain on defecation? Mucus? Fresh/dark/black? Mixed with stool/on surface/on paper/in the pan?
+Appetite, weight change — Intentional? Quantify. Dysphagia? Pain?
+Jaundice (p250) — Pruritus? Dark urine? Pale stools?
+
+(Screen for all above presenting symptoms before proceeding to past history.)
+
+Past history
+Peptic ulcer disease, carcinoma, jaundice, hepatitis, blood transfusions, tattoos, previous operations, last menstrual period (LMP), dietary changes.
+
+Drug history
+Especially steroids, NSAIDS, antibiotics.
+
+Family history
+Irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), peptic ulcer disease, polyps, cancer, jaundice.
+
+Social history
+Smoking, alcohol, recreational drug use, overseas travel, tropical illnesses, contact with jaundiced persons, occupational exposures, high-risk sexual behaviour.
+
+Vomiting
+History is vital. Associated symptoms and past medical history often indicate cause. Examine for dehydration, distension, tenderness, abdominal mass, succussion splash in children (pyloric stenosis), or tinkling bowel sounds (intestinal obstruction).
+
+Gastrointestinal
+• Gastroenteritis
+• Peptic ulceration
+• Pyloric stenosis
+• Intestinal obstruction
+• Paralytic ileus
+• Acute cholecystitis
+• Acute pancreatitis
+
+CNS
+• Meningitis/encephalitis
+• Migraine
+• ↑ Intracranial pressure
+• Brainstem lesions
+• Motion sickness
+• Ménière’s disease
+• Labyrinthitis
+
+Metabolic/endocrine
+• Uraemia
+• Hypercalcaemia
+• Hyponatraemia
+• Pregnancy
+• Diabetic ketoacidosis
+• Addison’s disease
+
+Alcohol and drugs
+• Antibiotics
+• Opiates
+• Cytotoxics
+• Digoxin
+
+Psychiatric
+• Self-induced
+• Psychogenic
+• Bulimia nervosa
+
+Others¹
+• Myocardial infarction
+• Autonomic neuropathy
+• Sepsis (UTI; meningitis)
+
+¹ How to remember the chief non-GI causes of vomiting? Try ABCDEFGHI: Acute kidney injury; Addison’s disease; Brain (eg ↑ICP); Cardiac (myocardial infarct); Diabetic ketoacidosis; Ears (eg labyrinthitis, Ménière’s disease); Foreign substances (alcohol; drugs, eg opiates); Gravidity (eg hyperemesis gravidarum); Hypercalcaemia/Hyponatraemia; Infection (eg UTI, meningitis).
+
+
+57
+
+Abdominal pain
+Varies depending on the underlying cause. Examples: irritation of the mucosa (acute gastritis), smooth muscle spasm (acute enterocolitis), capsular stretching (liver congestion in CCF), peritoneal inflammation (acute appendicitis) and direct splanchnic nerve stimulation (retroperitoneal extension of tumour). The character (constant or colicky, sharp or dull), duration, and frequency depend on the mechanism of production. The location and distribution of referred pain depend on the anatomical site. Time of occurrence and aggravating or relieving factors such as meals, defecation, and sleep also have special significance related to the underlying disease process. The site of the pain may provide a clue:
+
+• Epigastric: Pancreatitis, gastritis/duodenitis, peptic ulcer, gallbladder disease, aortic aneurysm.
+• Left upper quadrant: Peptic ulcer, gastric or colonic (splenic flexure) cancer, splenic rupture, subphrenic or perinephric abscess, renal (colic, pyelonephritis).
+• Right upper quadrant: Cholecystitis, biliary colic, hepatitis, peptic ulcer, colonic cancer (hepatic flexure), renal (colic, pyelonephritis), subphrenic/perinephric abscess.
+• Loin (lateral ⅓ of back between thorax and pelvis—merges with the flank, p567): Renal colic, pyelonephritis, renal tumour, perinephric abscess, pain referred from vertebral column. Causes of flank pain are similar (see index for fuller list).
+• Left iliac fossa: Diverticulitis, volvulus, colon cancer, pelvic abscess, inflammatory bowel disease, hip pathology, renal colic, urinary tract infection (UTI), cancer in undescended testis; zoster—wait for the rash! (p458). Gynae: Torsion of ovarian cyst, salpingitis, ectopic pregnancy.
+• Right iliac fossa pain: All causes of left iliac fossa pain plus appendicitis and Crohn’s ileitis, but usually excluding diverticulitis.
+• Pelvic: Urological: UTI, retention, stones. Gynae: Menstruation, pregnancy, endometriosis (OHCS p288), salpingitis, endometritis (OHCS p274), ovarian cyst torsion.
+• Generalized: Gastroenteritis, irritable bowel syndrome, peritonitis, constipation.
+• Central: Mesenteric ischaemia, abdominal aneurysm, pancreatitis.
+
+Remember referred pain: Myocardial infarct → epigastrium; pleural pathology.
+
+Abdominal distension (masses and the ‘famous five’ Fs)
+Enid Blyton’s Famous Five characters can generally solve any crime or diagnostic problem using 1950s methodologies steeped in endless school holidays, copious confection-laden midnight feasts, and lashings of homemade ginger beer.
+
+Let’s give them the problem of abdominal distension. The sweets and drinks used by the Famous Five actually contribute to the distension itself: fat, fluid, faeces, flatus, and fetus. If you think it far-fetched to implicate ginger beer in the genesis of fetuses, note that because it was homemade, like the fun, there was no limit to its intoxicating powers in those long-gone vintage summers. The point is to think to ask “When was your last period?” whenever confronted by a distended abdomen.
+
+Flatus will be resonant on percussion. Fluid will be dull, and can be from ascites (eg from malignancy or cirrhosis: look for shifting dullness), distended bladder (cannot get below it) or an aortic aneurysm (expansile). Masses can be pelvic (think of uterine fibroids or ovarian pathology) or tumours from colon, stomach, pancreas, liver, or kidney. Also see causes of ascites with portal hypertension (p606), hepatomegaly (p63), splenomegaly, and other abdominal masses (p606).
+
+
+58
+
+Gastrointestinal symptoms
+
+Faecal incontinence
+This is common in the elderly. Do your best to help, and get social services involved if concerned. Continence depends on many factors—mental function, stool (volume and consistency), anatomy (sphincter function, rectal distensibility, anorectal sensation and reflexes). Defects in any area can cause loss of faecal continence.
+
+Causes: often multifactorial. Is it passive faecal soiling or urgency-related stool loss? Consider the following:
+• Sphincter dysfunction:
+  • Vaginal delivery is the commonest cause due to sphincter tears or pudendal nerve damage.
+  • Surgical trauma, eg following procedures for fistulas, haemorrhoids, fissures.
+• Impaired sensation: diabetes, MS, dementia, any spinal cord lesions (consider cord compression if acute faecal incontinence).
+• Faecal impaction: overflow diarrhoea, extremely common, especially in the elderly, and very easily treated.
+• Idiopathic: although there is often no clear cause found, especially in elderly women, this is usually multifactorial, including a combination of poor sphincter tone and pudendal damage leading to poor sensation.
+
+Assessment
+Do PR (overflow incontinence? poor tone?) and assess neurological function of legs, particularly checking sensation.
+
+Refer to a specialist (esp. if rectal prolapse, anal sphincter injury, lumbar disc disease, or alarm symptoms for Ca. colon exist). Consider anorectal manometry, pelvic ultrasound or MRI, and pudendal nerve testing may be needed. 39
+
+Treat according to cause and to promote dignity: Never let your own embarrassment stop you from offering help. Knowledge and behaviour are key factors:
+• Ensure toilet is in easy reach. Plan trips away in the knowledge of toilet locations.
+• Obey call-to-stool impulses (esp. after meal, ie the gastro-colic reflex).
+• Ensure access to latest continence aids and advice on use, refer to continence nurse specialist for assessment.
+• Pelvic floor rehabilitation: for example can help faecal incontinence, squeeze pressure, and maximal tolerated volume. 40
+• Loperamide 2–4mg 45min before social engagements may prevent accidents outside home. 41 An anal cotton plug may help isolated internal sphincter weakness. Skin care. Support agencies.
+
+If all sensible measures fail, try a brake-and-accelerator approach: enemas to empty the rectum (twice weekly) and codeine phosphate, eg 15mg/12h, on non-enema days to constipate. It’s not a cure, but makes the incontinence manageable.
+
+Flatulence
+Normally, 400–1300mL of gas is expelled PR in 8–20 discrete (or indiscrete) episodes per day. If this, with any eructation (belching) or distension, seems excessive to the patient, they may complain of flatulence. Eructation occurs in hiatus hernia—but most patients with ‘flatulence’ have no GI disease. Air swallowing (aerophagy) is the main cause of flatus; here N₂ is the chief gas. If flatus is mostly methane, H₂ and CO₂, then fermentation by bowel bacteria is the cause,42 and reducing carbohydrate intake (eg less lactose and wheat) may help.43
+
+
+59
+
+Tenesmus
+This is a sensation in the rectum of incomplete emptying after defecation. It’s common in irritable bowel syndrome (p276), but can be caused by tumours.
+
+Regurgitation
+Gastric and oesophageal contents are regurgitated effortlessly into the mouth—without contraction of abdominal muscles and diaphragm (so distinguishing it from true vomiting). It may be worse on lying flat, and can cause cough and nocturnal asthma. Regurgitation is rarely preceded by nausea, and when due to gastro-oesophageal reflux, it is often associated with heartburn. An oesophageal pouch may cause regurgitation. Very high GI obstructions (eg gastric volvulus, p613) cause non-productive retching rather than true regurgitation.
+
+Steatorrhoea
+These are pale stools that are difficult to flush, and are caused by malabsorption of fat in the small intestine and hence greater fat content in the stool. Causes: Ileal disease (eg Crohn’s or ileal resection), pancreatic disease, and obstructive jaundice (due to ↓ excretion of bile salts from the gallbladder).
+
+Dyspepsia
+Dyspepsia and indigestion (p242) are broad terms. Dyspepsia is defined as one or more of post-prandial fullness, early satiety (unable to finish meal) and/or epigastric or retrosternal pain or burning. “Indigestion” reported by the patient can refer to dyspepsia, bloating, nausea and vomiting.44 Try to find out exactly what your patient means and when these symptoms occur in relation to meals, for example, the classic symptoms of peptic ulcers occur 2–5 hours after a meal and on an empty stomach. Look for alarm symptoms (see p256); these have high negative predictive value. If all patients with dyspepsia undergo endoscopy, <33% have clinically significant findings.45 Myocardial infarction may present as ‘indigestion’.
+
+Halitosis
+Halitosis (fetor oris, oral malodour) results from gingivitis (rarely severe enough to cause Vincent’s angina, p726), metabolic activity of bacteria in plaque, or sulfide-yielding food putrefaction, eg in gingival pockets and tonsillar crypts.46 Patients can often be anxious and convinced of halitosis when it is not present (and vice versa!).
+
+Contributory factors: Smoking, drugs (disulfiram; isosorbide), lung disease, hangovers.
+
+Try to eliminate anaerobes:
+• Good dental hygiene, dental floss, tongue scraping.
+• 0.2% aqueous chlorhexidine gluconate.
+
+The very common halitosis arising from the tongue’s dorsum is secondary to over-populated volatile sulfur compound-producing bacteria. Locally retained bacteria metabolize sulfur-containing amino acids to yield volatile (smelly) hydrogen sulfide and methylmercaptane, which perpetuate periodontal disease. At night and between meals conditions are optimal for odour production—so eating regularly may help. Treat by mechanical cleansing/scraping using tongue brushes or scrapes plus mouthwashes. Oral care products containing metal ions, especially Zn, inhibit odour formation, it is thought, because of affinity of the metal ion to sulfur. It is possible to measure the level of volatile sulfur-containing compounds in the air in the mouth directly by means of a portable sulfide monitor.
+
+
+60
+
+Examination of the abdomen
+As with any examination routine, begin by introducing yourself, obtaining consent to examine the patient and position them appropriately. To examine the abdomen, lie the patient down as flat as possible, ideally exposing from ‘nipples to knees’ although in practice keep the groin covered and examine separately for hernias, etc.
+
+5 Face
+• Skin and eyes: jaundice, conjunctival pallor, Kayser–Fleischer rings, xanthelasma, sunken eyes (dehydration)
+• Mouth: angular stomatitis, pigmentation, telangiectasia, ulcers, glossitis
+
+4 Neck
+• Examine cervical and supraclavicular lymph nodes (see fig 1)
+• JVP raised in fluid overload (renal dysfunction, liver dysfunction), tricuspid regurgitation (may cause pulsatile hepatomegaly)
+• Scars from tunnelled haemodialysis lines (see p295) or other central venous access
+
+Fig 1. Cervical and supraclavicular nodes.
+A = Supraclavicular
+B = Posterior triangle
+C = Jugular chain
+D = Preauricular
+E = Postauricular
+F = Submandibular
+G = Submental
+H = Occipital
+
+3 Arms
+• Check pulse and blood pressure
+• Look in the distribution of the SVC (arms, upper chest, upper back) for spider naevi
+• Check for track marks, bruising, pigmentation, scratch marks, arteriovenous fistulae (see p295 for signs seen in patients with chronic kidney disease)
+
+2 Hands
+• Inspect: clubbing, koilonychia, leuconychia, Muehrcke’s lines, palmar erythema, Dupuytren’s contracture, pigmentation of the palmar creases
+• Asterixis: (see fig 1, p50)
+
+1 General inspection
+• Assess general state (ill/well/cachexic)
+• Look for clues (vomit bowl, stoma bags)
+• Colour (pale, jaundiced, uraemic)
+• Body mass index?
+• Scars on the abdomen? Stomas?
+Ask the patient to lift their head off the bed, or cough, looking for bulges, distension or pain

@@ -1,0 +1,338 @@
+71
+
+Cramp
+This is painful muscle spasm. Leg cramps are common at night or after heavy exercise, and in patients with renal impairment or on dialysis.59 Cramp can signify salt depletion, and rarely: muscle ischaemia (claudication, DM), myopathy (McArdle, p718), or dystonia (writer’s cramp, p473). Forearm cramps suggest motor neuron disease. Night cramps may respond to quinine bisulfate 300mg at night PO.
+
+Drugs causing cramp: Diuretics (? from K+↓), domperidone, salbutamol/terbutaline IVI, ACE-i, telmisartan, celecoxib, lacidipine, ergot alkaloids, levothyroxine.
+
+Paraesthesiae
+‘Pins and needles’, numbness/tingling, which can hurt or ‘burn’ (dysaesthesia). Causes:
+Metabolic: ↓Ca2+ (perioral); PaCO2↑; myxoedema; neurotoxins (tick bite; sting). Vascular: ↑Arterial emboli; Raynaud’s; DVT; high plasma viscosity. Antibody-mediated: Paraneoplastic;60 SLE; ITP. Infection: Rare: Lyme;61 rabies. Drugs: ACE-i. Brain: Thalamic/parietal lesions. Cord: MS; myelitis/HIV; B12↓; ↑lumbar fracture.62 Plexopathy/mononeuropathy: p506, cervical rib;63 carpal tunnel; sciatica. Peripheral neuropathy (glove & stocking, p508, eg DM; CKD). If paroxysmal: Migraine;64 epilepsy;65 phaeochromocytoma. If wandering: take travel history, consider infection, eg strongyloides.
+
+Tremor
+Tremor is rhythmic oscillation of limbs, trunk, head, or tongue. 3 types:
+1 Resting tremor—worst at rest—eg from parkinsonism (±bradykinesia and rigidity; tremor is more resistant to treatment than other symptoms). It is usually a slow tremor (frequency of 3–5Hz), typically ‘pill-rolling’ of the thumb over a finger.
+2 Postural tremor—worst if arms are outstretched. Typically rapid (8–12Hz). May be exaggerated physiological tremor (eg anxiety, hyperthyroidism, alcohol, drugs), due to brain damage (eg Wilson’s disease, syphilis) or benign essential tremor (BET). This is often familial (autosomal dominant) tremor of arms and head presenting at any age. Cogwheeling may occur,66 but there is no bradykinesia. It is suppressed by alcohol, and patients may self-medicate rather than admit problems. Rarely progressive (unless onset is unilateral). Propranolol (40–80mg/8–12h PO) can help, but not in all patients.
+3 Intention tremor—worst on movement, seen in cerebellar disease, with past-pointing and dysdiadochokinesis (see p503). No effective drug has been found.
+
+Facial pain
+CNS causes: Migraine, trigeminal or glossopharyngeal neuralgia, (p461) or from any other pain-sensitive structure in the head or neck. Post-herpetic neuralgia: nasty burning-and-stabbing pain involves dermatomal areas affected by shingles (p400); it may affect cranial nerves V and VII in the face. It all too often becomes chronic and intractable (skin affected is exquisitely sensitive). Treatment is hard. Always give strong psychological support. Transcutaneous nerve stimulation, capsaicin ointment, and infiltrating local anaesthetic are tried. Neuropathic pain agents, such as amitriptyline, eg 10–25mg/24h at night, or gabapentin (p508) may help. NB: famciclovir or valaciclovir given in acute shingles may ↓ duration of neuralgia.67
+
+Vascular and non-neurological causes:
+Neck — Cervical disc pathology
+Bone/sinuses — Sinusitis; neoplasia
+Eye — Glaucoma; iritis; orbital cellulitis; eye strain; AVM
+Temporomandibular joint — Arthritis or idiopathic dysfunction (common)
+Teeth/gums — Caries; broken teeth; abscess; malocclusion
+Ear — Otitis media; otitis externa
+Vascular/vasculitis — Arteriovenous fistula;68 aneurysm; or AVM at the cerebellopontine angle;69 giant cell arteritis; SLE70
+
+
+72
+
+Neurological examination of the upper limbs
+The neurological system is usually the most daunting examination, so learn at the bedside from a senior colleague, preferably a neurologist. Keep practising. Be aware that books present ideal situations: often one or more signs are equivocal or even contrary to expectation; consider signs in the context of the history and try re-examining the patient, as signs may evolve over time. The only essential point is to distinguish whether weakness is upper (UMN) or lower (LMN) motor neuron (p451). Position the patient comfortably, sitting up at 45° and with arms exposed. The general order of examination should be Tone, Reflexes, Power, Coordination, Sensation.
+
+3 Power
+Direct patient to adopt each position and follow commands while you as the examiner stabilise the joint above and resist movements as appropriate to grade power see fig 1 (p451). Test each muscle group bilaterally before moving on to the next position.
+• “Shrug your shoulders and don’t let me push down; push your arms out to the side against me; try to pull them back in”
+• “Hold your arms up like this and pull me towards you, now push me away”
+• “Hold your hand out flat, don’t let me push it down; now don’t let me push it up”
+• Offer the patient two of your fingers and ask them to “squeeze my fingers”
+• Ask patient to “spread your fingers and stop me pushing them back together”, then hand the patient a piece of paper to grip between two fingers. You as the examiner should grip the paper with your corresponding fingers whilst asking patient to “grip the paper and don’t let me pull it away”.
+
+Fig 1. Testing limb power.
+
+2 Tone
+Ask patient to “relax/go floppy like a rag-doll”. Ask if patient has any pain in hands/arm/shoulder before passively flexing and extending limb while also pronating and supinating the forearm. Any spasticity or rigidity?
+
+Fig 2. Testing tone.
+
+1 General inspection
+Abnormal posturing, asymmetry, abnormal movements (fasciculation/tremor/dystonia/athetosis), muscle wasting (especially small muscles of the hand)—symmetrical/asymmetrical? Local/general?
+
+
+73
+
+4 Reflexes
+For each reflex, test right, then left and compare. If absent, attempt to elicit with ‘reinforcement’ by asking patient to clench their teeth on a count of 3 at which time you strike. Decide whether reflexes are absent/present (with reinforcement)/normal/brisk/exaggerated.
+• Biceps: (C5,6)
+• Triceps: (C7)
+• Supinator: (C6). See below.
+
+Fig 3. Testing tendon reflexes in biceps.
+
+5 Coordination
+• Holding your finger in front of the patient instruct “touch my finger then your nose…as fast as you can”. Look for intention tremor and ‘past pointing’.
+• Test for dysdiadokokinesis: Ask patient to repeatedly pronate and supinate forearm, clapping the hands each time. Test both limbs. You may have to demonstrate. Failure to perform rapidly alternating movements is dysdiadokokinesis.
+• Test for pronator drift: with patient’s eyes closed and arms outstretched tap down on their up-facing palms and look for a failure to maintain supination.
+
+6 Sensation
+• Light touch: Use cotton wool, touch it to sternum first—“this is what it should feel like, tell me where you feel it and if it feels different”. Proceed to test with cotton wool in all dermatomes (see p458), comparing left and right.
+• Pin prick: Repeat as above using a neurological pin, asking patient to tell you if it feels sharp or dull.
+• Temperature: Repeat as above, alternating hot and cold probes. Can the patient tell hot from cold?
+• Vibration: Using a 128Hz tuning fork confirm with patient that they “can feel a buzzing” when you place the tuning fork on their sternum. Proceed to test at the most distal bony prominence and move proximally by placing the buzzing fork on the bony prominence, then stopping it with your fingers. Ask the patient to tell you when the buzzing stops.
+• Proprioception: With the patient’s eyes closed grasp distal phalanx of the index finger at the sides. Stabilize the rest of the finger. Flex and extend the joint, stopping at intervals to ask whether the finger tip is up or down.
+
+Top tips
+• Use the tendon hammer like a pendulum, let it drop, don't grip it too tightly
+• Ensure you are testing light touch, not stroke sensation
+
+
+74
+
+Neurological examination of the lower limbs
+If the patient is able to walk, the best way to begin your examination is to ask the patient to remove their lower garments down to underwear, and to walk across the room. Gait analysis (p471) gives you more information than any other test. If they aren't able to walk, start with them lying down, legs fully exposed. The general routine should be Gait, Tone, Reflexes, Power, Coordination, Sensation.
+
+3 Reflexes
+For each reflex, test right, then left and compare. If absent, attempt to elicit with ‘reinforcement’. Decide whether reflexes are absent/present (with reinforcement)/normal/brisk/exaggerated.
+• Knee: (L3,4) Strike on the patella tendon, just below the patella.
+• Ankle: (L5,S1) Several accepted methods; ideally ask the patient to slightly bend the knee, then drop it laterally, grasp the foot and dorsiflex, then strike the Achilles tendon. If hip pain limits mobility, dorsiflex the foot with a straight leg and strike your hand, feeling for an ankle jerk.
+• Plantar reflexes: (L5, S1, S2) Stroke the patient’s sole with an orange stick or similar. The normal reflex is downward movement of the great toe. Babinski’s sign is positive if there is dorsiflexion of the great toe (this is abnormal (upper motor neuron lesion) if patient age >6 months).
+
+2 Tone
+Ask patient to “relax/go floppy like a rag-doll”. Ask if they have any pain in feet/legs/hips before passively flexing and extending each limb while also internally and externally rotating. Hold the patient’s knee and roll it from side to side. Put your hand behind the knee and raise it quickly. The heel should lift slightly from the bed if tone is normal. Any spasticity/rigidity?
+
+Clonus (fig 1)
+Plantar flex the foot then quickly dorsiflex and hold. More then 5 ‘beats’ of plantar flexion is sustained clonus and is abnormal. Hypertonia and clonus suggest an upper motor neuron lesion.
+
+Fig 1. Ankle tone: testing for clonus.
+
+1 General inspection and gait
+Gait: Ask patient to walk a few metres, turn and walk back to you. Note use of walking aids, symmetry, size of paces, arm swing. Ask patient to “walk heel-to-toe as if on a tightrope” to exaggerate any instability. Ask patient to walk on tiptoes, then on heels. Inability to walk on tiptoes indicates S1 or gastrocnemius lesion. Inability to walk on heels indicates L4,5 lesion or foot drop.
+
+Romberg’s test: Ask patient to stand unaided with arms by their sides and close their eyes (be ready to support them). If they sway/lose balance the test is positive and indicates posterior column disease/sensory ataxia.
+
+Inspect: Abnormal posturing, muscle wasting, fasciculation (LMN lesion?), deformities of the foot (eg pes cavus of Friedreich’s ataxia or Charcot–Marie–Tooth disease). Is one leg smaller than the other (old polio, infantile hemiplegia)?
+
+
+75
+
+4 Power
+Direct patient to adopt position and follow commands below while you as the examiner resist movements as appropriate to grade power (p451). Test each muscle group bilaterally before moving on to the next position.
+• Hip flexion: “Keeping your leg straight, can you lift your leg off the bed, don’t let me push it down”
+• Hip extension: “And now using your leg, push my hand into the bed”
+• Hip abduction: Position hands on outer thighs—“push your legs out to the sides”
+• Hip adduction: Position hands on inner thighs—“and push your legs together”
+• Knee flexion and extension: “Bend your knee and bring your heel to your bottom, don’t let me pull it away… and now kick out against me and push me away”
+• Ankle plantar flexion: With your hand on the underside of the patient's foot ask them to “bend your foot down, pushing my hand away”
+• Ankle dorsiflexion: Put your hand on the dorsum of the foot and ask them to “lift up your foot, point your toes at the ceiling, don’t let me push your foot down”
+
+5 Coordination
+Heel–shin test: Using your finger on the patient’s shin to demonstrate, instruct patient to “put your heel just below your knee then run it smoothly down your shin, lift it up and place it back on your knee, now run it down again”, etc. Repeat on the other side.
+
+6 Sensation As upper limbs (p73)
+• Light touch: Lower limb dermatomes (p458)
+• Pin prick
+• Temperature
+• Vibration
+• Joint position sense: With the patient’s eyes closed grasp distal phalanx of the great toe at the sides. Stabilize the rest of the toe. Move the joint up and tell patient “this is up”, and down, saying “this is down”. Flex and extend the joint, stopping at intervals to ask whether the toe is up or down.
+
+Top tips
+• If you are limited for time, gait is the most useful test to start with
+• Make sure you test each muscle group individually by stabilising above the joint you are testing
+• Test vibration by putting a buzzing tuning fork on the bony part of a joint with the patient's eyes closed then ask them to tell you when the buzzing stops (pinch the tuning fork to stop it) to distinguish vibration from pressure sensation
+
+
+76
+
+Cranial nerve examination
+
+Approach to examining the cranial nerves
+Where is the lesion? Think systematically. Is it in the brainstem (eg MS) or outside, pressing on the brainstem? Is it the neuromuscular junction (myasthenia) or the muscles (eg a dystrophy)? Cranial nerves may be affected singly or in groups. Face the patient (helps spot asymmetry). For causes of lesions see BOX.
+
+Cranial nerve names
+I olfactory
+II optic
+III oculomotor
+IV trochlear
+V trigeminal
+V1 ophthalmic division
+V2 maxillary division
+V3 mandibular division
+VI abducens
+VII facial
+VIII vestibulocochlear
+IX glossopharyngeal
+X vagus
+XI accessory
+XII hypoglossal
+
+I Smell: Test ability of each nostril to distinguish familiar smells, eg coffee.
+
+II Acuity: Test each eye separately, and its correctability with glasses or pin-hole; use Snellen chart if possible, or the one inside the cover of this book. Visual fields: Compare with your own fields or formally via perimetry testing. Any losses/inattention? Sites of lesions: OHCS p428. Pupils: (p79) Size, shape, symmetry, reaction to light (direct and consensual) or accommodation. Swinging light test for relative afferent pupillary defect. Ophthalmoscopy: (OHCS, p412) This is best learnt from an ophthalmologist. Darken the room, warn the patient you will need to get close to their face. Focus the lens on the optic disc (pale? swollen?). Follow vessels outwards to view each quadrant. If the view is obscured, examine the red reflex, with your focus on the margin of the pupil, to look for a cataract. Try to get a view of the fovea by asking the patient to look directly at the ophthalmoscope. Pathology here needs prompt ophthalmic review. If in doubt, ask for slit lamp examination or photography of the retina.
+
+III, IV & VI Eye movements. III nerve palsy: Ptosis, large pupil, eye down and out. IVth nerve palsy: Diplopia on looking down and in (often noticed on descending stairs)—head tilting compensates for this (ocular torticollis). VIth nerve palsy: Horizontal diplopia on looking out. Nystagmus is involuntary, often jerky, eye oscillations. Horizontal nystagmus is often due to a vestibular lesion (acute: nystagmus away from lesion; chronic: towards lesion), or cerebellar lesion (unilateral lesions cause nystagmus towards the affected side). If it is more in whichever eye is abducting, MS may be the cause (internuclear ophthalmoplegia, p78). If also deafness/tinnitus, suspect a peripheral cause (eg VIIIth nerve lesion, barotrauma, Ménière’s, p466). If it varies with head position, suspect benign positional vertigo (p466). If it is up-and-down, ask a neurologist to review—upbeat nystagmus classically occurs with lesions in the midbrain or at the base of the 4th ventricle, downbeat nystagmus in foramen magnum lesions. Nystagmus lasting ≤2 beats is normal, as is nystagmus at the extremes of gaze.
+
+V Motor palsy: “Open your mouth”: jaw deviates to side of lesion. Sensory: Check all 3 divisions. Consider corneal reflex (lost first).
+
+VII Facial nerve lesions cause droop and weakness. As the forehead has bilateral representation in the brain, only the lower two-thirds is affected in UMN lesions, but all of one side of the face in LMN lesions. Ask to “raise your eyebrows”, “show me your teeth”, “puff out your cheeks”. Test taste with salt/sweet solutions.
+
+VIII Hearing: p468. Ask to repeat a number whispered in an ear while you block the other. Perform Weber’s and Rinne’s tests (p468). Balance/vertigo: p466.
+
+IX & X Gag reflex: Ask the patient to say “Ah”. X nerve lesions also cause the palate to be pulled to the normal side on saying “Ah”. Ask them to swallow a sip of water. Consider gag reflex—touch the back of the soft palate with an orange stick. The afferent arm of the reflex involves IX; the efferent arm involves X.
+
+XI Trapezii: “Shrug your shoulders” against resistance. Sternocleidomastoid: “Turn your head to the left/right” against resistance.
+
+XII Tongue movement: The tongue deviates to the side of the lesion.
+
+
+77
+
+Causes of cranial nerve lesions
+Any cranial nerve may be affected by diabetes mellitus; stroke; MS; tumours; sarcoidosis; vasculitis, p558, eg PAN (p558), SLE (p556); syphilis. Chronic meningitis (malignant, TB, or fungal) tends to pick off the lower cranial nerves one by one.
+
+I Trauma; respiratory tract infection; meningitis; frontal lobe tumour.
+
+II Field defects may start as small areas of visual loss (scotomas, eg in glaucoma). Monocular blindness: Lesions of one eye or optic nerve eg MS, giant cell arteritis. Bilateral blindness¹: Any cause of mononeuritis, eg diabetes, MS; rarely methanol, neurosyphilis.
+
+Field defects—Bitemporal hemianopia: Optic chiasm compression, eg pituitary adenoma, craniopharyngioma, internal carotid artery aneurysm (fig 1, p452). Homonymous hemianopia: Affects half the visual field contralateral to the lesion in each eye. Lesions lie beyond the chiasm in the tracts, radiation, or occipital cortex, eg stroke, abscess, tumour.
+
+Optic neuritis (pain on moving eye, loss of central vision, relative afferent pupillary defect, disc swelling from papillitis²). Causes: Demyelination (eg MS); rarely sinusitis, syphilis, collagen vascular disorders.
+
+Ischaemic papillopathy: Swelling of optic disc due to stenosis of the posterior ciliary artery (eg in giant cell arteritis).
+
+Papilloedema (bilaterally swollen discs, fig 3, p562): most commonly ↑ICP (tumour, abscess, encephalitis, hydrocephalus, idiopathic intracranial hypertension); rarer: retro-orbital lesion (eg cavernous sinus thrombosis, p484).
+
+Optic atrophy (pale optic discs and reduced acuity): MS; frontal tumours; Friedreich’s ataxia; retinitis pigmentosa; syphilis; glaucoma; Leber’s optic atrophy; chronic optic nerve compression.71
+
+III alone: ‘Medical’ causes (pupillary sparing): diabetes; HTN; giant cell arteritis; syphilis; idiopathic. ‘Surgical’ causes (early pupil involvement due to external compression of nerve damaging parasympathetic fibres): posterior communicating artery aneurysm (+ surgery);72 ↑ICP (if uncal herniation through the tentorium compresses the nerve); tumours.
+
+IV alone: Rare and usually due to trauma to the orbit.73
+
+V alone: MS, Wernicke’s encephalopathy, false localizing sign in ↑ICP, pontine stroke (presents with fixed small pupils ± quadriparesis).74
+
+VI Sensory: Trigeminal neuralgia (pain but no sensory loss, p461); herpes zoster, nasopharyngeal cancer, acoustic neuroma (p466). Motor: Rare.
+
+VII LMN: Bell’s palsy (p504), polio, otitis media, skull fracture; cerebello-pontine angle tumours, eg acoustic neuroma, malignant parotid tumours, herpes zoster (Ramsay Hunt syndrome p505, OHCS p652). UMN: (spares the forehead, because of its bilateral cortical representation) Stroke, tumour.
+
+VIII (p466 & p468) Noise damage, Paget’s disease, Ménière’s disease, herpes zoster, acoustic neuroma, brainstem CVA, drugs (eg aminoglycosides).
+
+IX, X, XI Trauma, brainstem lesions, neck tumours.75
+
+XII Rare. Polio, syringomyelia, tumour, stroke, bulbar palsy, trauma, TB.
+
+Groups of cranial nerves
+VIII, then V, VI, IX & X: Cerebellopontine angle tumours, eg acoustic neuroma (p466; facial weakness is not a prominent sign).
+III, IV & VI: Stroke, tumours, Wernicke’s encephalopathy; aneurysms, MS.76
+III, IV, Va & VI: Cavernous sinus thrombosis, superior orbital fissure lesions (Tolosa–Hunt syndrome, OHCS p654).
+IX, X & XI: Jugular foramen lesion.
+ΔΔ: Myasthenia gravis, muscular dystrophy, myotonic dystrophy, mononeuritis multiplex (p506).
+
+Headache
+If the patient is able to shake their head, there is no meningism.
+
+¹ Remember the commonest cause of monocular or binocular blindness is not a cranial nerve lesion but a problem with the eye itself (cataracts, retinal problems). Neurological disorders more commonly cause loss of part of the visual field.
+² Unilateral disc swelling = papillitis, bilateral papillitis/disc swelling = papilloedema. Check both eyes! c = structures passing through the cavernous sinus; see BOX, p83. NB: Va is the only division of V to do so.
+p = Remember that these cranial nerves carry parasympathetic fibres. Sympathetic fibres originate from the thoracic chain and run with the arterial supply to distribute about the body (see also OHCS, fig 1, p629).
+
+
+78
+
+Cranial nerve lesions of the eye
+
+Fig 1. Internuclear ophthalmoplegia (INO) and its causes. To produce synchronous eye movements, cranial nerves III, IV, and VI communicate through medial longitudinal fasciculus in midbrain. In INO, a lesion disrupts communication, causing weakness in adduction of the ipsilateral eye with nystagmus of the contralateral eye only when abducting. There may be incomplete or slow abduction of the ipsilateral eye during lateral gaze. Convergence is preserved. Causes: MS or vascular (rarely: HIV; syphilis; Lyme disease; brainstem tumours; phenothiazine toxicity).
+
+Diagram labels: Right eye; Left eye; To right medial rectus; Lesion of right medial longitudinal fasciculus; III; VI; Centre for lateral gaze; Nystagmus; To left lateral rectus; Centre for lateral gaze.
+
+Ptosis
+Drooping of the upper eyelid. Best observed with patient sitting up, with head held by examiner. Oculomotor nerve (CN III) innervates main muscle concerned (levator palpebrae), but nerves from the cervical sympathetic chain innervate superior tarsal muscle, and a lesion of these nerves causes mild ptosis which can be overcome on looking up. Causes: 1 CN III lesions cause unilateral complete ptosis: look for other evidence of a CN III lesion: ophthalmoplegia with ‘down and out’ deviation of the eye, pupil dilated and unreactive to light or accommodation. If eye pain too, suspect infiltration (eg by lymphoma or sarcoidosis). If T°↑ or consciousness ↓, suspect infection (any tick bites?) 2 Sympathetic paralysis usually causes unilateral partial ptosis. Look for other evidence of a sympathetic lesion, as in Horner’s syndrome (p716): constricted pupil = miosis, lack of sweating on same side of the face (=anhidrosis). 3 Myopathy, eg dystrophia myotonica, myasthenia gravis (cause bilateral partial ptosis). 4 Congenital; usually partial and without other CNS signs.
+
+Visual loss
+Get ophthalmology help. See OHCS p434–p455. Consider:
+• Is the eye red? (glaucoma, uveitis p563)
+• Pain? Giant cell arteritis: severe temporal headache, jaw claudication, scalp tenderness, ↑ESR: urgent steroids (p558). Optic neuritis: eg in MS.
+• Is the cornea cloudy: corneal ulcer (OHCS p432), glaucoma (OHCS p430)?
+• Is there a contact lens problem (infection)?
+• Any flashes/floaters? (TIA, migraine, retinal detachment?)
+• Is there a visual field problem (stroke, space-occupying lesion, glaucoma)?
+• Are there any focal CNS signs?
+• Any valvular heart disease/carotid bruits (emboli)? Hyperlipidaemia (p704)?
+• Is there a relative afferent pupillary defect (p79)?
+• Any past history of trauma, migraine, hypertension, cerebrovascular disease, MS, diabetes or connective tissue disease?
+• Any distant signs: eg HIV (causes retinitis), SLE, sarcoidosis?
+
+Sudden
+• Acute glaucoma
+• Retinal detachment
+• Vitreous haemorrhage (eg in diabetic proliferative retinopathy)
+• Central retinal artery or vein occlusion
+• Migraine
+• CNS: TIA (amaurosis fugax), stroke, space-occupying lesion
+• Optic neuritis (eg MS)
+• Temporal arteritis
+• Drugs: quinine/methanol
+• Pituitary apoplexy
+
+Gradual
+• Optic atrophy
+• Chronic glaucoma
+• Cataracts
+• Macular degeneration
+• Tobacco amblyopia
+
+
+79
+
+Pupillary abnormalities
+Key questions: • Equal, central, circular, dilated, or constricted? • React to light, directly and consensually? • Constrict normally on convergence/accommodation?
+
+Irregular pupils: Anterior uveitis (iritis), trauma to the eye, syphilis.
+
+Dilated pupils: CN III lesions (↑ inc. ↑ICP, p840) and mydriatic drugs. Always ask: is this pupil dilated, or is it the other that is constricted?
+
+Constricted pupils: Old age, sympathetic nerve damage (Horner’s, p716, and ptosis, p78), opiates, miotics (pilocarpine drops for glaucoma), pontine damage.
+
+Unequal pupils (anisocoria) may be due to unilateral lesion, eye-drops, eye surgery, syphilis, or Holmes–Adie pupil. Some inequality is normal.
+
+Light reaction: Test: cover one eye and shine light into the other obliquely. Both pupils should constrict, one by direct, other by consensual light reflex (fig 2). The lesion site is deduced by knowing the pathway: from the retina the message passes up the optic nerve (CNII) to the superior colliculus (midbrain) and thence to the CNIII nuclei on both sides. The IIIrd cranial nerve causes pupillary constriction. If a light in one eye causes only contralateral constriction, the defect is ‘efferent’, as the afferent pathways from the retina being stimulated must be intact. Test for relative afferent pupillary defect: move torch quickly from pupil to pupil. If there has been incomplete damage to the afferent pathway, the affected pupil will paradoxically dilate when light is moved from the normal eye to the abnormal eye. This is because, in the face of reduced afferent input from the affected eye, the consensual pupillary relaxation response from the normal eye predominates. This is the Marcus Gunn sign, and may occur after apparent complete recovery from the initial lesion.
+
+Reaction to accommodation/convergence: If the patient first looks at a distant object and then at the examiner’s finger held a few inches away, the eyes will converge and the pupils constrict. Afferent fibres in each optic nerve pass to the lateral geniculate bodies. Impulses then pass to the pre-tectal nucleus and then to the parasympathetic nuclei of the IIIrd cranial nerves, causing pupillary constriction.
+
+• Holmes–Adie (myotonic) pupil: The affected pupil is normally moderately dilated and is poorly reactive to light, if at all. It is slowly reactive to accommodation; wait and watch carefully: it may eventually constrict more than a normal pupil. It is often associated with diminished or absent ankle and knee reflexes, in which case the Holmes–Adie syndrome is present. Usually a benign incidental finding. Rare causes: Lyme disease, syphilis, parvovirus B19, HSV, autoimmunity. ♂>♀.
+• Argyll Robertson pupil: This occurs in neurosyphilis. The pupil is constricted and unreactive to light, but reacts to accommodation. Other possible causes: Lyme disease; HIV;77 zoster; diabetes mellitus; sarcoidosis;78 MS; paraneoplastic; B12↓.79 The iris may be patchily atrophied, irregular, and depigmented. The lesion site is not always near the Edinger–Westphal nucleus or even in the midbrain.80 Pseudo-Argyll Robertson pupils occur in Parinaud’s syndrome (p722).
+• Hutchinson pupil: This is the sequence of events resulting from rapidly rising unilateral intracranial pressure (eg in intracerebral haemorrhage). The pupil on the side of the lesion first constricts then widely dilates. The other pupil then goes through the same sequence. See p840.
+
+Fig 2. Light reflex. Action potentials go along optic nerve (red), traversing optic chiasm, passing synapses at pre-tectal nucleus, en route to Edinger–Westphal nuclei of CNIII. These send fibres to both irises’ ciliary muscles (so both pupils constrict) via ciliary ganglion (also relays accommodation and corneal sensation, and gets sympathetic roots from C8–T2, carrying fibres to dilate pupil).
+
+Diagram labels: To occipital cortex; Pre-tectal nucleus; Lateral geniculate body; Edinger–Westphal nucleus; Chiasm; Midbrain; Ciliary ganglion; Reflex constriction; Light.
+
+
+80
+
+Speech and higher mental function
+Have mercy on those with dysphasia: it is one of the most debilitating neurological conditions, and the more frustrating when cognitive function is intact.
+
+Dysphasia (Impairment of language caused by brain damage)
+
+Assessment:
+1 If speech is fluent, grammatical and meaningful, dysphasia is unlikely.
+2 Comprehension: Can the patient follow one, two, and several step commands? (touch your ear, stand up, then close the door).
+3 Repetition: Can the patient repeat a sentence?
+4 Naming: Can they name common and uncommon things (eg parts of a watch)?
+5 Reading and writing: Normal? They are usually affected like speech in dysphasia. If normal, the patient is unlikely to be aphasic—could they be mute?
+
+Classification:
+• Broca’s (expressive) anterior dysphasia: Non-fluent speech produced with effort and frustration with malformed words, eg ‘spoot’ for ‘spoon’ (or ‘that thing’). Reading and writing are impaired but comprehension is relatively intact. Patients understand questions and attempt to convey meaningful answers. Site of lesion: infero-lateral dominant frontal lobe (see BOX).
+• Wernicke’s (receptive) posterior dysphasia: Empty, fluent speech, like talking ragtime with phonemic (‘flush’ for ‘brush’) and semantic (‘comb’ for ‘brush’) paraphasias/neologisms (may be mistaken for psychotic speech). The patient is oblivious of errors. Reading, writing, and comprehension are impaired (replies are inappropriate). Site of lesion: posterior superior dominant temporal lobe.
+• Conduction aphasia: (Traffic between Broca’s and Wernicke’s area is interrupted.) Repetition is impaired; comprehension and fluency less so.
+• Nominal dysphasia: Naming is affected in all dysphasias, but in nominal dysphasia, objects cannot be named but other aspects of speech are normal. This occurs with posterior dominant temporoparietal lesions.
+
+Mixed dysphasias are common. Discriminating features take time to emerge after an acute brain injury. Speech therapy is important, but may not help.
+
+Dysarthria
+Difficulty with articulation due to incoordination or weakness of the musculature of speech. Language is normal (see above).
+• Assessment: Ask to repeat ‘British constitution’ or ‘baby hippopotamus’.
+• Cerebellar disease: Ataxia speech muscles cause slurring (as if drunk) and speech irregular in volume and staccato in quality (see MINIBOX).
+• Extrapyramidal disease: Soft, indistinct, and monotonous speech.
+• Pseudobulbar palsy: (p511) Spastic dysarthria (upper motor neuron). Speech is slow, indistinct, nasal and effortful (‘hot potato’ voice from bilateral hemispheric lesions, MND (p510), or severe MS).
+• Bulbar palsy: Lower motor neuron (eg facial nerve palsy, Guillain–Barré, MND, p510)—any associated palatal paralysis gives speech a nasal character.
+
+Dysphonia
+Difficulty with speech volume due to weakness of respiratory muscles or vocal cords (myasthenia, p516; Guillain–Barré syndrome, p716). It may be precipitated in myasthenia by asking the patient to count to 100. Parkinson’s gives a mixed picture of dysarthria and dysphonia.
+
+Dyspraxia
+Poor performance of complex movements despite ability to do each individual component. Test by asking the patient to copy unfamiliar hand positions, or mime an object’s use, eg a comb. The term ‘dyspraxia’ is used in 3 other ways:
+• Dressing dyspraxia: The patient is unsure of the orientation of clothes on his body. Test by pulling one sleeve of a sweater inside out before asking the patient to put it back on (mostly non-dominant hemisphere lesions).
+• Constructional dyspraxia: Difficulty in assembling objects or drawing, eg a 5-pointed star (non-dominant hemisphere lesions, hepatic encephalopathy).
+• Gait dyspraxia: More common in the elderly; seen with bilateral frontal lesions, lesions in the posterior temporal region, and hydrocephalus.

@@ -1,0 +1,353 @@
+[Page 81]
+Assessing higher mental function: a practical guide
+
+Start by having a conversation with the patient, asking questions they need to phrase an answer to (ie not just yes/no) as this tests fluency and reception, understanding, and allows assessment of articulation. Eg How did you travel here today? I came by bus. Then assess dysphasia by asking: What is this eg pen (tests for nominal dysphasia), repeat British Constitution (tests for conduction dysphasia and dysarthria). Then ask patient to follow one, two and three step commands ensuring these ‘cross the midline’ eg make a fist with your right hand then extend your right index finger and touch your left ear.
+
+Problems with classifying dysphasias
+
+The classical model of language comprehension occurring in Wernicke’s area and language expression in Broca’s area is too simple. Functional MRI studies show old ideas that processing of abstract words is confined to the left hemisphere whereas concrete words are processed on the right are too simplistic.¹ It may be better to think of a mosaic of language centres in the brain with more or less specialized functions. There is evidence that tool-naming is handled differently and in a different area to fruit-naming.⁸¹ There are also individual differences in the anatomy of these mosaics.⁸² This is depressing for those who want a rigid classification of aphasia, but a source of hope to those who have had a stroke: recovery may be better than neuroimaging leads us to believe.⁸³
+
+Symptoms of movement disorders
+
+Athetosis is due to a lesion in the putamen, causing slow sinuous writhing movements in the hands, which are present at rest. Pseudoathetosis refers to athetoid movements in patients with severe proprioceptive loss.
+
+Chorea means dance (hence ‘choreography’)—a flow of jerky movements, flitting from one limb to another (each seemingly a fragment of a normal movement). Distinguish from athetosis/pseudoathetosis (above), and hemiballismus (p472). Causes: basal ganglia lesion (stroke, Huntington’s, p716); streptococci (Sydenham’s chorea; St Vitus’ dance, p136); SLE (p556); Wilson’s (p269); neonatal kernicterus; polycythaemia (p360); neuroacanthocytosis (genetic, with acanthocytes in peripheral blood, chorea, oro-facial dyskinesia, and axonal neuropathy); hyperthyroidism (p210); drugs (levodopa, oral contraceptives/HRT, chlorpromazine, cocaine—‘crack dancing’). The early stages of chorea may be detected by feeling fluctuations in muscle tension while the patient grips your finger. Dopamine antagonists, eg tetrabenazine 12.5mg/12h (/24h if elderly) PO; increase, eg to 25mg/8h PO; max 200mg/d.
+
+Hemiballismus is uncontrolled unilateral flailing movements of proximal limb joints caused by contralateral subthalamic lesions. See p472.
+
+Cerebellar signs
+
+• Speech: Slurred/ataxic/staccato
+• Eye movements: Nystagmus
+• Tone and power: Hypotonia and reduced power
+• Coordination: Finger-to-nose test; test for dysdiadochokinesis, p503
+• Gait: Broad based, patients fall to the side of the lesion. Romberg’s test: ask patient to stand with eyes closed. If he loses balance, the test is positive and a sign of posterior column disease. Cerebellar disease is Romberg negative.
+
+(Remember DASHING: Dysdiadochokinesis, Ataxia, Slurred speech, Hypotonia and reduced power, Intention tremor, Nystagmus, broad based Gait).
+
+¹ While abstract words activate a sub-region of the left inferior frontal gyrus more strongly than concrete words, specific activity for concrete words can also be observed in the left basal temporal cortex.
+
+
+[Page 82]
+Psychiatric assessment
+
+Introduce yourself, ask a few factual questions (precise name, age, job, and who is at home). These may help your patient to relax, but be careful that you do not touch on a nerve, eg if job recently lost, marriage recently ended so living alone.
+
+Presenting problem Ask for the main problems that have led to this consultation. Sit back and listen. Don’t worry whether the information is in a convenient form or not—this is an opportunity for the patient to come out with worries, ideas, and preoccupations unsullied by your expectations. After >3–5min it is often good to aim to have a list of all the problems (each sketched only briefly). Read them back to the patient and ask if there are any more. Then ask about:
+
+History of presenting problem For each problem obtain details, both current state and history of onset, precipitating factors, and effects on life.
+
+Check of major psychiatric symptoms Check those that have not yet been covered: depression—low mood, anhedonia (inability to feel pleasure), thoughts of worthlessness/hopelessness, sleep disturbance with early morning waking, loss of weight and appetite. Ask specifically about suicidal thoughts and plans: “Have you ever been so low that you thought of harming yourself?”, “What thoughts have you had?” Hallucinations (“Have you ever heard voices or seen things when there hasn’t been anyone or anything there?”) and delusions (“Have you ever had any thoughts or beliefs that have struck you afterwards as bizarre?”); anxiety and avoidance behaviour (eg avoiding shopping because of anxiety or phobias); obsessional thoughts and compulsive behaviour, eating disorders, alcohol (see p283 for alcohol screening tests) and other drugs.
+
+Present circumstances Housing, finance, work, relationships, friends.
+
+Family history Ask about health, personality, and occupation of parents and siblings, and the family’s medical and psychiatric history.
+
+Background history Try to understand the context of the presenting problem.
+• Biography: relationships with family and peers as a child; school and work record; sexual relationships and current relationships; and family. Previous ways of dealing with stress and whether there have been problems and symptoms similar to the presenting ones.
+• Premorbid personality: mood, character, hobbies, attitudes, and beliefs.
+
+Past medical and psychiatric history
+
+Mental state examination This is the state now, at the time of interview.
+• Appearance: Clothing, glasses, headwear? Unkempt/normal/meticulous?
+• Observable behaviour: Eg excessive slowness, signs of anxiety, gesture, gaze or avoiding gaze, tears, laughter, pauses (while listening to voices?), attitude (eg withdrawn).
+• Mode of speech: Include the rate of speech, eg retarded or gabbling (pressure of speech). Note its content. Flight of ideas? Knight’s move thinking? (See BOX)
+• Mood: Note thoughts about harming self or others. Gauge your own responses to the patient. The laughter and grand ideas of manic patients are contagious, as to a lesser extent is the expression of thoughts from a depressed person.
+• Beliefs: Eg about himself, his own body, about other people, and the future. Note abnormal beliefs (delusions), eg that thoughts are overheard, and abnormal ideas (eg persecutory, grandiose).
+• Unusual experiences or hallucinations: Note modality, eg visual, auditory.
+• Orientation: In time, place, and person. What is the date? What time of day is it? Where are you? What is your name?
+• Short-term memory: Give a name and address and test recall after 5min. Make sure that he has got the address clear in his head before waiting the 5min.
+• Long-term memory: Current affairs recall. Name of current political leaders (p70 & p85). This tests many other CNS functions, not just memory.
+• Concentration: Months of the year backwards.
+• Note the degree of your rapport and the patient’s insight into his current state.
+
+
+[Page 83]
+Psychiatric symptoms
+
+There are many different ways to think about psychiatric symptoms. One simple approach can be to consider negative and positive symptoms. Negative symptoms involve the absence of a behaviour, thought, feeling or sensation (eg lack of appetite, apathy, and blunted emotions in depression), whereas positive symptoms involve their presence when not normally expected (eg thought insertion, ie “Someone is putting thoughts into my head”). Understanding the difference between psychosis and neurosis is vital. Psychosis entails a thought disorder (eg thought insertion, thought broadcasting) ± delusions (abnormal beliefs which are held to despite all reasoning, and which run counter to the patient’s cultural background) and abnormal perceptions (eg hallucinations). Neurosis entails insight—if there are intrusive ideas or odd experiential phenomena, the person knows that they are false or illusory (and may be triggered by stress, etc.).
+
+Interesting abnormalities of speech include flight of ideas, in which the speech races through themes, switching whimsically or through associations, eg ‘clang’ association: “Yesterday I went down to the local shop. I didn’t hop (clang), but I walked. Kangaroos hop, don’t they? My friend Joey wasn’t there, though …”. Knight’s move is an unexpected change in the direction of speech or conversation (akin to the lateral component of the move of the knight’s piece in chess) and neologism is the formation of new words. They may be normal or indicate an organic brain condition or a psychosis.
+
+Many psychiatric symptoms in isolation, to a lesser degree of severity, or even in a different culture, may well be considered part of ‘normal’ behaviour. For example, a vision from a religious figure may be considered normal, whereas one from an alien may not. Consider your patient in their cultural and religious context. As with so many aspects of medicine, in psychiatry there is a vast spectrum of behaviour, thought and perception, at least one extreme of which is considered to be ‘abnormal’. It is in part our challenge to attempt to interpret these symptoms with relevance, insight and impartiality so that we may best benefit our patients and not form opinions that are set in stone. On acute medical wards psychiatric symptoms are often due to stress, drug or alcohol withdrawal, U&E imbalance, or medication. When in doubt, ask a psychiatrist to help.
+
+Beware of simplistic formulations, eg If you talk to God, you are praying. If God talks to you, you have schizophrenia (Dr Thomas Szasz). It is not the auditory phenomenon that makes the diagnosis of psychosis: what matters is what the patient believes about the phenomenon, and whether they are associated with a thought disorder or a delusion.
+
+
+[Page 84]
+Method and order for routine examination
+
+1. Look at the patient. Healthy, unwell, or in extremis? This vital skill improves with practice. Beware those who are sicker than they look, eg cardiogenic shock; cord compression; non-accidental injury.
+2. Pulse, BP, O₂ sats, T°.
+3. Examine nails, hands, conjunctivae (anaemia), and sclerae (jaundice). Consider: Paget’s, acromegaly, endocrine disease (thyroid, pituitary, or adrenal hypo- or hyper-function), body hair, abnormal pigmentation, skin.
+4. Examine mouth and tongue (cyanosed; smooth; furred; beefy, eg rhomboid area denuded of papillae by Candida, after prolonged steroid inhaler use).
+5. Examine the neck from behind: lymph nodes, goitre.
+6. Make sure the patient is at 45° to begin CVS examination in the neck: JVP; feel for character and volume of carotid pulse.
+7. The praecordium. Look for abnormal pulsations. Feel the apex beat (character; position). Any parasternal heave or thrill? Auscultate (bell and diaphragm) apex in the left lateral position, then the other 3 areas (p39) and carotids. Sit the patient forward: listen during expiration.
+8. Whilst sitting forward, look for sacral oedema.
+9. Begin the respiratory examination with the patient at 90°. Observe (and count) respirations; note posterior chest wall movement. Assess expansion, then percuss and auscultate the chest.
+10. Sit the patient back. Feel the trachea. Inspect again. Assess expansion of the anterior chest. Percuss and auscultate again.
+11. Examine axillae and breasts, if indicated (+chaperone for all intimate examinations).
+12. Lie patient flat (1 pillow) to inspect, palpate, percuss, and auscultate abdomen.
+13. Look at the legs: any swellings, perfusion, pulses, or oedema?
+14. CNS exam: Cranial nerves: pupil responses; fundi; visual fields; visual acuity. Consider corneal reflexes. “Open your mouth; stick your tongue out; screw up your eyes; show me your teeth; raise your eyebrows.” Limbs (most signs are due to central not peripheral nerve lesions): Look for wasting and fasciculation. Test tone in all limbs. “Hold your hands out with your palms towards the ceiling and fingers wide. Now shut your eyes.” Watch for pronator drift. “Keep your eyes shut and touch your nose with each index finger.” “Lift your leg straight in the air. Keep it there. Put your heel on the opposite knee (eyes shut) and run it up your own shin.” You have now tested power, coordination, and joint position sense. Tuning fork on toes and index fingers to assess vibration sense.
+15. Examine gait and speech. Any abnormalities of higher mental function to pursue?
+16. Consider rectal and vaginal examination.
+17. Examine the urine with dipstick if appropriate (p383).
+
+In general, go into detail where you find (or suspect) something to be wrong.
+
+So now we have a template for the all-important history and examination, but it is no more than a rough guide, you must flesh it out with your own learning. We start out nervous of missing some question or sign, but what we should really be nervous about is losing our humanity in the hurly-burly of a time-pressed interview. Here is how one student put some flesh on the bones—for a man in a wheelchair: she asked all about the presenting complaint, and how it fitted in with his CNS condition and life at home—and then found out that his daughter had had a nervous breakdown at the start of his illness, 5 years ago. “How is she now?” she asked “Fine—I’ve got two lovely grandchildren…Jim is just learning to walk…” “Oh…you must be so busy!” the student said with a joyful smile. This man had not been busy for 5 years, and was fed up with his passive dependency. The thought of being busy again made his face light up—and when the student left he rose up out of his wheelchair to shake her by the hand, a movement we doctors thought was impossible. Jim and his grandfather were learning to walk, but this student was up and running—far ahead of her teachers.
+
+
+[Page 85]
+The TYM (Test Your Memory) test
+
+Please write your full name [2]
+
+Today is ………………day [1]
+
+Today’s date is the:
+…… of …… (month) 20… [3]
+
+How old are you? ……… years [1]
+
+On what date were you born?
+………/……… (month) / 19… … [3]
+
+Please copy the following sentence [2]
+Good citizens always wear stout shoes
+
+Please read the sentence again and try to remember it.
+
+Who is the Prime Minister? [2]
+……..…………… …………..………
+
+What year did the 1st World War start? [1]
+…………
+
+Sums [4]
+20 – 4 = …… 8 ≈ 6 = ………
+16 + 17 = …… 5 + 15 – 17 = ………
+
+Please list 4 creatures beginning with ‘S’ (eg Shark) [4]
+1. S………….…………
+2. S………….…………
+3. S………….…………
+4. S………….…………
+
+Why is a carrot like a potato? [2]
+………………..……………………………
+
+Why is a lion like a wolf? [2]
+…………………………………………………
+
+Remember:
+Good citizens always wear stout shoes
+
+Please name these items: [5]
+
+Please join the circles together to form a letter. [3]
+
+Please draw in a clock face, put in the numbers 1 – 12, and put the hands at 9:20.
+
+Without turning the page, please write down the sentence you copied earlier. [5]
+……………………………………………………
+……..……………………………………………
+
+For the TYM tester: help given? [5]
+None 5/trial 4/minor 3/moderate 2/major 1
+max score 50
+
+©Dr Jeremy Brown. BMJ 2009;338:b2030
+www.bmj.com/cgi/data/bmj.b2030/dc1/1
+
+( fold here )
+
+In one preliminary study,¹ the controls’ average score was 47/50. Those with Alzheimer’s disease (AD) scored an average of 33/50. The TYM score correlates highly with other standard tests, but, uniquely, it is quick and can be self-administered. A score of <42/50 had a sensitivity of 93% and specificity of 86% for AD. TYM is more sensitive at detecting AD than the mini-mental exam (MMSE), detecting 93% of patients compared with 52% for MMSE. Negative and positive predictive values (p674) of TYM with a cut-off of 42 were 99% and 42% (if prevalence of AD is 10%). If non-Alzheimer dementia, score was 39/50 (mean). This new test should not make any diagnosis—but it may suggest when further referral might help.
+
+Animals beginning with ‘S’: ‘Shark’ and mythical creatures not allowed. Carrot/potato: Reasonable but less precise answer than “…vegetables…”, eg “food”, scores 1 point. 2 such statements score 2, eg “grows in ground…fierce” or “…food…4 legs…” scores 2 in total. Jacket-naming: Answers are collar, lapel, tie, pocket, button. 1 point each. Shirt is acceptable for item 1; jacket or blazer is OK for 2 or 4 (but not both). Circles task: 1 point if all circles joined even if not a letter W. Clockface: All numbers OK 1; correct number position 1; correct hands 1. Sentence: 1 point for each word remembered up to a maximum of 5.
+
+¹ TYM for detection of Alzheimer’s disease: cross sectional study. Brown J, Dawson K, Pengas G 2009 BMJ 338 1426.
+
+
+[Page 86]
+3 Cardiovascular medicine
+
+Contents
+
+Cardiovascular health 87
+
+At the bedside (see 34):
+Cardiovascular symptoms 88
+
+Investigations:
+ECG—a methodical approach 90
+ECG—abnormalities 92
+ECG—additional points 94
+Exercise ECG testing 102
+Ambulatory ECG monitoring 102
+Cardiac catheterization 104
+Echocardiography 106
+
+Drugs and the heart:
+Cardiovascular drugs 108
+Statins 109
+How to start ACE-inhibitors 109
+
+Diseases and conditions:
+Angina pectoris 110
+Acute coronary syndromes (ACS) 112
+Management of ACS 114
+Complications of MI 116
+Arrhythmias 118
+Bradycardia 119
+Narrow complex tachycardia 120
+Broad complex tachycardia 122
+Atrial fibrillation and flutter 124
+Pacemakers 126
+Heart failure—basic concepts 128
+Heart failure—management 130
+Hypertension 132
+Hypertension—management 134
+Rheumatic fever 136
+Mitral valve disease 138
+Aortic valve disease 140
+Right heart valve disease 142
+Cardiac surgery 142
+The heart in various, mostly rare, systemic diseases 143
+Infective endocarditis (IE) 144
+Diseases of heart muscle 146
+Pericardial diseases 148
+Congenital heart disease: Fallot’s tetralogy, etc. 150
+Driving and the heart 152
+
+Other relevant pages: Emergencies: MI (p808); pulmonary oedema (p812); cardiac shock (p814); broad & narrow complex tachycardias (p816 & p818); cardiac arrest: see inside back cover. CVS examination (p38); carotid bruit (p38); cyanosis (p28); dyspnoea (p49); haemoptysis (p49); oedema (p29); palpitations (p35); aneurysms (p656); dyslipidaemia (p704); risk factor analysis (p664); nuclear cardiology et al (p754).
+
+Fig 1. Stephen Hales (1677–1761) A clergyman and scientist, most famous for his work on the circulation of plants and animals, and campaigned against the gin trade. In 1733 he was the first person to measure blood pressure, by inserting a brass cannula attached to a long glass tube into the carotid artery of a horse, and noting that the blood rose up the tube to a height of 8 feet 3 inches (186mmHg). He later repeated the experiment in a range of animals, and roughly estimated the pressure in man. However, it took until the early 20th Century before a simple non-invasive method was introduced for measuring blood pressure—the mercury sphygmomanometer; and even longer before the importance of elevated blood pressure was recognized.
+
+We thank Dr Anna Kydd, our Specialist Reader, and Dr Mark Cassar, our Junior Reader, for their contribution to this chapter.
+
+
+[Page 87]
+Cardiovascular health
+
+Ischaemic heart disease (IHD) is the most common cause of death worldwide. Encouraging cardiovascular health is not only about preventing IHD: health entails the ability to exercise, and enjoying vigorous activity (within reason!) is one of the best ways of achieving health, not just because the heart likes it (BP↑, ‘good’ high-density lipoprotein, HDL↑)—it can prevent osteoporosis, improve glucose tolerance, and augment immune function (eg in cancer and if HIV+ve). People who improve and maintain their fitness live longer: age-adjusted mortality from all causes is reduced by >40%. Avoiding obesity helps too, but weight loss per se is only useful in reducing cardiovascular risk and the risk of developing diabetes when combined with regular exercise. Moderate alcohol drinking may also promote cardiovascular health.
+
+Smoking is the chief risk factor for cardiovascular mortality. You can help people give up, and giving up does undo much of the harm of smoking. Simple advice works. Most smokers want to give up (unlike eaters of unhealthy diets who are mostly wedded to them by habit and the pleasures of the palate). Just because smoking advice does not always work, do not stop giving it. Ask about smoking in consultations—especially those concerned with smoking-related diseases.
+• Ensure advice is congruent with the patient’s beliefs about smoking.
+• Getting patients to enumerate the advantages of giving up increases motivation.
+• Invite the patient to choose a date (when there will be few stresses) on which he or she will become a non-smoker.
+• Suggest throwing away all accessories (cigarettes, pipes, ash trays, lighters, matches) in advance; inform friends of the new change; practise saying ‘no’ to their offers of ‘just one little cigarette’.
+• Nicotine gum, chewed intermittently to limit nicotine release: ≥ ten 2mg sticks may be needed/day. Transdermal nicotine patches may be easier. A dose increase at 1wk can help. Written advice offers no added benefit to advice from nurses. Always offer follow-up.
+• Varenicline is an oral selective nicotine receptor partial agonist. Start 1wk before target stop date: initially 0.5mg/24h PO for 3 days, then 0.5mg/12h for 4 days, then 1mg/12h for 11wks (↓ to 0.5mg/12h if not tolerated). SEs: appetite change; dry mouth; taste disturbance; headache; drowsiness; dizziness; sleep disorders; abnormal dreams; depression; suicidal thoughts; panic; dysarthria.
+• Bupropion (=amfebutamone, p455) is said to ↑ quit rate to 30% at 1yr vs 16% with patches and 15.6% for placebo (patches + bupropion: 35.5%): consider if the above fails. Dose: 150mg/24h PO (while still smoking; quit within 2wks); dose may be twice daily from day 7; stop after 7–9wks. Warn of SEs: Seizures (risk <1 : 1000), insomnia, headache.
+
+Lipids and BP (p704 & p132) are the other major modifiable risk factors. To calculate how risk factors interact, see risk equation, p664—and its caveats. NICE recommends a Framingham score with risk multiplied by 1.4 for South Asian men, but this doesn’t cater for:
+• Asian diversity (eg multiply by 1.7 in Bangladeshi men)
+• Asian women
+• Deprivation effects
+• Double-counting problems if adjustment is made for ethnicity and family history.
+
+QRISK2 is better in UK patients.²
+
+Apply preventive measures such as healthy eating (p236) early in life to maximize impact, when there are most years to save, and before bad habits get ingrained.
+
+The randomized trial
+
+Cardiovascular medicine has an unrivalled treasure house of randomized trials. One of the chief pleasures of cardiovascular medicine lies in integrating these with clinical reasoning in a humane way. After a cardiac event, a protocol may ‘mandate’ statins, aspirin, β-blockers, ACE-i (p109), and a target BP and LDL cholesterol that makes your patient feel dreadful. What to do? Inform, negotiate, and compromise. Never reject your patient because of lack of compliance with your over-exacting regimens. Keep smiling, keep communicating, and keep up-to-date: the latest data may show that your patient was right all along.³
+
+
+[Page 88]
+Cardiovascular symptoms
+
+Chest pain Beware: Cardiac-sounding chest pain may have no serious cause, but always think “Could this be a myocardial infarction (MI), dissecting aortic aneurysm, pericarditis, or pulmonary embolism?”
+
+Character: Constricting suggests angina, oesophageal spasm, or anxiety; a sharp pain may be from the pleura or pericardium. A prolonged (>½h), dull, central crushing pain or pressure suggests MI.
+
+Radiation: To shoulder, either or both arms, or neck/jaw suggests cardiac ischaemia. The pain of aortic dissection (p656) is classically instantaneous, tearing, and interscapular, but may be retrosternal. Epigastric pain may be cardiac.
+
+Precipitants: Pain associated with cold, exercise, palpitations, or emotion suggests cardiac pain or anxiety; if brought on by food, lying flat, hot drinks, or alcohol, consider oesophageal spasm/disease (but meals can cause angina).
+
+Relieving factors: If pain is relieved within minutes by rest or glyceryl trinitrate (GTN), suspect angina (GTN relieves oesophageal spasm more slowly). If antacids help, suspect GI causes. Pericarditic pain improves on leaning forward.
+
+Associations: Dyspnoea occurs with cardiac pain, pulmonary emboli, pleurisy, or anxiety. MI may cause nausea, vomiting, or sweating. Angina is caused by coronary artery disease—and also by aortic stenosis, hypertrophic cardiomyopathy (HCM), paroxysmal supraventricular tachycardia (SVT)—and can be exacerbated by anaemia. Chest pain with tenderness suggests self-limiting Tietze’s syndrome.¹
+
+Pleuritic pain (ie exacerbated by inspiration) implies inflammation of the pleura from pulmonary infection, inflammation, or infarction. It causes us to ‘catch our breath’. Musculoskeletal pain; fractured rib (pain on respiration, exacerbated by gentle pressure on the sternum); subdiaphragmatic pathology (eg gallstones).
+
+Acutely ill patients:
+• Admit to hospital
+• Check pulse, BP in both arms (unequal in aortic dissection p656), JVP, heart sounds; examine legs for DVT
+• Give O₂ by mask
+• IV line
+• Relieve pain (eg morphine 5–10mg IV slowly (2mg/min) + an antiemetic)
+• Cardiac monitor
+• 12-lead ECG
+• CXR
+• Arterial blood gas (ABG)
+
+Famous traps: Aortic dissection; zoster (p400); ruptured oesophagus; cardiac tamponade (shock with JVP↑); opiate addiction.
+
+Dyspnoea may be from LVF, pulmonary embolism, any respiratory cause, or anxiety.
+
+Severity: Emergency presentations: p796. Ask about shortness of breath at rest or on exertion, exercise tolerance, and in daily tasks. Is it episodic and triggered by lying flat (PND, p49)?
+
+Associations: Specific symptoms associated with heart failure are orthopnoea (ask about number of pillows used at night), paroxysmal nocturnal dyspnoea (waking up at night gasping for breath), and peripheral oedema. Pulmonary embolism is associated with acute onset of dyspnoea and pleuritic chest pain; ask about risk factors for DVT.
+
+Palpitation(s) may be due to ectopics, AF, SVT and ventricular tachycardia (VT), thyrotoxicosis, anxiety, and rarely phaeochromocytoma. See p35. History: Ask about previous episodes, precipitating/relieving factors, duration of symptoms, associated chest pain, dyspnoea, or dizziness. Did the patient check his pulse?
+
+Syncope may reflect cardiac or CNS events. Vasovagal ‘faints’ are common (pulse↓, pupils dilated). The history from an observer is invaluable in diagnosis. Prodromal symptoms: Chest pain, palpitations, or dyspnoea point to a cardiac cause, eg arrhythmia. Aura, headache, dysarthria, and limb weakness indicate CNS causes.
+
+During the episode: Was there a pulse? Limb jerking, tongue biting, or urinary incontinence? NB: hypoxia from lack of cerebral perfusion may cause seizures.
+
+Recovery: Was this rapid (arrhythmia) or prolonged, with drowsiness (seizure)?
+
+¹ 25% of non-cardiac chest pain is musculoskeletal: look for pain on specific postures or activity. Aim to reproduce the pain by movement and, sometimes, palpation over the structure causing it. Focal injection of local anaesthetic helps diagnostically and is therapeutic. Tietze’s syndrome: self-limiting costochondritis ± costosternal joint swelling. Causes: idiopathic; microtrauma; infection; psoriatic/rheumatoid arthritis. Treatment: NSAIDS or steroid injections. Tenderness is also caused by: fibrositis, lymphoma, chondrosarcoma, myeloma, metastases, rib TB. Imaging: bone scintigraphy; CT.
+
+
+[Page 89]
+How patients communicate ischaemic cardiac sensations
+
+On emergency wards we are always hearing questions such as “Is your pain sharp or dull?”, followed by an equivocal answer. The doctor goes on “Sharp like a knife—or dull and crushing?” The doctor is getting irritated because the patient must know the answer but is not saying it. A true story paves the way to being less inquisitorial and having a more creative understanding of the nature of symptoms.
+
+A patient came to one of us (JML) saying “Last night I dreamed I had a pain in my chest. Now I’ve woken up, and I’m not sure—have I got chest pain, doctor? What do you think?” How odd it is to find oneself examining a patient to exclude a symptom, not a disease. (It turned out that she did have serious chest pathology.) Odd, until one realizes that symptoms are often half-formed, and it is our role to give them a local habitation and a name. Dialogue can transform a symptom from ‘airy nothingness’ to a fact.¹ Patients often avoid using the word ‘pain’ to describe ischaemia: ‘wind’, ‘tightening’, ‘pressure’, ‘burning’, or ‘a lump in the throat’ (angina means to choke) may be used. He may say “sharp” to communicate severity, and not character. So be as vague in your questioning as your patient is in his answers. “Tell me some more about what you are feeling (long pause) … as if someone was doing what to you?” “Sitting on me” or “like a hotness” might be the response (suggesting cardiac ischaemia). Do not ask “Does it go into your left arm”. Try “Is there anything else about it?” (pause) … “Does it go anywhere?” Note down your patient’s exact words.
+
+Note also non-verbal clues: the clenched fist placed over the sternum is a telling feature of cardiac pain (Levine-sign positive).
+
+A good history, taking account of these features, is the best way to stratify patients likely to have cardiac pain. If the history is non-specific, and there are no risk factors for cardiovascular diseases, and ECG and plasma troponin T (p112) are normal (<0.2μg/L) 6–12h after the onset of pain, discharge will probably be OK. When in doubt, get help. Features making cardiac pain unlikely:
+• Stabbing, shooting pain.
+• Pain lasting <30s, however intense.
+• Well-localized, left sub-mammary pain (“In my heart, doctor”).
+• Pains of continually varying location.
+• Youth.
+
+Do not feel that you must diagnose every pain. Chest pain with no cause is common, even after extensive tests. Do not reject these patients: explain your findings to them. Some have a ‘chronic pain syndrome’ which responds to a tricyclic, eg imipramine 50mg at night (this dose does not imply any depression). It is similar to post-herpetic neuralgia.
+
+¹ Dialogue-transformed symptoms explain one of the junior doctor’s main vexations: when patients retell symptoms to a consultant in the light of day, they bear no resemblance to what you originally heard. But do not be vexed: your dialogue may have helped the patient far more than any ward round.
+
+
+[Page 90]
+ECG—a methodical approach
+
+First confirm the patient’s name and age, and the ECG date. Then (see fig 1):
+
+• Rate: At usual speed (25mm/s) each ‘big square’ is 0.2s; each ‘small square’ is 0.04s. To calculate the rate, divide 300 by the number of big squares per R–R interval (p91).
+
+• Rhythm: If cycles are not clearly regular, use the ‘card method’: lay a card along ECG, marking positions of 3 successive R waves. Slide the card to and fro to check that all intervals are equal. If not, note if: slight but regular lengthening and then shortening (with respiration)—sinus arrhythmia common in the young; are different rates multiples of each other—varying block; or is 100% irregular—atrial fibrillation (AF) or ventricular fibrillation (VF)? Sinus rhythm is characterized by a P wave (upright in II, III, & aVF; inverted in aVR) followed by a QRS complex. AF has no discernible P waves and QRS complexes are irregularly irregular. Atrial flutter (p125, fig 1 p119) has a ‘sawtooth’ baseline of atrial depolarization (~300/min) and regular QRS complexes. Nodal rhythm has a normal QRS complex but P waves are absent or occur just before or within QRS complexes. Ventricular rhythm has QRS complexes >0.12s with P waves following them (ECG 6, p100).
+
+• Axis: The mean frontal axis is the sum of all the ventricular forces during ventricular depolarization. The axis lies at 90° to the isoelectric complex (ie the one in which positive and negative deflections are equal). See BOX 2. Normal axis is between –30° and +90°. As a simple rule of thumb, if the complexes in leads I and II are both ‘positive’, the axis is normal. Left axis deviation (LAD) is –30° to –90°. Causes: LVH, left anterior hemiblock, inferior MI, VT from LV focus, Wolff–Parkinson–White (WPW) syndrome (some types). Right axis deviation (RAD) is +90° to +180°. Causes: RVH, PE, anterolateral MI, left posterior hemiblock (rare), WPW syndrome (some types). See BOX 3.
+
+• P wave: Normally precedes each QRS complex, and upright in II, III, & aVF but inverted in aVR. Absent P wave: AF, sinoatrial block, junctional (AV nodal) rhythm. Dissociation between P waves and QRS complexes indicates complete heart block. P mitrale: bifid P wave, indicates left atrial hypertrophy. P pulmonale: peaked P wave, indicates right atrial hypertrophy. Pseudo-P-pulmonale seen if K+↓.
+
+• PR interval: Measure from start of P wave to start of QRS. Normal range: 0.12–0.2s (3–5 small squares). A prolonged PR interval implies delayed AV conduction (1st degree heart block). A short PR interval implies unusually fast AV conduction down an accessory pathway, eg WPW p120 (see fig 1, p125).
+
+• QRS complex: Normal duration: <0.12s. If ≥0.12s this suggests ventricular conduction defects, eg a bundle branch block (p94 & p119). Large QRS complexes suggest ventricular hypertrophy (p94). Normal Q wave <0.04s wide and <2mm deep. They are often seen in leads V5 and V6, aVL and I, and reflect normal septal depolarization, which usually occurs from left to right. Pathological Q waves may occur within a few hours of an acute MI.
+
+• QT interval: Measure from start of QRS to end of T wave. It varies with rate. Calculate corrected QT interval (QTc) by dividing the measured QT interval by the square root of the cycle length, ie QTc = QT/√RR. Normal QTc: 0.38–0.42s. Prolonged QT interval: acute myocardial ischaemia, myocarditis, bradycardia (eg AV block), head injury, hypothermia, U&E imbalance (K+↓, Ca2+↓, Mg2+↓), congenital (Romano–Ward and Jervell–Lange–Nielson syndromes, p724); sotalol, quinidine, antihistamines, macrolides (eg erythromycin), amiodarone, phenothiazines, tricyclics.
+
+• ST segment: Usually isoelectric. Planar elevation (>1mm) or depression (>0.5mm) usually implies infarction (p113, ECGS 3&4, p97–8) or ischaemia (p103), respectively.
+
+• T wave: Normally inverted in aVR, V1 and occasionally V2. Abnormal if inverted in I, II, and V4–V6. Peaked in hyperkalaemia (ECG 9, p689) and flattened in hypokalaemia.
+
+• J wave see p861. Seen in hypothermia, subarachnoid haemorrhage and hypercalcaemia.
