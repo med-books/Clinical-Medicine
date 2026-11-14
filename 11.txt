@@ -1,0 +1,273 @@
+[Page 101]
+ECG 7—Dual chamber pacemaker. Pacing spikes occur before some of the P waves, and the QRS complexes.
+
+
+[Page 102]
+Exercise ECG testing
+
+The patient undergoes a graduated, treadmill exercise test, with continuous 12-lead ECG (fig 1) and blood pressure monitoring. There are numerous treadmill protocols; the ‘Bruce protocol’ is the most widely used.
+
+Indications:
+• To help confirm a suspected diagnosis of IHD. NICE suggests that this should only be used when there is diagnostic uncertainty in people with known CAD (eg previous MI or angioplasty), and not to make a primary diagnosis.¹²
+• Assessment of exercise-induced arrhythmias.
+
+Contraindications:
+• Recent Q wave MI (<5 days ago) or unstable angina
+• Severe aortic stenosis
+• Uncontrolled arrhythmia, hypertension, or heart failure
+• Acute myocarditis or pericarditis
+• Acute aortic dissection, acute pulmonary embolism
+
+Be cautious about arranging tests that will be hard to perform or interpret:
+• Complete heart block, LBBB
+• Pacemaker patients, digoxin use
+• Osteoarthritis, COPD, stroke, or other limitations to exercise
+
+Stop the test if:
+• Chest pain, dyspnoea, cyanosis or pallor occurs.
+• The patient feels faint, exhausted, or is in danger of falling.
+• ST↑ >1mm in leads without diagnostic Q waves (with or without chest pain).
+• Atrial or ventricular arrhythmia (not just ectopics).
+• Fall in blood pressure >10mmHg from baseline, failure of heart rate or blood pressure to rise with effort, SBP >230mmHg and/or DBP >115mmHg.
+• Development of AV block or LBBB.
+• 90% maximal heart rate for age is achieved: [(220−age) ± 10].
+
+Interpreting the test: A positive test only allows one to assess the probability that the patient has IHD. 75% of people with significant coronary artery disease have a positive test, but so do 5% of people with normal arteries (the false-positive rate is even higher in middle-aged women, eg 20%). The more positive the result, the higher the predictive accuracy. Down-sloping ST depression is much more significant than up-sloping, eg 1mm J-point depression with down-sloping ST segment is 99% predictive of 2–3 vessel disease.
+
+Morbidity: 24 in 100,000. Mortality: 10 in 100,000.
+
+Ambulatory ECG monitoring (eg Holter monitor)
+
+Continuous ECG monitoring for 24h may be used to try to pick up paroxysmal arrhythmias. However, >70% of patients will not have symptoms during the period of monitoring. ~20% will have a normal ECG during symptoms and only up to 10% will have an arrhythmia coinciding with symptoms. Give these patients a recorder they can activate themselves during an episode. Recorders may be programmed to detect ST segment depression, either symptomatic (to prove angina) or to reveal ‘silent’ ischaemia (predictive of re-infarction or death soon after MI).
+
+‘Loop’ recorders record only when activated by the patient—they cleverly save a small amount of ECG data before the event—useful if the arrhythmia causes loss of consciousness: the patient can press the button when they wake up. They are more expensive but also more cost-effective than Holter monitors, as the pick-up rate of significant disease is higher.¹³ These may also be implanted just under the skin (eg Reveal Device), and are especially useful in patients with infrequent episodes.
+
+
+[Page 103]
+Each complex is taken from sample ECGS (lead C5) recorded at 1min intervals during exercise (top line) and recovery (bottom line). At maximum ST depression, the ST segment is almost horizontal. This is a positive exercise test.
+
+This is an exercise ECG in the same format. It is negative because although the J point is depressed, the ensuing ST segment is steeply up-sloping.
+
+Fig 1. Exercise ECG testing. The J-point is the point at which the QRS complex meets the ST segment.
+
+
+[Page 104]
+Cardiac catheterization
+
+This involves the insertion of a catheter into the heart via the femoral or radial artery or venous system, and manipulating it within the heart and great vessels to:
+• Sample blood to assess oxygen saturation and measure pressures (see BOX).
+• Inject radiopaque contrast medium to image cardiac anatomy and blood flow.
+• Perform angioplasty (± stenting), valvuloplasty, and cardiac biopsies, or to do procedures, eg transcatheter ASD closure.
+• Perform intravascular ultrasound or echocardiography.
+
+During the procedure, ECG and arterial pressures are monitored continuously. In the UK, the majority are performed as day-case procedures. See BOX.
+
+Indications:
+• Coronary artery disease: diagnostic (assessment of coronary vessels and graft patency); therapeutic (angioplasty, stent insertion).
+• Valvular disease: diagnostic (to assess severity); therapeutic valvuloplasty (if the patient is too ill or declines valve surgery). See BOX.
+• Congenital heart disease: diagnostic (assessment of severity of lesions); therapeutic (balloon dilatation or septostomy).
+• Other: cardiomyopathy; pericardial disease; endomyocardial biopsy.
+
+Pre-procedure checks:
+• Brief history/examination; NB: peripheral pulses, bruits, aneurysms.
+• Investigations: FBC, U&E, LFT, clotting screen, CXR, ECG.
+• Consent for angiogram ± angioplasty ± stent ± CABG. Explain reason for procedure and possible complications (below).
+• IV access, ideally in the left hand.
+• Patient should be nil by mouth (NBM) from 6h before the procedure.
+• Patients should take all their morning drugs (and pre-medication if needed)—but withhold oral hypoglycaemics.
+
+Post-procedure checks:
+• Pulse, blood pressure, arterial puncture site (for bruising or swelling?), foot pulses.
+• Investigations: FBC and clotting (if suspected blood loss), ECG.
+
+Complications:
+• Haemorrhage: Apply firm pressure over puncture site. If you suspect a false aneurysm, ultrasound the swelling and consider surgical repair.
+• Contrast reaction: This is usually mild with modern contrast agents.
+• Loss of peripheral pulse: May be due to dissection, thrombosis, or arterial spasm. Occurs in <1% of brachial catheterizations. Rare with femoral catheterization.
+• Angina: May occur during or after cardiac catheterization. Usually responds to sublingual GTN; if not give analgesia and IV nitrates.
+• Arrhythmias: Usually transient. Manage along standard lines.
+• Pericardial tamponade: Rare, but should be suspected if the patient becomes hypotensive and anuric.
+• Infection: Post-catheter pyrexia is usually due to a contrast reaction. If it persists for >24h, take blood cultures before giving antibiotics.
+
+Mortality: <1 in 1000 patients, in most centres.
+
+Intra-cardiac electrophysiology This catheter technique can determine types and origins of arrhythmias, and locate (and ablate) aberrant pathways (eg causing atrial flutter or ventricular tachycardia). Arrhythmias may be induced, and the effectiveness of control by drugs assessed. Radiofrequency ablation may be used to destroy aberrant pathways or to prevent AF.
+
+CT angiography
+
+CT angiogram permits contrast-enhanced imaging of coronary arteries during a single breath hold. It can diagnose significant (>50%) stenosis in CAD with an accuracy of 89%. Its negative predictive value is >99%, which makes it an effective non-invasive alternative to routine coronary angiography to rule out CAD.¹⁴
+
+
+[Page 105]
+Fig 1. Coronary artery anatomy.
+
+Normal values for intracardiac pressures and saturations
+
+Location                         Pressure (mmHg)                 Saturation (%)
+                                 Mean             Range
+Inferior vena cava                                                76
+Superior vena cava                                                70
+Right atrium                    4                0–8             74
+Right ventricle                                                  74
+  Systolic                      25               15–30
+  End-diastolic                 4                0–8
+Pulmonary artery                                                 74
+  Systolic                      25               15–30
+  Diastolic                     10               5–15
+  Mean                          15               10–20
+Pulmonary artery                a                3–12            74
+  Wedge pressure                v                3–15
+Left ventricle
+  Systolic                      110              80–140          98
+  End-diastolic                 8                ≤12
+Aorta
+  Systolic                      110              80–140          98
+  Diastolic                     73               60–90
+  Mean                          85               70–105
+Brachial
+  Systolic                      120              90–140          98
+  Diastolic                     72               60–90
+  Mean                          83               70–105
+
+Gradients across stenotic valves
+
+Valve       Normal gradient (mmHg)    Stenotic gradient (mmHg)
+                                      Mild     Moderate     Severe
+Aortic      0                         <30      30–50        >50
+Mitral      0                         <5       5–15         >15
+Prosthetic  5–10
+
+
+[Page 106]
+Echocardiography
+
+This non-invasive technique uses the differing ability of various structures within the heart to reflect ultrasound waves. It not only demonstrates anatomy but also provides a continuous display of the functioning heart throughout its cycle. There are various types of scan:
+
+M-mode (motion mode): A single-dimension (time) image. See fig 1.
+
+2-dimensional (real time): A 2D, fan-shaped image of a segment of the heart is produced on the screen, which may be ‘frozen’. Several views are possible and the 4 commonest are: long axis, short axis, 4-chamber, and subcostal. 2D echocardiography is good for visualizing conditions such as: congenital heart disease, LV aneurysm, mural thrombus, LA myxoma, septal defects.
+
+3D echocardiography is now possible with matrix array probes, and is termed 4D (3D + time) if the images are moving.
+
+Doppler and colour-flow echocardiography: Different coloured jets illustrate flow and gradients across valves and septal defects (p150) (Doppler effect, p750).
+
+Tissue Doppler imaging: This employs Doppler ultrasound to measure the velocity of myocardial segments over the cardiac cycle. It is particularly useful for assessing longitudinal motion—and hence long-axis ventricular function, which is a sensitive marker of systolic and diastolic heart failure.
+
+Trans-oesophageal echocardiography (TOE) is more sensitive than transthoracic echocardiography (TTE) as the transducer is nearer to the heart. Indications: diagnosing aortic dissections; assessing prosthetic valves; finding cardiac source of emboli, and IE/SBE. Don’t do if oesophageal disease or cervical spine instability.
+
+Stress echocardiography is used to evaluate ventricular function, ejection fraction, myocardial thickening, regional wall motion pre- and post-exercise, and to characterize valvular lesions. Dobutamine or dipyridamole may be used if the patient cannot exercise. Inexpensive and as sensitive/specific as a thallium scan (p755).
+
+Uses of echocardiography
+
+Quantification of global LV function: Heart failure may be due to systolic or diastolic ventricular impairment (or both). Echo helps by measuring end-diastolic volume. If this is large, systolic dysfunction is the likely cause. If small, diastolic. Pure forms of diastolic dysfunction are rare. Differentiation is important; as vasodilators are less useful in diastolic dysfunction as a high ventricular filling pressure is required.
+
+Echo is also useful for detecting focal and global hypokinesia, LV aneurysm, mural thrombus, and LVH (echo is 5–10 times more sensitive than ECG in detecting this).
+
+Estimating right heart haemodynamics: Doppler studies of pulmonary artery flow and tricuspid regurgitation allow evaluation of RV function and pressures.
+
+Valve disease: The technique of choice for measuring pressure gradients and valve orifice areas in stenotic lesions. Detecting valvular regurgitation and estimating its significance is less accurate. Evaluating function of prosthetic valves is another role.
+
+Congenital heart disease: Establishing the presence of lesions, and significance.
+
+Endocarditis: Vegetations may not be seen if <2mm in size. TTE with colour Doppler is best for aortic regurgitation (AR). TOE is useful for visualizing mitral valve vegetations, leaflet perforation, or looking for an aortic root abscess.
+
+Pericardial effusion is best diagnosed by echo. Fluid may first accumulate between the posterior pericardium and the left ventricle, then anterior to both ventricles and anterior and lateral to the right atrium. There may be paradoxical septal motion.
+
+HCM (p146): Echo features include asymmetrical septal hypertrophy, small LV cavity, dilated left atrium, and systolic anterior motion of the mitral valve.
+
+
+[Page 107]
+Fig 1. Normal M-mode echocardiogram (RV=right ventricle; LV=left ventricle; AO=aorta; AV=aortic valve; LA=left atrium; MV=mitral valve; PW=posterior wall of LV; VS=interventricular septum).
+
+Adapted from R Hall Med International 17 774.
+
+
+[Page 108]
+Cardiovascular drugs
+
+Antiplatelet drugs Aspirin irreversibly acetylates cyclo-oxygenase, preventing production of thromboxane A₂, thereby inhibiting platelet aggregation. Used in low dose (eg 75mg/24h PO) for secondary prevention following MI, TIA/stroke, and for patients with angina or peripheral vascular disease. May have a role in primary prevention.¹⁵
+
+ADP receptor antagonists (eg clopidogrel, prasugrel) also block platelet aggregation, but may cause less gastric irritation. They have a role if truly intolerant of aspirin, and with aspirin, after coronary stent insertion, and in acute coronary syndrome. Glycoprotein IIb/IIIa antagonists (eg tirofiban) have a role in unstable angina/MI.¹⁶
+
+Anticoagulants¹⁷ Warfarin (p344) is mainly used in AF, and with mechanical valves. Newer, oral agents, eg Xa inhibitors (eg apixaban) and direct thrombin inhibitors (dabigatran) may ultimately replace it as they don’t require therapeutic monitoring and may have a better risk:benefit ratio. LMW heparin (p344) is used in ACS (p114). Alternatives are parental fondaparinux (Xa inhibitor) or bivalirudin (thrombin inhibitor).
+
+β-blockers Block β-adrenoceptors, thus antagonizing the sympathetic nervous system. Blocking β₁-receptors is negatively inotropic and chronotropic (pulse↓ by ↓firing of sinoatrial node), and β₂-receptors induce peripheral vasoconstriction and bronchoconstriction. Drugs vary in their β₁/β₂ selectivity (eg propranolol is non-selective, and bisoprolol relatively β₁ selective), but this does not seem to alter their clinical efficacy. Uses: Angina, hypertension, antidysrhythmic, post MI (↓mortality), heart failure (with caution). CI: Asthma/COPD, heart block. Caution: Heart failure (but see carvedilol, p130). SE: Lethargy, erectile dysfunction, joie de vivre↓, nightmares, headache.
+
+Diuretics Loop diuretics (eg furosemide) are used in heart failure, and inhibit the Na/2Cl/K co-transporter. Thiazides are used in hypertension and inhibit Na/Cl co-transporter. SE: Loop: dehydration, ↓K⁺, ↓Ca²⁺, ototoxic; thiazides: ↓K⁺, ↑Ca²⁺, ↓Mg²⁺, ↑urate (±gout), impotence (NB: small doses, eg chlortalidone 25mg/24h rarely cause significant SEs); Amiloride: ↑K⁺, GI upset.
+
+Vasodilators Used in heart failure, IHD, and hypertension. Nitrates preferentially dilate veins and the large arteries, ↓ filling pressure (pre-load), while hydralazine (often used with nitrates) primarily dilates the resistance vessels, thus ↓ BP (after-load). Prazosin (an α-blocker) dilates arteries and veins.
+
+Calcium antagonists These ↓ cell entry of Ca²⁺ via voltage-sensitive channels in smooth muscle, thereby promoting coronary and peripheral vasodilatation and reducing myocardial oxygen consumption. All current drugs block L-type Ca²⁺ channels. However, their effects differ because of differential binding properties. The dihydropyridines, eg nifedipine, amlodipine, are mainly peripheral vasodilators (also dilate coronary arteries) and cause a reflex tachycardia, so are often used with a β-blocker. They are used mainly in hypertension and angina. The non-dihydropyridines—verapamil and diltiazem—also slow conduction at the AV and SA nodes and may be used to treat hypertension, angina, and dysrhythmias. Don’t give verapamil with β-blockers (risk of severe bradycardia ± LVF). SE: Flushes, headache, oedema (diuretic unresponsive), LV function↓, gingival hypertrophy. CI: Heart block.
+
+Digoxin¹⁸,¹⁹ Blocks the Na⁺/K⁺ pump. It is used to slow the pulse in fast AF (p124; aim for <100). As it is a weak +ve inotrope, its role in heart failure in sinus rhythm may be best reserved if symptomatic despite optimal ACE-i therapy (p109);¹⁸ here there is little benefit vis-à-vis mortality (but admissions for worsening CCF are ↓ by ~25%).¹⁹ Old people are at ↑risk of toxicity: use lower doses. Do plasma levels >6h post-dose (p766). Typical dose: 500μg stat PO, repeated after 12h, then 125μg (if elderly) to 375μg/d PO (62.5μg/d is almost never enough). IV dose: 0.75–1mg in 0.9% NaCl over 2h. Toxicity risk↑ if: K⁺↓, Mg²⁺↓, or Ca²⁺↑. t½ ≈ 36h. If on digoxin, use less energy in cardioversion (start at 5J). If on amiodarone, halve the dose of digoxin. SE: Any arrhythmia (supraventricular tachycardia with AV block is suggestive), nausea, appetite↓, yellow vision, confusion, gynaecomastia. In toxicity, stop digoxin; check K⁺; treat arrhythmias; consider DigiFab® by IVI (p854). CI: HCM; WPW syndrome (p120).
+
+ACE-inhibitors p109; Nitrates p110; Antihypertensives p134.
+
+
+[Page 109]
+Statins (see also hyperlipidaemia, p704 and p705, fig 1)
+
+Statins (eg simvastatin, p704) inhibit the enzyme HMG-COA reductase, which causes de novo synthesis of cholesterol in the liver. This increases LDL receptor expression by hepatocytes leading to ↓ circulating LDL cholesterol. More effective if given at night, but optimum dose and target plasma cholesterol are unknown. SE: muscle aches, abdominal discomfort, ↑transaminases (eg ALT), ↑CK, myositis, rarely rhabdomyolysis (more common if used with fibrates). Statins are generally well tolerated. There are currently ~3 million people taking statins in England, which saves ~10,000 lives a year.
+
+How to start ACE-inhibitors
+
+Check that there are no contraindications/cautions:
+• Renal failure (serum creatinine >200μmol/L; but not an absolute CI)
+• Hyperkalaemia: K⁺ >5.5mmol/L
+• Hyponatraemia: caution if <130mmol/L (relates to a poorer prognosis)
+• Hypovolaemia or hypotension (systolic BP <90mmHg)
+• Aortic stenosis or LV outflow tract obstruction
+• Pregnancy or lactation
+• Severe COPD or cor pulmonale (not an absolute CI)
+• Renal artery stenosis¹ (suspect if arteriopathic, eg cerebrovascular disease, IHD, peripheral vascular disease. ACE-i ↓GFR and may precipitate acute renal failure)
+
+Warn the patient about possible side-effects:
+• Dry cough (1 : 10)
+• Hypotension, especially with 1st dose if CCF (so start at night)
+• Taste disturbance
+• Hyperkalaemia
+• Renal impairment; this commonly co-exists with heart failure (atheroma is the reason for both, usually)—and is worsened by ACE-i (see below)
+• Urticaria and angioneurotic oedema (<1 : 1,000)
+• Rarely: proteinuria, leucopenia, fatigue
+
+Starting ACE-inhibitors: Delay if intercurrent illness (esp. if dehydrated/D&V etc). Most patients can be safely started on ACE-i as outpatients. 1st-dose hypotension can be avoided by taking the 1st dose on going to bed. Use a long-acting ACE-i, eg lisinopril 10mg/d PO, 2.5mg/d in the elderly (or eGFR <30). Increase dose every 2wks until at target dose (equivalent of 30–40mg lisinopril a day if eGFR >30) or side-effects supervene (↓BP, ↑creatinine). Review in ~1–2 wks; check U&E regularly. Patients on high doses of diuretics (>80mg furosemide a day) may need a reduction in their diuretic dose first. Before and after, check U&E. Expect a rise in creatinine (<20%; GFR↓ by <15%²⁰) in ~2 wks after starting an ACE-i; a larger change may indicate underlying renal artery stenosis. Repeat U&E and ask a specialist’s advice. Plasma K⁺ may also rise. If >6mmol/L, ensure no NSAID is being taken, stop or reduce dose of K⁺-sparing diuretics, and recheck U&E. The dose of loop diuretic may also need to be reduced (if there is no congestion). If ↑K⁺ persists, ACE-i (or ARB) may need to be stopped.²¹
+
+NB: the same cautions are needed when starting ARBs (eg candesartan). In patients with cardiac disease who are unable to tolerate ACE-i, an ARB can be used.
+
+¹ If renovascular disease precludes the use of ACE-i and furosemide is providing no answer, consider maximal vasodilatation with nitrates and hydralazine: seek expert advice.
+
+
+[Page 110]
+Angina pectoris
+
+This is due to myocardial ischaemia and presents as a central chest tightness or heaviness, which is brought on by exertion and relieved by rest. It may radiate to one or both arms, the neck, jaw or teeth. Other precipitants: Emotion, cold weather, and heavy meals. Associated symptoms: Dyspnoea, nausea, sweatiness, faintness.
+
+Causes Mostly atheroma. Rarely: anaemia, AS; tachyarrhythmias; HCM; arteritis/small vessel disease (microvascular angina/cardiac syndrome X).
+
+Types of angina Stable angina: induced by effort, relieved by rest. Unstable (crescendo) angina: angina of increasing frequency or severity; occurs on minimal exertion or at rest; associated with ↑↑risk of MI. Decubitus angina: precipitated by lying flat. Variant (Prinzmetal’s) angina (see BOX 3): caused by coronary artery spasm (rare; may co-exist with fixed stenoses).
+
+Tests ECG: usually normal, but may show ST depression; flat or inverted T waves; signs of past MI. See BOX 2 for other investigations. Exclude precipitating factors: anaemia, diabetes, hyperlipidaemia, thyrotoxicosis, temporal arteritis.
+
+Management
+
+Modify risk factors: stop smoking, encourage exercise, weight loss. Control hypertension, diabetes, etc., p87. If total cholesterol >4mmol/L give a statin—see p704. Aspirin (75–150mg/24h) reduces mortality by 34%.
+
+β-blockers, eg atenolol 50–100mg/24h PO, reduce symptoms unless contraindicated (asthma, COPD, LVF, bradycardia, coronary artery spasm).
+
+Nitrates: for symptoms, give GTN spray or sublingual tabs, up to every ½h. Prophylaxis: give regular oral nitrate, eg isosorbide mononitrate 20–40mg PO bd (have an 8h nitrate-free period to prevent tolerance) or slow-release nitrate (eg Imdur® 60mg/24h). Alternatives: adhesive nitrate skin patches or buccal pills. SE: headaches, BP↓.
+
+Long-acting calcium antagonists: amlodipine 10mg/24h; diltiazem-MR 90–180mg/12h PO. They are particularly useful if there is a contraindication to β-blockers.
+
+K⁺ channel activator, eg nicorandil 10–30mg/12h PO, if still not controlled.
+
+Others: ivabradine inhibits the pacemaker (‘funny’) current in the SA node and thus reduces heart rate. Useful in those who cannot take a β-blocker, having similar efficacy. Trimetazidine inhibits fatty acid oxidation, leading the myocardium to use glucose, which is more efficient. Ranolazine inhibits the late Na⁺ current.
+
+Unstable angina requires admission and urgent treatment: emergencies, p810.
+
+Indications for referral Diagnostic uncertainty; new angina of sudden onset; recurrent angina if past MI or CABG (see BOX); angina uncontrolled by drugs; unstable angina. Some units routinely do exercise tolerance tests on those <70yrs old, but age alone is a poor way to stratify patients.
+
+Percutaneous transluminal coronary angioplasty (PTCA) involves balloon dilatation of the stenotic vessel(s). Indications: poor response or intolerance to medical therapy; refractory angina in patients not suitable for CABG; previous CABG; post-thrombolysis in patients with severe stenoses, symptoms, or positive stress tests.
+
+Comparisons of PTCA vs drugs alone show that PTCA may control symptoms better but with more frequent early cardiac events (eg MI and need for CABG)²² and little effect on mortality. However, early intervention may benefit high risk patients presenting with non-ST-segment elevation MI (p112).²³ Stenting reduces restenosis rates and the need for bailout CABG compared with angioplasty. Complications: Restenosis (20–30% within 6 months); emergency CABG (<3%); MI (<2%); death (<0.5%).
+
+NICE recommends that >70% of angioplasties be accompanied by stenting. Antiplatelet agents, eg clopidogrel, reduce the risk of stent thrombosis, and IV glycoproteins IIb/IIIa-inhibitors (eg eptifibatide) reduce procedure-related ischaemic events. Drug-coated stents reduce restenosis rates, but at the risk of increased late in-stent thrombosis. Long-term treatment with aspirin and clopidogrel may reduce this risk.

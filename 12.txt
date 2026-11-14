@@ -1,0 +1,326 @@
+111
+
+Investigating patients with ? stable angina
+
+If the patient has an acute coronary syndrome, eg unstable angina, emergency admission is indicated. In those patients with stable chest pain which might be cardiac who do not require emergency admission, a number of options exist. NICE suggests stratifying based on whether there is known CAD, and the likelihood of CAD.12,24
+
+Known CAD and pain typical, no further investigation. If atypical pain, either exercise testing or functional imaging (myocardial perfusion scintigraphy, stress echo, or MRI).
+
+Unknown CAD stratify of likelihood of CAD
+• >90% treat as known CAD
+• 61–90% angiography, or functional imaging if inappropriate
+• 30–60% functional imaging
+• 10–29% coronary artery calcification score¹ with CT
+• <10% reconsider diagnosis.
+
+Calculating the likelihood of CAD (percentages)¹².¹, ¹²
+
+Age (yrs) | Non-anginal chest pain: Men Lo Hi; Women Lo Hi | Atypical angina: Men Lo Hi; Women Lo Hi | Typical angina: Men Lo Hi; Women Lo Hi
+35 | 3 35; 1 19 | 8 59; 2 39 | 30 88; 10 78
+45 | 9 47; 2 22 | 21 70; 5 43 | 51 92; 20 79
+55 | 23 59; 4 25 | 45 79; 10 47 | 80 95; 38 82
+65 | 49 69; 9 29 | 71 86; 20 51 | 93 97; 56 84
+
+Values are percent of people at each mid-decade with significant coronary artery disease (CAD).
+
+Hi = High risk = diabetes, smoking, and hyperlipidaemia (total cholesterol >6.47mmol/L). Lo = Low risk = none of these three.
+
+The shaded area represents people with symptoms of non-anginal chest pain, who would not be investigated for stable angina routinely.
+
+For men older than 70 with atypical or typical symptoms, assume an estimate >90%. For women older than 70, assume estimate of 61–90% EXCEPT women at high risk AND with typical symptoms, where a risk of >90% should be assumed.
+
+Note: these results are likely to overestimate CAD in primary care populations.
+
+If there are resting ECG ST-T changes or Q waves, the likelihood of CAD is higher in each cell of the table.
+
+NICE (2010) CG95 Chest pain of recent onset: assessment and diagnosis of recent onset chest pain and discomfort of suspected cardiac origin. London: NICE. Available from www.nice.org.uk/guidance/CG95. Reproduced with permission.
+
+Prinzmetal angina
+
+This is due to coronary artery spasm, which can occur even in normal coronary arteries. Pain usually occurs during rest (rather than during activity). ECG during pain shows ST segment elevation, which resolves as the pain subsides. Patients usually do not have the standard risk factors for atherosclerosis. Treatment: Calcium channel blockers ± long-acting nitrates. Aspirin can aggravate the ischaemic attacks in these patients. β-blockers (esp non-selective) should also be avoided as they can increase vasospasm. Prognosis is usually very good.
+
+¹ The calcium score derived from CT images is a summation of all calcified lesions in the coronary arteries. It reflects the presence of plaques. The reported score is an individual’s score, allowing for age and sex.²⁵
+
+
+112
+
+Acute coronary syndromes (ACS)
+
+Definitions ACS includes unstable angina and evolving MI, which share a common underlying pathology—plaque rupture, thrombosis, and inflammation. However, ACS may rarely be due to emboli or coronary spasm in normal coronary arteries, or vasculitis (p558). Usually divided into ACS with ST-segment elevation or new onset LBBB—what most of us mean by acute MI; and ACS without ST-segment elevation—the ECG may show ST depression, T wave inversion, non-specific changes, or be normal (includes non-Q wave or subendocardial MI). The degree of irreversible myocyte death varies, and significant necrosis can occur without ST elevation.
+
+Risk factors Non-modifiable: age, ♂ gender, family history of IHD (MI in 1st degree relative <55yrs). Modifiable: smoking, hypertension, DM, hyperlipidaemia, obesity, sedentary lifestyle, cocaine use. Controversial risk factors include: stress, type A personality, LVH, fibrinogen↑, hyperinsulinaemia, homocysteine levels↑, ACE genotype.
+
+Incidence 5/1000 per annum (UK) for ST-segment elevation (declining in UK and USA).
+
+Diagnosis Acute MI is defined by several criteria.²⁶ The commonest is an↑ and then a ↓ in cardiac biomarkers (eg troponin) and either: symptoms of ischaemia, ECG changes of new ischaemia, development of pathological Q waves, or loss of myocardium on imaging.
+
+Symptoms Acute central chest pain, lasting >20min, often associated with nausea, sweatiness, dyspnoea, palpitations. May present without chest pain (‘silent’ infarct), eg in the elderly or diabetics. In such patients, presentations may include: syncope, pulmonary oedema, epigastric pain and vomiting, post-operative hypotension or oliguria, acute confusional state, stroke, and diabetic hyperglycaemic states.
+
+Signs Distress, anxiety, pallor, sweatiness, pulse↑ or ↓, BP↑ or ↓, 4th heart sound. There may be signs of heart failure (↑ JVP, 3rd heart sound, basal crepitations) or a pansystolic murmur (papillary muscle dysfunction/rupture, VSD). Low-grade fever may be present. Later, a pericardial friction rub or peripheral oedema may develop.
+
+Tests ECG (see fig 1): Classically, hyperacute (tall) T waves, ST elevation or new LBBB occur within hours of transmural infarction. T wave inversion and development of pathological Q waves follow over hours to days (p92). In other ACS: ST depression, T wave inversion, non-specific changes, or normal. In 20% of MI, the ECG may be normal initially. CXR: Look for cardiomegaly, pulmonary oedema, or a widened mediastinum (aortic rupture). Don’t routinely delay treatment whilst waiting for a CXR. Blood: FBC, U&E, glucose, lipids.
+
+Cardiac enzymes (see fig 2): Cardiac troponin levels (T and I) are the most sensitive and specific markers of myocardial necrosis. Serum levels ↑ within 3–12h from the onset of chest pain, peak at 24–48h, and ↓ to baseline over 5–14 days. If normal ≥6h after onset of pain, and ECG normal, risk of missing MI is tiny (0.3%).²⁷ Peak levels also help risk stratification.²⁸ Creatine kinase comprises 3 isoenzymes: CK-MM (found mainly in skeletal muscle; ↑ after trauma (falls, seizures); prolonged exercise; myositis; African-Caribbeans; hypothyroidism); CK-BB (predominantly in the brain); and CK-MB mainly in the heart. CK-MB levels ↑ within 3–12h of onset of chest pain, reach peak values within 24h, and return to baseline after 48–72h. Levels peak earlier if reperfusion occurs. Sensitivity is ~95%, with high specificity. Myoglobin levels rise within 1–4h from the onset of pain. They are highly sensitive but not specific.
+
+Differential diagnosis (p88) Angina, pericarditis, myocarditis, aortic dissection (p656), pulmonary embolism, and oesophageal reflux/spasm.
+
+Management See emergencies, p810. The management of ACS with and without ST-segment elevation varies. Likewise, if there is no ST elevation and symptoms settle without a rise in cardiac troponin, then no myocardial damage has occurred, the prognosis is good, and patients can be discharged. Therefore, the two key questions are: is there ST-segment elevation? Is there a rise in troponin?
+
+Mortality 50% of deaths occur within 2h of onset of symptoms. Up to 7% die before discharge. Worse prognosis if: elderly, LV failure, and ST changes.²⁹
+
+
+113
+
+Fig 1. Sequential ECG changes following acute MI.
+
+ECG sequence labels:
+Normal
+Hours
+Days
+Weeks
+Months
+
+Fig 2. Enzyme changes following acute MI.
+
+Graph labels:
+Cardiac enzymes
+Serum enzyme level
+×50
+×5
+×4
+×3
+×2
+×1
+Days
+0 1 2 3 4 5 6 7 8 9 10
+Trop
+CK
+CK-MB
+LDH
+AST
+
+CK — Creatine kinase
+CK-MB — CK cardiac isoenzyme
+AST — Aspartate transaminase
+LDH — Lactate dehydrogenase
+Trop — Cardiac troponin
+
+
+114
+
+Management of acute coronary syndrome (ACS)³⁰
+
+Pre-hospital Arrange emergency ambulance. Aspirin 300mg chewed³¹ (if no absolute CI) and GTN sublingual. Analgesia, eg morphine 5–10mg IV + metoclopramide 10mg IV (not IM because of risk of bleeding with thrombolysis).
+
+In hospital O₂, IVI, morphine, aspirin ↘p808–810.
+
+Then the key question for subsequent management of ACS is whether there is ST-segment elevation (includes new onset LBBB or a true posterior MI). See fig 1.
+
+ST-segment elevation
+• Primary angioplasty or thrombolysis, if no contraindication ↘ p808.
+• β-blocker, eg atenolol 5mg IV unless contraindicated, eg asthma.
+• ACE-inhibitor: Consider starting ACE-i (eg lisinopril 2.5mg) in all normotensive patients (systolic ≥120mm/Hg) within 24h of acute MI, especially if there is clinical evidence of heart failure or echo evidence of LV dysfunction.
+• Consider clopidogrel 300mg loading followed by 75mg/day for 30 days.³²
+
+ACS without ST-segment elevation³³
+• β-blocker, eg atenolol 5mg IV and nitrates IV unless contraindicated.
+• Antithrombotic fondaparinux if low bleeding risk and no angiography planned for 24h, otherwise consider low molecular weight heparin (eg enoxaparin 1mg/kg/12h SC for 2–8 days)
+• Assess risk, eg GRACE SCORE.
+• High-risk patients (persistent or recurrent ischaemia, ST↓, diabetes, ↑ troponin): GPIIb/IIIa antagonist (eg tirofiban),³⁴ or bivalirudin, and angiography within 96h. Clopidogrel, in addition to aspirin, should be considered for up to 12 months.³⁰
+• Low-risk (eg no further pain, flat or inverted T-waves, or normal ECG, and negative troponin): clopidogrel if risk 1 . 5–3%/yr. Discharge if a repeat troponin is negative. Treat medically and arrange further investigation if recurrent ischaemia.
+
+Subsequent management
+• Bed rest for 48h; continuous ECG monitoring.
+• Daily examination: heart, lungs, and legs for complications (p116); 12-lead ECG, U&E.
+• Prophylaxis against thromboembolism: until fully mobile. If large anterior MI, consider warfarin for 3 months as prophylaxis against systemic embolism from LV mural thrombus.
+• Aspirin (eg 75mg) ↓ vascular events (MI, stroke, or vascular death) by 29%.
+• Long-term β-blockade ↓ mortality from all causes by ~25% in patients who have had a previous MI (eg bisoprolol 2 . 5–5mg/d enough to decrease the pulse to ≤60; continue for at least 1yr). If contraindicated, consider verapamil or diltiazem.
+• Continue ACE-i in all patients. ACE-i in those with evidence of heart failure reduces 2yr mortality by 25–30%.
+• Start a statin, eg simvastatin 40mg.³⁵ Cholesterol reduction post-MI has been shown to be of benefit in patients with both elevated and normal cholesterol levels.
+• Address modifiable risk factors: Discourage smoking (p87). Encourage exercise. Identify and treat diabetes mellitus, hypertension, and hyperlipidaemia.
+• Assess LV function in all patients post-MI.
+• General advice: If uncomplicated, discharge after 5–7 days. Work: Patient may return to work after 2 months. A few occupations should not be restarted post-MI: airline pilots; air traffic controllers; divers. Drivers of public service or heavy goods vehicles may be permitted to return to work if they meet certain criteria.³⁶ Patients undertaking heavy manual labour should be advised to seek a lighter job. Diet: A diet high in oily fish, fruit, vegetables, and fibre, and low in saturated fats should be encouraged. Exercise: Encourage regular daily exercise. Sex: Intercourse is best avoided for 1 month. Travel: Avoid air travel for 2 months. Refer for structured rehabilitation programme.
+• Review at 5wks post-MI to review symptoms: Angina? dyspnoea? palpitations? If angina recurs, treat conventionally, and consider coronary angiography.
+• Review at 3 months: Check fasting lipids.
+
+
+115
+
+Fig 1. Acute postero-lateral MI.
+
+ECG labels:
+I
+aVR
+C1
+C4
+II
+aVL
+C2
+C5
+III
+aVF
+C3
+C6
+RHYTHM STRIP: II
+25 mm/sec: 1 cm/mV
+
+
+116
+
+Complications of MI
+
+Cardiac arrest (inside back cover); cardiogenic shock (p814); LVF (p812).
+
+Unstable angina: Manage along standard lines (p810) and refer to a cardiologist.
+
+Bradycardias or heart block: Sinus bradycardia: treat with atropine 0.6–1.2mg IV. Consider temporary cardiac pacing if no response or poorly tolerated by the patient. ↓BP which is not responsive to atropine in patients with inferior MI may be due to RV infarction. 1st degree AV block: Most commonly seen in inferior MI. Observe closely, as approximately 40% develop higher degrees of AV block (in which case calcium channel blockers and β-blockers should be stopped). Wenckebach (Mobitz type I; ECG, p119) block: does not require pacing unless poorly tolerated. Mobitz type II block: carries a high risk of developing sudden complete AV block; should be paced. Complete AV block (ECG, p90): usually resolves within a few days. Insert pacemaker (may not be necessary after inferior MI if narrow QRS and reasonably stable and pulse ≥40–50). Bundle branch block: MI complicated by trifascicular block or non-adjacent bifascicular disease (p126) should be paced.
+
+Tachyarrhythmias: NB: K+↓, hypoxia and acidosis all predispose to arrhythmias and should be corrected. Sinus tachycardia can ↑ myocardial O₂ demand. Pain and hypoxia are common causes (give O₂, analgesic). SVT: p120. AF or flutter: If compromised, DC cardioversion. Otherwise, control rate with digoxin (load with 500μg/12h PO for 2–3 doses; maintenance: 125–250μg/24h) ± β-blocker. In atrial flutter or intermittent AF, try amiodarone or sotalol (details p124). Frequent PVCs (premature ventricular contractions) are common after acute MI. They usually do not result in VF, and prophylactic antidysrhythmics are not recommended (↑ death).
+
+Non-sustained VT (≥3 consecutive PVCs >100bpm and lasting <30s): if it happens at <48h after MI, antidysrhythmics are not recommended. However, if it happens >48h, risk of sudden cardiac death is ↑ and electrophysiological studies should be considered. Sustained VT (≥3 consecutive PVCs >100bpm and lasting >30s): if compromised, give DC shock. If stable, treat with amiodarone. Recurrent VT may need pacing. Ventricular fibrillation: 80% occurs within 12h. If occur >48h, usually indicates pump failure or cardiogenic shock. Treatment: DC shock.
+
+Consider implantable cardiac defibrillator if ejection fraction <35% and VT.³⁷
+
+Right ventricular failure (RVF)/infarction: Presents with low cardiac output and JVP↑. Consider a Swan–Ganz catheter to measure right-sided pressures and guide fluid replacement. If BP remains low, give inotropes.
+
+Pericarditis: Central chest pain, relieved by sitting forwards. ECG: saddle-shaped ST elevation. Treatment: NSAIDS. Echo to check for effusion.
+
+DVT & PE: Patients are at risk of developing DVT & PE and should be prophylactically heparinized (enoxaparin) until fully mobile.
+
+Systemic embolism: May arise from LV mural thrombus. After large anterior MI, consider anticoagulation with warfarin for 3 months.
+
+Cardiac tamponade: (p814) Presents with low cardiac output, pulsus paradoxus, JVP↑, muffled heart sounds. Diagnosis: Echo. Treatment: Pericardial aspiration (provides temporary relief, ↘see p787 for technique), surgery.
+
+Mitral regurgitation: May be mild (minor papillary muscle dysfunction) or severe (chordal or papillary muscle rupture or ischaemia). Presentation: Pulmonary oedema. Treat LVF (p812) and consider valve replacement.
+
+Ventricular septal defect: Presents with pansystolic murmur, JVP↑, cardiac failure. Diagnosis: echo. Treatment: surgery. 50% mortality in first week.
+
+Late malignant ventricular arrhythmias: Occur 1–3wks post-MI and are the cardiologist’s nightmare. Avoid hypokalaemia, the most easily avoidable cause. Consider 24h ECG monitoring prior to discharge if large MI.
+
+Dressler’s syndrome: (p712) Recurrent pericarditis, pleural effusions, fever, anaemia and ESR↑ 1–3wks post-MI. Treatment: may consider NSAIDS; steroids if severe.
+
+Left ventricular aneurysm: This occurs late (4–6 weeks post-MI), and presents with LVF, angina, recurrent VT, or systemic embolism. ECG: persistent ST-segment elevation. Treatment: anticoagulate, consider excision.
+
+
+117
+
+Coronary artery bypass graft (CABG)
+
+CABG is performed in left main stem disease, multi-vessel disease; multiple severe stenoses; patients unsuitable for angioplasty; failed angioplasty; refractory angina.
+
+Indications for CABG: to improve survival
+• Left main stem disease
+• Triple vessel disease involving proximal part of the left anterior descending
+
+To relieve symptoms
+• Angina unresponsive to drugs
+• Unstable angina (sometimes)
+• If angioplasty is unsuccessful
+
+NB: when CABG and percutaneous coronary intervention (PCI, eg angioplasty) are both clinically valid options, NICE recommends that the availability of new stent technology should push the decision towards PCI. In practice, patients with single-vessel CAD and normal LV function usually undergo PCI, and those with triple-vessel disease and abnormal LV function more often undergo CABG.³⁸
+
+Compared with PCI, CABG results in longer recovery time and length of inpatient stay. Recent RCTs indicate that early procedural mortality rates and 5-year survival rates are similar after PCI and CABG. Compared with PCI, CABG probably provides more complete long-term relief of angina in patients, and less repeated revascularization. However, it is associated with ↑ risk of stroke.³⁹
+
+Procedure: The heart is usually stopped and blood pumped artificially by a machine outside the body (cardiac bypass). Minimally invasive thoracotomies not requiring this are well described,⁴⁰ but randomized trials are few. The patient’s own saphenous vein or internal mammary artery is used as the graft. Several grafts may be placed. >50% of vein grafts close in 10yrs (low-dose aspirin helps prevent this). Internal mammary artery grafts last longer (but may cause chest-wall numbness).
+
+On-pump or off-pump?
+Seems to make little difference.⁴¹
+
+After CABG: If angina persists or recurs (from poor graft run-off, distal disease, new atheroma, or graft occlusion) restart anti-anginal drugs, and consider angioplasty. Mood, sex, and intellectual problems⁴² are common early. Rehabilitation helps:
+• Exercise: walk→cycle→swim→jog
+• Drive at 1 month: no need to tell DVLA if non-HGV licences, p152
+• Get back to work, eg at 3 months
+• Attend to: smoking; BP; lipids
+• Aspirin 75mg/24h PO forever; consider clopidogrel if aspirin CI
+
+
+118
+
+Arrhythmias — Emergency management: ↘p816 & p818
+
+Disturbances of cardiac rhythm or arrhythmias are:
+• Common
+• Often benign (but may reflect underlying heart disease)
+• Often intermittent, causing diagnostic difficulty
+• Occasionally severe, causing cardiac compromise.
+
+Causes Cardiac: MI, coronary artery disease, LV aneurysm, mitral valve disease, cardiomyopathy, pericarditis, myocarditis, aberrant conduction pathways. Non-cardiac: Caffeine, smoking, alcohol, pneumonia, drugs (β₂-agonists, digoxin, L-dopa, tricyclics, doxorubicin), metabolic imbalance (K+, Ca²+, Mg²+, hypoxia, hypercapnia, metabolic acidosis, thyroid disease), and phaeochromocytoma.
+
+Presentation is with palpitation, chest pain, presyncope/syncope, hypotension, or pulmonary oedema. Some arrhythmias may be asymptomatic and incidental, eg AF.
+
+History Take a detailed history of palpitations (p35). Ask about precipitating factors, onset/offset, nature (fast or slow, regular or irregular), duration, associated symptoms (chest pain, dyspnoea, collapse). Review drug history. Ask about past medical history and family history of cardiac disease.
+
+Tests FBC, U&E, glucose, Ca²+, Mg²+, TSH. ECG (see BOX): Look for signs of IHD, AF, short PR interval (WPW syndrome), long QT interval (metabolic imbalance, drugs, congenital), U waves (hypokalaemia). 24h ECG monitoring; several recordings may be needed. Echo: Any structural heart disease, eg mitral stenosis, HCM? Provocation tests: Exercise ECG, cardiac catheterization ± electrophysiological studies may be needed.
+
+Treatment If the ECG is normal during palpitations, reassure the patient. Otherwise, treatment depends on the type of arrhythmia.
+
+Bradycardia: (p119) If asymptomatic and rate >40bpm, no treatment is required. Look for a cause (drugs, sick sinus syndrome, hypothyroidism) and stop any drugs that may be contributing (β-blocker, digoxin). If rate <40bpm or patient is symptomatic, give atropine 0 . 6–1 . 2mg IV (up to maximum of 3mg). If no response, insert a temporary pacing wire (p814). If necessary, start an isoprenaline infusion or use external cardiac pacing.
+
+Sick sinus syndrome: Sinus node dysfunction causes bradycardia ± arrest, sinoatrial block or SVT alternating with bradycardia/asystole (tachy–brady syndrome). AF and thromboembolism may occur. Pace if symptomatic.
+
+SVT: (p120) Narrow complex tachycardia (rate >100bpm, QRS width <120ms). Acute management: vagotonic manoeuvres followed by IV adenosine or verapamil (if not on β-blocker); DC shock if compromised. Maintenance therapy: β-blockers or verapamil.
+
+AF/flutter: (p124) May be incidental finding. Control ventricular rate with β-blocker, or verapamil. Alternatives: digoxin: loading dose (~500μg/12h ≈ 2–3) followed by maintenance dose (0.125–0.25μg/24h), or amiodarone. Flecainide for pre-excited AF (caution if structural heart disease). DC shock if compromised (p784).
+
+VT: (p122 and ECG 6 p100) Broad complex tachycardia (rate >100bpm, QRS duration >120ms). Acute management: IV amiodarone or IV lidocaine, if no response or if compromised DC shock. Oral therapy: amiodarone loading dose (200mg/8h PO for 7d, then 200mg/12h for 7d) followed by maintenance therapy (200mg/24h). SE: Corneal deposits, photosensitivity, hepatitis, pneumonitis, lung fibrosis, nightmares, INR↑ (warfarin potentiation), T4↑, T3↓. Monitor LFT and TFT.
+
+Finally, permanent pacing may be used to overdrive tachyarrhythmias, to treat bradyarrhythmias, or prophylactically in conduction disturbances (p126). Implanted automatic defibrillators can save lives.
+
+
+119
+
+Fig 1. ECG diagnosis of bradycardias, AV block, and atrial fibrillation
+
+First degree AV block. P-R interval = 0.28s
+
+Mobitz type I (Wenckebach) AV block. With each successive QRS, the P-R interval increases until there is a non-conducted P wave.
+
+Mobitz type II AV block. Ratio of AV conduction varies from 2:1 to 3:1
+
+Complete AV block with narrow ventricular complex. There is no relation between atrial and the slower ventricular activity.
+
+Atrial fibrillation
+
+Atrial fibrillation with a rapid ventricular response. Diagnosis is based on the totally irregular ventricular rhythm.
+
+Atrial flutter with 2:1 AV block. Lead aVF (on left) shows the characteristic saw-tooth baseline whereas lead V1 (on right) shows discrete atrial activity, alternate ‘F’ waves being superimposed on ventricular T waves.
+
+
+120
+
+Narrow complex tachycardia
+
+Definition ECG shows rate of >100bpm and QRS complex duration of <120ms.
+
+Differential diagnosis
+• Sinus tachycardia: normal P wave followed by normal QRS.
+• Supraventricular tachycardia (SVT): P wave absent or inverted after QRS.
+• AF: absent P wave, irregular QRS complexes.
+• Atrial flutter: atrial rate usually 300bpm giving ‘flutter waves’ or ‘sawtooth’ baseline (p119), ventricular rate often 150bpm (2:1 block).
+• Atrial tachycardia: abnormally shaped P waves, may outnumber QRS.
+• Multifocal atrial tachycardia: 3 or more P wave morphologies, irregular QRS complexes.
+• Junctional tachycardia: rate 150–250bpm, P wave either buried in QRS complex or occurring after QRS complex.
+
+Principles of management See p818.
+• If the patient is compromised, use DC cardioversion (p784).
+• Otherwise, identify the underlying rhythm and treat accordingly.
+• Vagal manoeuvres (carotid sinus massage, Valsalva manoeuvre) transiently increase AV block, and may unmask an underlying atrial rhythm.
+• If unsuccessful, give adenosine which causes transient AV block. It has a short t½ (10–15s) and works in 2 ways: by transiently slowing ventricles to show underlying atrial rhythm and by cardioverting a junctional tachycardia to sinus rhythm.
+
+Adenosine dose: Give 6mg IV bolus (2s) into a big vein; follow by saline flush, while recording a rhythm strip; if unsuccessful, after 1–2min, give 12mg, then 12mg again, unless on dipyridamole or post cardiac transplantation (change dose, see BNF). Warn of SE: transient chest tightness, dyspnoea, headache, flushing. CI: asthma, 2nd/3rd degree AV block, or sinoatrial disease (unless pacemaker). Drug interactions: potentiated by dipyridamole, antagonized by theophylline. Transplanted hearts are very sensitive; use a smaller dose.
+
+Specific management
+
+Sinus tachycardia Identify and treat the cause (p92).
+
+SVT: Vagal manoeuvres (breath-holding, valsalva manoeuvre, carotid massage) are 1st line treatments if haemodynamically stable. IV adenosine is the drug of choice. If adenosine fails, use verapamil 5mg IV over 2min, or over 3min if elderly (not if already on β-blocker). If no response, give further dose of 5mg IV after 5–10min. Alternatives: atenolol 2.5mg IV at 1mg/min repeated at 5min intervals to a maximum of 10mg or sotalol 20–60mg (if eGFR >60) IV over 10min. If no good, use DC cardioversion.
+
+AF/flutter: Manage along standard lines (p124).
+
+Atrial tachycardia: Rare. If due to digoxin toxicity, stop digoxin; consider digoxin-specific antibody fragments (p854). Maintain K+ at 4–5mmol/L.
+
+Multifocal atrial tachycardia: Most commonly occurs in COPD. There are at least 3 morphologically distinct P waves with irregular P-P intervals. Correct hypoxia and hypercapnia. Consider verapamil or a β-blocker if rate remains >110bpm.
+
+Junctional tachycardia: There are 3 types of junctional tachycardia: AV nodal re-entry tachycardia (AVNRT), AV re-entry tachycardia (AVRT), and His bundle tachycardia. Where anterograde conduction through the AV node occurs, vagal manoeuvres are worth trying. Adenosine will usually cardiovert a junctional rhythm to sinus rhythm. If it recurs, treat with a β-blocker or amiodarone. Radiofrequency ablation is increasingly being used in AVRT and in many patients with symptomatic AVNRT.⁴³
+
+WPW syndrome (Wolff–Parkinson–White; ECG p125) Caused by congenital accessory conduction pathway between atria and ventricles. Resting ECG shows short PR interval, wide QRS complex (due to slurred upstroke or ‘delta wave’) and ST-T changes. 2 types: WPW type A (+ve δ wave in V1), WPW type B (–ve δ wave in V1). Patients present with SVT which may be due to an AVRT, pre-excited AF, or pre-excited atrial flutter. Refer to cardiologist for electrophysiology and ablation of accessory pathway.

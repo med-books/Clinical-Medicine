@@ -1,0 +1,372 @@
+PDF PAGE 1 — PRINTED PAGE 171
+
+Fig 1. A wedge-shaped density in the middle lobe (a secondary). Also note a coin lesion at the right costophrenic angle. The sharp upper boundary of the middle lobe triangular mass is the middle lobe fissure. The right hilar structures are enlarged by metastases within the hilar lymph nodes.
+
+Courtesy of Janet E. Jeddry, Yale Medical School.
+
+Differential diagnosis of nodule in the lung on a CXR
+
+Malignancy (1° or 2°) | Arterio-venous malformation
+Abscesses (p164) | Encysted effusion (fluid, blood, pus)
+Granuloma | Cyst
+Carcinoid tumour | Foreign body
+Pulmonary hamartoma | Skin tumour (eg seborrhoeic wart)
+
+TNM staging for non-small cell lung cancer
+
+Primary tumour (T)
+TX — Malignant cells in bronchial secretions, no other evidence of tumour
+TIS — Carcinoma in situ
+T0 — None evident
+T1 — ≤3cm, in lobar or more distal airway
+T2 — >3cm and >2cm distal to carina or any size if pleural involvement or obstructive pneumonitis extending to hilum, but not all the lung
+T3 — Involves the chest wall, diaphragm, mediastinal pleura, pericardium, or <2cm from, but not at, carina. T >7cm diameter and nodules in same lobe
+T4 — Involves mediastinum, heart, great vessels, trachea, oesophagus, vertebral body, carina, malignant effusion, or nodules in another lobe
+
+Regional nodes (N)
+N0 — None involved (after mediastinoscopy)
+N1 — Peribronchial and/or ipsilateral hilum
+N2 — Ipsilateral mediastinum or subcarinal
+N3 — Contralateral mediastinum or hilum, scalene, or supraclavicular
+
+Distant metastasis (M)
+M0 — None
+M1 — a) Nodule in other lung, pleural lesions or malignant effusion; b) distant metastases present
+
+Stages
+Occult: TX N0 M0
+I: TIS/T1/T2 N0 M0
+II: T1/T2 N1 M0 or T3 N0 M0
+IIIa: T3 N1 M0 or T1–3 N2 M0
+IIIb: T1–4 N3 M0 or T4 N0–2 M0
+IV: T1–4 N0–3 M1
+
+
+PDF PAGE 2 — PRINTED PAGE 172
+
+Asthma²⁷
+
+Asthma affects 5–8% of the population. It is characterized by recurrent episodes of dyspnoea, cough, and wheeze caused by reversible airways obstruction. Three factors contribute to airway narrowing: bronchial muscle contraction, triggered by a variety of stimuli; mucosal swelling/inflammation, caused by mast cell and basophil degranulation resulting in the release of inflammatory mediators; increased mucus production.
+
+Symptoms. Intermittent dyspnoea, wheeze, cough (often nocturnal) and sputum. Ask specifically about:
+
+Precipitants: Cold air, exercise, emotion, allergens (house dust mite, pollen, fur), infection, smoking and passive smoking,²⁸ pollution, NSAIDS, β-blockers.
+
+Diurnal variation in symptoms or peak flow. Marked morning dipping of peak flow is common and can tip the balance into a serious attack, despite having normal peak flow (fig 1) at other times.
+
+Exercise: Quantify the exercise tolerance.
+
+Disturbed sleep: Quantify as nights per week (a sign of severe asthma).
+
+Acid reflux: 40–60% of those with asthma have reflux; treating it improves spirometry—but not necessarily symptoms.²⁹
+
+Other atopic disease: Eczema, hay fever, allergy, or family history?
+
+The home (especially the bedroom): Pets? Carpet? Feather pillows or duvet? Floor cushions and other ‘soft furnishings’?
+
+Job: If symptoms remit at weekends or holidays, work may provide the trigger (15% of cases are work-related—more for paint sprayers, food processors, welders, and animal handlers).³⁰ Ask the patient to measure his peak flow at intervals at work and at home (at the same time of day) to confirm this (see fig 2).
+
+Days per week off work or school.
+
+Signs. Tachypnoea; audible wheeze; hyperinflated chest; hyperresonant percussion note; air entry ↓; widespread, polyphonic wheeze. Severe attack: inability to complete sentences; pulse >110bpm; respiratory rate >25/min; PEF 33–50% predicted. Life-threatening attack: silent chest; confusion; exhaustion; cyanosis (PaO₂ <8 kPa but PaCO₂ 4.6–6.0, SpO₂ <92%); bradycardia; PEF <33% predicted. Near fatal: ↑PaCO₂.
+
+Tests. Acute attack: PEF, sputum culture, FBC, U&E, CRP, blood cultures. ABG analysis usually shows a normal or slightly ↓ PaO₂ but ↓ PaCO₂ (hyperventilation). If PaO₂ is normal but the patient is hyperventilating, watch carefully and repeat the ABG a little later. If PaCO₂ is normal or raised, transfer to high-dependency unit or ITU for ventilation, as this signifies failing respiratory effort. CXR (to exclude infection or pneumothorax). Chronic asthma: PEF monitoring (p156): a diurnal variation of >20% on ≥3d a wk for 2wks. Spirometry: obstructive defect (↓FEV₁/FVC, ↑RV p156); usually ≥15% improvement in FEV₁ following β₂ agonists or steroid trial. CXR: hyperinflation. Skin-prick tests may help to identify allergens. Histamine or methacholine challenge. Aspergillus serology.
+
+Treatment. Chronic asthma (p174). Emergency treatment (p820).
+
+Differential diagnosis. Pulmonary oedema (‘cardiac asthma’); COPD (may co-exist); large airway obstruction (eg foreign body, tumour); SVC obstruction (wheeze/dyspnoea not episodic); pneumothorax; PE; bronchiectasis; obliterative bronchiolitis (suspect in elderly).
+
+Associated diseases. Acid reflux; polyarteritis nodosa (PAN, p558); Churg–Strauss syndrome (p710); ABPA (p168).
+
+Natural history. Most childhood asthmatics (see OHCS p164) either grow out of asthma in adolescence or suffer much less as adults. A significant number of people develop chronic asthma late in life.
+
+Mortality. ~1000 asthma deaths in the UK in 2009, 50% were >65yrs old.
+
+
+PDF PAGE 3 — PRINTED PAGE 173
+
+Fig 1. Normal peak expiratory flow (PEF).
+
+Data from Nunn, AJ, Gregg, I. New regression equations for predicting peak expiratory flow in adults. BMJ 1989;298:1068–70.
+
+Fig 2. Examples of serial peak flow charts.
+
+Chart labels:
+Time of day (h)
+Peak expiratory flow (L/min)
+Day 1; Day 2; Day 3; Day 4; Day 5; Day 6
+Recovery from severe attack of asthma
+Predicted PEF was 320 L/min
+Arrows point to early morning ‘dips’
+
+
+PDF PAGE 4 — PRINTED PAGE 174
+
+Management of chronic asthma²⁷ (BTS 2011)
+
+Behaviour. Help to quit smoking (p87). Avoid precipitants. Check inhaler technique. Teach use of a peak flow meter to monitor PEF twice a day. Educate to enable self-management by altering their medication in the light of symptoms or PEF. Give specific advice about what to do in an emergency; provide a written action plan. Consider teaching relaxed breathing to avoid dysfunctional breathing³¹ (Papworth method).¹
+
+British Thoracic Society guidelines²⁷. Start at the step most appropriate to severity; moving up if needed, or down if control is good for >3 months. Rescue courses of prednisolone may be used at any time.
+
+Step 1. Occasional short-acting inhaled β₂-agonist as required for symptom relief. If used more than once daily, or night-time symptoms, go to Step 2.
+
+Step 2. Add standard-dose inhaled steroid, eg beclometasone 200–800μg/day, or start at the dose appropriate for disease severity, and titrate as required.
+
+Step 3. Add long-acting β₂-agonist (eg salmeterol 50μg/12h by inhaler). If benefit—but still inadequate control—continue and ↑dose of beclometasone to 800μg/day. If no effect of long-acting β₂-agonist stop it. Review diagnosis. Leukotriene receptor antagonist or oral theophylline may be tried.
+
+Step 4. Consider trials of: beclometasone up to 2000μg/day; modified-release oral theophylline; modified-release oral β₂-agonist; oral leukotriene receptor antagonist (see below), in conjunction with previous therapy. Modified-release β₂ agonist tablets.
+
+Step 5. Add regular oral prednisolone (1 dose daily, at the lowest possible dose). Continue with high-dose inhaled steroids. Refer to asthma clinic.
+
+Drugs. β₂-adrenoceptor agonists relax bronchial smooth muscle (↑CAMP), acting within minutes. Salbutamol is best given by inhalation (aerosol, powder, nebulizer), but may also be given PO or IV. SE: tachyarrhythmias, ↓K⁺, tremor, anxiety. Long-acting inhaled β₂-agonist (eg salmeterol, formoterol) can help nocturnal symptoms and reduce morning dips. They may be an alternative to ↑steroid dose when symptoms are uncontrolled; doubts remain over whether they are associated with an increase in adverse events.³² SE: as salbutamol, paradoxical bronchospasm.³³
+
+Corticosteroids are best inhaled to minimize systemic effects, eg beclometasone via spacer (or powder), but may be given PO or IV. They act over days to ↓bronchial mucosal inflammation. Rinse mouth after inhaled steroids to prevent oral candidiasis. Oral steroids are used acutely (high-dose, short courses, eg prednisolone 40mg/24h PO for 7d) and longer term in lower dose (eg 5–10mg/24h) if control is not optimal on inhalers. Warn about SEs: p371.
+
+Aminophylline (metabolized to theophylline) acts by inhibiting phosphodiesterase, thus ↓bronchoconstriction by ↑CAMP levels. Try as prophylaxis, at night, PO, to prevent morning dipping. Stick with one brand name (bioavailability variable). Also useful as an adjunct if inhaled therapy is inadequate. In acute severe asthma, it may be given IVI. It has a narrow therapeutic ratio, causing arrhythmias, GI upset, and fits in the toxic range. Check theophylline levels (p766), and do ECG monitoring and check plasma levels after 24h if IV therapy is used.
+
+Anticholinergics (eg ipratropium, tiotropium) may ↓muscle spasm synergistically with β₂-agonists but are not recommended in current guidelines for chronic asthma. They may be of more benefit in COPD.
+
+Cromoglicate may be used as prophylaxis in mild and exercise-induced asthma (always inhaled), especially in children. It may precipitate asthma.
+
+Leukotriene receptor antagonists (eg oral montelukast, zafirlukast) block the effects of cysteinyl leukotrienes in the airways by antagonizing the CystLT1 receptor.
+
+Anti-IgE monoclonal antibody. Omalizumab³⁴ may be of use in highly selected patients with persistent allergic asthma. Given as a subcutaneous injection every 2–4 wks depending on dose. Specialists only.
+
+¹ Integrated breathing and relaxation training (Papworth method) is psychological and physical: patients learn to drop their shoulders, relax their abdomen, and breathe calmly and appropriately.
+
+
+PDF PAGE 5 — PRINTED PAGE 175
+
+Adult doses of common inhaled drugs used in bronchoconstriction
+
+Drug | Inhaled aerosol | Inhaled powder | Nebulized (supervised)
+
+Salbutamol
+Dose example: 100–200μg/6h | 200–400μg/6h | 2.5–5mg/6h
+Airomir® is a CFC-free example of a breath-actuated inhaler.
+
+Terbutaline
+Single dose: — | 500μg¹ | 2.5mg/mL
+Recommended regimen: — | 500μg/6h | 5–10mg/6–12h
+
+Salmeterol
+Dose/puff: 25μg | 50μg | —
+Recommended regimen: 50–100μg/12h | 50–100μg/12h | —
+
+Ipratropium bromide (COPD)
+Dose/puff: 20μg | — | 250μg/mL
+Recommended regimen: 20–40μg/6h | — | 250–500μg/6h
+
+Steroids
+(Clenil Modulite® = beclometasone; Pulmicort® = budesonide; ¹ Flixotide® = fluticasone)
+
+Fluticasone (Flixotide®)
+Doses available/puff: 50, 100, 250 & 500μg | As for aerosol | 250μg/mL
+Recommended regimen: 100–250μg/12h | 100–250μg/12h, max 1mg/12h | 0.5–2mg/12h
+
+Clenil Modulite®
+Doses available/puff: 50 & 100μg; 250μg | — | —
+Recommended regimen: 200μg/12h → 400μg/12h → 1000μg/12h
+
+Prescribe beclometasone by brand name, and state that a CFC-free inhaler should be dispensed. This is because, dose for dose, Qvar® is twice as potent as the other available CFC-free brand (Clenil Modulite®).
+
+Any dose ≥250μg ≈ significant steroid absorption: carry a steroid card; this recommendation is being widened, and lower doses (beclometasone) are now said to merit a steroid card (manufacturer’s information).
+
+¹ Available as a Turbohaler®; Autohalers® are an alternative (breath-actuated) and don’t need breathing coordination, eg Airomir® (salbutamol) and Qvar® (beclometasone). Accuhalers® deliver dry powders (eg Flixotide®, Serevent®).
+
+Systemic absorption (via the throat) is less if inhalation is through a large-volume device, eg Volumatic® or AeroChamber Plus® devices. The latter is more compact. Static charge on some devices reduces dose delivery, so wash in water before dose; leave to dry (don’t rub). It’s pointless to squirt many puffs into a device: it is best to repeat single doses, and be sure to inhale as soon as the drug is in the spacer. SE: local (oral) candidiasis (p371); ↑rate of cataract if lifetime dose ≥2g beclometasone.³⁵
+
+
+PDF PAGE 6 — PRINTED PAGE 176
+
+Chronic obstructive pulmonary disease (COPD)³⁶, ³⁷
+
+Definitions. COPD is a common progressive disorder characterized by airway obstruction (FEV₁ <80% predicted; FEV₁/FVC <0.7; see p156 and TABLE below) with little or no reversibility. It includes chronic bronchitis and emphysema. Usually patients have either COPD or asthma, not both: COPD is favoured by: • Age of onset >35yrs • Smoking (passive or active) or pollution related³⁸ • Chronic dyspnoea • Sputum production • Minimal diurnal or day-to-day FEV₁ variation. Chronic bronchitis is defined clinically as cough, sputum production on most days for 3 months of 2 successive yrs. Symptoms improve if they stop smoking. There is no excess mortality if lung function is normal. Emphysema is defined histologically as enlarged air spaces distal to terminal bronchioles, with destruction of alveolar walls.
+
+Prevalence. 10–20% of the over-40s; 2.5×10⁶ deaths/yr worldwide.³⁹
+
+Pink puffers and blue bloaters (ends of a spectrum). Pink puffers have ↑alveolar ventilation, a near normal PaO₂ and a normal or low PaCO₂. They are breathless but are not cyanosed. They may progress to type 1 respiratory failure (p180). Blue bloaters have ↓alveolar ventilation, with a low PaO₂ and a high PaCO₂. They are cyanosed but not breathless and may go on to develop cor pulmonale. Their respiratory centres are relatively insensitive to CO₂ and they rely on hypoxic drive to maintain respiratory effort (p180)—supplemental oxygen should be given with care.
+
+Symptoms. Cough; sputum; dyspnoea; wheeze.
+
+Signs. Tachypnoea; use of accessory muscles of respiration; hyperinflation; ↓cricosternal distance (<3cm); ↓expansion; resonant or hyperresonant percussion note; quiet breath sounds (eg over bullae); wheeze; cyanosis; cor pulmonale.
+
+Complications. Acute exacerbations ± infection; polycythaemia; respiratory failure; cor pulmonale (oedema; JVP↑); pneumothorax (ruptured bullae); lung carcinoma.
+
+Tests. FBC: PCV↑. CXR: Hyperinflation (>6 anterior ribs seen above diaphragm in mid-clavicular line); flat hemidiaphragms; large central pulmonary arteries; ↓peripheral vascular markings; bullae. ECG: Right atrial and ventricular hypertrophy (cor pulmonale). ABG: PaO₂ ↓ ± hypercapnia. Lung function (p156, p159): obstructive + air trapping (FEV₁ <80% of predicted—see p156, FEV₁:FVC ratio <70%, TLC↑, RV↑, DLCO↓ in emphysema—see p158). Learn how to do spirometry from an experienced person: ensure maximal expiration of the full breath (it takes >4s; it’s not a quick puff out).
+
+Trial of steroids: See BOX 2.
+
+Treatment. Chronic stable: see BOX; Emergency: p822. Offer smoking cessation advice with cordial vigour (p87). BMI is often low: diet advice ± supplements⁴⁰ may help (p586). Mucolytics (BNF 3.7) may help chronic productive cough (NICE).⁴¹ Disabilities may cause serious, treatable depression; screen for this (p11). Respiratory failure: p180. Flu and pneumococcal vaccinations: p160 and p402.
+
+Long-term O₂ therapy (LTOT): An MRC trial showed that if PaO₂ was maintained ≥8.0kPa for 15h a day, 3yr survival improved by 50%. UK NICE guidelines suggest LTOT should be given for: 1 Clinically stable non-smokers with PaO₂ <7.3kPa—despite maximal treatment. These values should be stable on two occasions >3wks apart. 2 If PaO₂ 7.3–8.0 and pulmonary hypertension (eg RVH; loud S₂), or polycythaemia, or peripheral oedema, or nocturnal hypoxia. 3 O₂ can also be prescribed for terminally ill patients.
+
+Predicted FEV₁ (Caucasian ♂; litres, ↓level in other races)¹
+
+Height cm: 150 155 160 165 170 175 180 185 190 195 | 145 150 155 160 165 170 175 180 185 190
+
+♂ Age (yr)
+25: 2.9 3.2 3.4 3.7 4.0 4.2 4.3 4.7 5.0 5.3 | 2.6 2.7 2.9 3.0 3.1 3.3 3.4 3.5 3.7 3.8
+30: 2.8 3.1 3.3 3.6 3.8 4.1 4.3 4.6 4.9 5.1 | 2.5 2.6 2.8 2.9 3.0 3.2 3.3 3.4 3.6 3.7
+40: 2.5 2.8 3.0 3.3 3.6 3.8 4.1 4.3 4.6 4.9 | 2.3 2.4 2.5 2.7 2.8 3.0 3.0 3.2 3.3 3.5
+50: 2.2 2.5 2.8 3.0 3.3 3.5 3.8 4.0 4.3 4.6 | 2.1 2.2 2.3 2.5 2.6 2.7 2.9 3.0 3.1 3.3
+60: 2.0 2.2 2.5 2.8 3.0 3.3 3.5 3.8 4.0 4.3 | 1.7 2.0 2.1 2.3 2.4 2.5 2.7 2.8 2.9 3.1
+70: 1.7 2.0 2.2 2.5 2.7 3.0 3.3 3.5 3.8 4.0 | 1.6 1.8 1.9 2.1 2.2 2.3 2.5 2.6 2.7 2.9
+80: 1.4 1.7 2.0 2.2 2.5 2.7 3.0 3.3 3.5 3.8 | 1.4 1.6 1.7 1.9 2.0 2.1 2.2 2.4 2.5 2.7
+
+Data from www.nationalasthma.org.au/publications/spiro/appc.html#Mean
+
+¹ African FEV₁ is 10–15% lower; Chinese: 20% lower; Indian: 10% lower; NB: PEF varies little between groups.
+
+
+PDF PAGE 7 — PRINTED PAGE 177
+
+British Thoracic Society (BTS)/NICE COPD guidelines³⁷
+
+Assessment of COPD
+Spirometry; bronchodilators may slightly improve FEV₁.
+Trial of oral steroids; look for >15% ↑ in FEV₁.
+CXR: ?bullae ?other pathology.
+Arterial blood gases: hypoxia ?hypercapnia.
+
+Severity of COPD (all FVC <0.7)
+Stage 1 Mild — FEV₁ ≥80% of predicted
+Stage 2 Moderate — FEV₁ 50–79% of predicted
+Stage 3 Severe — FEV₁ 30–49% of predicted
+Stage 4 Very severe — FEV₁ <30% of predicted
+
+Treating stable COPD
+
+• General: Stop smoking, encourage exercise, treat poor nutrition or obesity, influenza and pneumococcal vaccination, pulmonary rehabilitation/palliative care. NIPPV: see p823. PRN short-acting antimuscarinic (ipratropium) or β₂ agonist.
+
+• Mild/moderate: Inhaled long-acting antimuscarinic (tiotropium) or β₂ agonist.¹
+
+• Severe: Combination long-acting β₂ agonist + corticosteroids, eg Symbicort® (budesonide + formoterol)⁴² or tiotropium.
+
+• If remain symptomatic: Tiotropium + inhaled steroid + long-acting β₂ agonist. Refer to specialist. Consider steroid trial, home nebulizers, theophylline.
+
+• Pulmonary hypertension: Assess the need for LTOT (see p176). Treat oedema with diuretics.
+
+More advanced COPD
+
+Pulmonary rehabilitation is greatly valued by patients.
+
+• Consider LTOT if PaO₂ <7.3kPa (see OPPOSITE).
+• Indications for surgery: recurrent pneumothoraces; isolated bullous disease; lung volume reduction surgery (selected patients).
+• NIV may be appropriate if hypercapnic on LTOT.
+• NB: air travel is risky if FEV₁ <50% or PaO₂ <6.7kPa.
+• Assess home set-up and support needed. Treat depression (p11).
+
+Indications for specialist referral
+
+• Uncertain diagnosis, or suspected severe COPD, or a rapid decline in FEV₁.
+• Onset of cor pulmonale.
+• Bullous lung disease (to assess for surgery).
+• Assessment for oral corticosteroids, nebulizer therapy, or LTOT.
+• <10 pack-years smoking (=PYS = the number of packs/day × years of smoking) or COPD in patient <40yrs (eg is the cause α₁-antitrypsin deficiency? p264).
+• Symptoms disproportionate to lung function tests.
+• Frequent infections (to exclude bronchiectasis).
+
+Steroid trial
+
+30mg prednisolone/24h PO for 2wks. If FEV₁ rises by >15%, the COPD is ‘steroid responsive’ and benefit may be had by using long-term inhaled corticosteroids (p167). If this doesn’t achieve the post-prednisolone FEV₁, request expert help.
+
+NB: NICE says that ‘reversibility testing is not necessary as a part of the diagnostic process or to plan initial therapy with bronchodilators or corticosteroids. It may be unhelpful or misleading because: 1 Repeated FEV₁ measurements can show small spontaneous fluctuations; 2 Results of reversibility tests on different occasions can be inconsistent and not reproducible; 3 Over-reliance on a single reversibility test may be misleading unless the change in FEV₁ is >400mL; 4 Definition of a significant change is arbitrary; 5 Response to long-term therapy is not predicted by acute reversibility testing.’
+
+¹ Cochrane meta-analyses (2007) of trials (including TORCH) favour steroids + LABA (long acting beta agonist) vs either alone. LABA alone may ↑exacerbation rates, but no excess hospitalizations or mortality; steroid inhalers alone are associated with ↑mortality (by 33%) compared with steroids + LABA.⁴³ Steroid inhalers may ↑risk of pneumonia, but when combined with LABA, advantages outweigh disadvantages.
+
+
+PDF PAGE 8 — PRINTED PAGE 178
+
+Acute respiratory distress syndrome (ARDS)
+
+ARDS, or acute lung injury, may be caused by direct lung injury or occur secondary to severe systemic illness. Lung damage and release of inflammatory mediators cause increased capillary permeability and non-cardiogenic pulmonary oedema, often accompanied by multiorgan failure.
+
+Causes. Pulmonary: Pneumonia; gastric aspiration; inhalation; injury; vasculitis (p558); contusion. Other: Shock; septicaemia; haemorrhage; multiple transfusions; DIC (p346); pancreatitis; acute liver failure; trauma; head injury; malaria; fat embolism; burns; obstetric events (eclampsia; amniotic fluid embolus); drugs/toxins (aspirin, heroin, paraquat).
+
+Clinical features. Cyanosis; tachypnoea; tachycardia; peripheral vasodilatation; bilateral fine inspiratory crackles.
+
+Investigations. FBC, U&E, LFT, amylase, clotting, CRP, blood cultures, ABG. CXR shows bilateral pulmonary infiltrates. Pulmonary artery catheter to measure pulmonary capillary wedge pressure (PCWP).
+
+Diagnostic criteria⁴⁴. One consensus requires these 4 to exist: 1 Acute onset. 2 CXR: bilateral infiltrates. 3 Pulmonary capillary wedge pressure (PCWP) <19mmHg or a lack of clinical congestive heart failure. 4 Refractory hypoxaemia with PaO₂ : FiO₂ <200 for ARDS. Others include total thoracic compliance <30mL/cmH₂O.
+
+Management. Admit to ITU; give supportive therapy; treat the underlying cause.
+
+• Respiratory support. In early ARDS, continuous positive airway pressure (CPAP) with 40–60% oxygen may be adequate to maintain oxygenation. But most patients need mechanical ventilation. Indications for ventilation: PaO₂ <8.3kPa despite 60% O₂; PaCO₂ >6kPa. The large tidal volumes (10–15mL/kg) produced by conventional ventilation plus reduced lung compliance in ARDS may lead to high peak airway pressures ± pneumothorax. A low-tidal-volume, pressure-limited approach, with either low or moderate high positive end-expiratory pressure (PEEP), improves outcome.
+
+• Circulatory support. Invasive haemodynamic monitoring with an arterial line and Swan–Ganz catheter aids the diagnosis and may be helpful in monitoring PCWP and cardiac output. A conservative fluid management approach improves outcome. Maintain cardiac output and O₂ delivery with inotropes (eg dobutamine 2.5–10μg/kg/min IVI), vasodilators, and blood transfusion. Consider treating pulmonary hypertension with low-dose (20–120 parts per million) nitric oxide, a pulmonary vasodilator. Haemofiltration may be needed in renal failure and to achieve a negative fluid balance.⁴⁵, ⁴⁶
+
+• Sepsis. Identify organism(s) and treat accordingly. If clinically septic, but no organisms cultured, use empirical broad-spectrum antibiotics (p161). Avoid nephrotoxic antibiotics.
+
+• Other: Nutritional support: enteral is best: p586 & p588, with high fat, antioxidant formulations. Steroids protect those at risk of fat embolization and with pneumocystosis and may improve outcome in subacute ARDS. Their role in established ARDS is controversial.⁴⁷, ⁴⁸
+
+Prognosis. Overall mortality is 50–75%. Prognosis varies with age of patient, cause of ARDS (pneumonia 86%, trauma 38%), and number of organs involved (3 organs involved for >1wk is ‘invariably’ fatal).
+
+
+PDF PAGE 9 — PRINTED PAGE 179
+
+Risk factors for ARDS
+
+Sepsis | Massive transfusion
+Hypovolaemic shock | Burns (p858)
+Trauma | Smoke inhalation (p859)
+Pneumonia | Near drowning
+Diabetic ketoacidosis | Acute pancreatitis
+Gastric aspiration | DIC (p346)
+Pregnancy | Head injury
+Eclampsia | ICP↑
+Amniotic fluid embolus | Fat embolus
+Drugs/toxins | Heart/lung bypass
+Paraquat, heroin, aspirin | Tumour lysis syndrome (p526)
+Pulmonary contusion | Malaria
+
+Fig 1. Supine chest radiograph showing air-space shadowing in a perihilar distribution spreading into the peripheries. This appearance can also be seen with infection and cardiogenic pulmonary oedema, but clues from the history, the heart size and lack of pleural effusions can suggest ARDS over the latter. Remember though that this is a supine projection—the patient is lying flat with the X-ray beam AP—causing the cardiac shadow to be artificially enlarged and pleural effusions to level out on the posterior chest wall so they will not obscure the costophrenic angles unless very large.
+
+Image courtesy of Nottingham University Hospitals NHS Trust Radiology Department.
+
+
+PDF PAGE 10 — PRINTED PAGE 180
+
+Respiratory failure
+
+Respiratory failure occurs when gas exchange is inadequate, resulting in hypoxia. It is defined as a PaO₂ <8kPa and subdivided into 2 types according to PaCO₂ level.
+
+Type I respiratory failure: defined as hypoxia (PaO₂ <8kPa) with a normal or low PaCO₂. It is caused primarily by ventilation/perfusion (V/Q) mismatch, eg:
+• Pneumonia
+• Pulmonary oedema
+• PE
+• Asthma
+• Emphysema
+• Pulmonary fibrosis
+• ARDS (p178)
+
+Type II respiratory failure: defined as hypoxia (PaO₂ <8kPa) with hypercapnia (PaCO₂ >6.0kPa). This is caused by alveolar hypoventilation, with or without V/Q mismatch. Causes include:
+• Pulmonary disease: asthma, COPD, pneumonia, end-stage pulmonary fibrosis, obstructive sleep apnoea (OSA, p194).
+• Reduced respiratory drive: sedative drugs, CNS tumour or trauma.
+• Neuromuscular disease: cervical cord lesion, diaphragmatic paralysis, poliomyelitis, myasthenia gravis, Guillain–Barré syndrome.
+• Thoracic wall disease: flail chest, kyphoscoliosis.
+
+Clinical features are those of the underlying cause together with symptoms and signs of hypoxia, with or without hypercapnia.
+
+Hypoxia: Dyspnoea; restlessness; agitation; confusion; central cyanosis. If longstanding hypoxia: polycythaemia; pulmonary hypertension; cor pulmonale.
+
+Hypercapnia: Headache; peripheral vasodilatation; tachycardia; bounding pulse; tremor/flap; papilloedema; confusion; drowsiness; coma.
+
+Investigations are aimed at determining the underlying cause:
+• Blood tests: FBC, U&E, CRP, ABG.
+• Radiology: CXR.
+• Microbiology: sputum and blood cultures (if febrile).
+• Spirometry (COPD, neuromuscular disease, Guillain–Barré syndrome).
+
+Management depends on the cause:
+
+Type I respiratory failure
+• Treat underlying cause.
+• Give oxygen (35–60%) by facemask to correct hypoxia.
+• Assisted ventilation if PaO₂ <8kPa despite 60% O₂.
+
+Type II respiratory failure: The respiratory centre may be relatively insensitive to CO₂ and respiration could be driven by hypoxia.
+• Treat underlying cause.
+• Controlled oxygen therapy: start at 24% O₂. Oxygen therapy should be given with care. Nevertheless, don’t leave the hypoxia untreated.
+• Recheck ABG after 20min. If PaCO₂ is steady or lower, increase O₂ concentration to 28%. If PaCO₂ has risen >1.5kPa and the patient is still hypoxic, consider assisted ventilation (eg NIPPV, p823, ie non-invasive positive pressure ventilation). Rarely a respiratory stimulant (eg doxapram 1.5–4mg/min IVI).
+• If this fails, consider intubation and ventilation, if appropriate.

@@ -1,0 +1,319 @@
+121
+
+Holiday heart syndrome⁴⁴,⁴⁵
+
+Binge drinking in a person without any clinical evidence of heart disease may result in acute cardiac rhythm and/or conduction disturbances, which is called holiday heart syndrome (note that recreational use of marijuana may have similar effects). The most common rhythm disorder is supraventricular tachyarrhythmia, and particularly AF (consider this diagnosis in patients without structural heart disease who present with new-onset AF).
+
+The prognosis is excellent, especially in young patients without structural heart disease. As holiday heart syndrome resolves rapidly by abstinence from alcohol use, advise all patients against the excessive use of alcohol in future.
+
+
+122
+
+Broad complex tachycardia
+
+ECG shows rate of >100 and QRS complexes >120ms (>3 small squares, p90). If no clear QRS complexes, it is VF or asystole, p766.
+
+Principles of management
+• Identify the underlying rhythm and treat accordingly.
+• If in doubt, treat as ventricular tachycardia (VT)—the commonest cause.
+
+Differential diagnosis
+• VT; includes torsade de pointes, below, and figs 3–5.
+• Supraventricular tachycardia (SVT) with aberrant conduction, eg AF, atrial flutter.
+
+(NB: ventricular ectopics should not cause confusion when occurring singly; but if >3 together at rate of >120, this constitutes VT.)
+
+Identification of the underlying rhythm may be difficult; seek expert help. Diagnosis is based on the history (IHD increases the likelihood of a ventricular arrhythmia), a 12-lead ECG, and the lack of response to IV adenosine (p120). ECG findings in favour of VT:
+• Positive QRS concordance in chest leads
+• Marked left axis deviation
+• AV dissociation (occurs in 25%) or 2:1 or 3:1 AV block
+• Fusion beats or capture beats (fig 2)
+• Also bear in mind the hard-to-remember QRS Brugada criteria (see BOX)
+
+Concordance means QRS complexes are all +ve or –ve. A fusion beat is when a ‘normal beat’ fuses with a VT complex to create an unusual complex, and a capture beat is a normal QRS between abnormal beats (see fig 1).
+
+Management Connect to a cardiac monitor; have a defibrillator to hand.
+
+Ventricular fibrillation (VF) Pulseless or unstable VT ↘Use asynchronous DC shock (p784): see also the European Resuscitation Guidelines (see inside back cover).
+
+Stable VT:
+• Give high-flow oxygen by face mask.
+• Obtain IV access. Send U&E, cardiac enzymes, Ca²+, Mg²+. Correct low K+ or Mg²+.
+• Obtain 12-lead ECG.
+• ABG (if evidence of pulmonary oedema, reduced conscious level, sepsis).
+• Amiodarone IVI as on page 124. Phlebitis may result if peripheral line used, especially if concentration >2mg/mL. Rarely, lidocaine 50mg over 2min instead, followed by infusion; see BNF.
+• If polymorphic (torsade de pointes) magnesium sulphate 2g over 5min.
+• If this fails, or if cardiac arrest, use DC shock (p806 and inside back cover).
+• After correction of VT, establish the cause from history/investigations.
+• Maintenance antiarrhythmic therapy may be required, eg amiodarone.
+• Prevention of recurrent VT: implantation of automatic defibrillators (ICD) may help. In refractory cases radiofrequency ventricular tachycardia ablation may be tried.
+
+Ventricular extrasystoles (ectopics) are the commonest post-MI arrhythmia; they are also seen in health (≥10/h). Post-MI they suggest electrical instability, and the risk is VF if the ‘R on T’ pattern (ie no gap before the T wave) is seen (see fig 1). If frequent (>10/min), consider amiodarone IV as above. Otherwise, just observe patient.
+
+Torsade de pointes: Looks like VF but is VT with varying axis (see fig 4). It is due to ↑QT interval (an SE of antiarrhythmics, so consider stopping). Treatment: magnesium sulphate, 2g IV over 10min ± overdrive pacing.
+
+Fig 1. Ventricular extrasystoles may be intermittent, or have a fixed association with the preceding normal beat, ie 1:2 (bigeminy, as here) or 1:3 (trigeminy).
+
+
+123
+
+Fig 2. Fusion and capture beats.
+(a) A capture beat (*).
+(b) A fusion beat (*).
+
+Fig 3. VT with a rate of 235/min.
+
+Fig 4. VF (p806).
+
+Fig 5. Torsade de pointes tachycardia.
+
+The Brugada criteria may help differentiate SVT from VT…⁴⁶
+
+Broad complexes + RBBB-like QRS
+Lead V1:
+• Monophasic R or QR or RS favours VT
+• Triphasic RSR favours SVT
+Lead V6:
+• R to S ratio <1 (R wave < S wave) favours VT
+• QS or QR favours VT
+• Monophasic R favours VT
+• Triphasic favours SVT
+• R to S ratio >1 (R wave > S wave) favours SVT
+
+Broad complexes + LBBB-like QRS
+Lead V1 or V2:
+Any of these:
+• R >30ms
+• >60ms to nadir S
+• Notched S favours VT
+Lead V6:
+• Presence of any Q wave, QR or QS favours VT
+• No Q wave in lead V6 favours SVT
+
+
+124
+
+Atrial fibrillation (AF) and flutter⁴⁷ — ECG p119; NICE 2006
+
+A chaotic, irregular atrial rhythm at 300–600bpm; the AV node responds intermittently, hence an irregular ventricular rate. Cardiac output drops by 10–20% as the ventricles aren’t primed reliably by the atria. AF is common in the elderly (≤9%). The main risk is embolic stroke. Warfarin reduces this to 1%/yr from 4%. So, do an ECG on everyone with an irregular pulse (±24h ECG if dizzy, faints, palpitations, etc.).
+
+Causes Heart failure/ischaemia; hypertension; MI (seen in 22%);⁴⁸ PE; mitral valve disease; pneumonia; hyperthyroidism; caffeine; alcohol; post-op; K+↓; Mg²+↓.⁴⁹ Rare causes: Cardiomyopathy; constrictive pericarditis; sick sinus syndrome; lung ca.; atrial myxoma; endocarditis; haemochromatosis; sarcoid. ‘Lone’ AF means no cause found.
+
+Symptoms May be asymptomatic or cause chest pain, palpitations, dyspnoea, or faintness. Signs Irregularly irregular pulse, the apical pulse rate is greater than the radial rate and the 1st heart sound is of variable intensity; signs of LVF (p812).
+
+Examine the whole patient: AF is often associated with non-cardiac disease.
+
+Tests ECG shows absent P waves, irregular QRS complexes. Blood tests: U&E, cardiac enzymes, thyroid function tests. Consider echo to look for left atrial enlargement, mitral valve disease, poor LV function, and other structural abnormalities.
+
+Acute AF (<48h)
+
+If very ill or haemodynamically unstable: ↘O₂ ↘U&E ↘Emergency cardioversion; if unavailable try IV amiodarone. Do not delay treatment in order to start anticoagulation. Treat associated illnesses (eg MI, pneumonia). Control ventricular rate: 1st-line verapamil (40–120mg/8h PO) or bisoprolol (2.5–5.0mg/d PO). 2nd-line: digoxin or amiodarone. Start full anticoagulation with LMWH, to keep options open for cardioversion even if the 48h time limit is running out.⁵⁰ If the 48h period has elapsed, cardioversion is OK if transoesophageal echo thrombus-free.
+
+Cardioversion regimen: ↘O₂ ↘ITU/CCU ↘GA or IV sedation, monophasic ↘200J ↘360J ↘360J (biphasic; 200J). Relapses back into AF are common. Drug cardioversion is often preferred: amiodarone IVI (5mg/kg over 1h then ~900mg over 24h via a central line) or PO (200mg/8h for 1wk, 200mg/12h for 1wk, 100–200mg/24h maintenance). Alternative (if stable and no known IHD or WPW p120): flecainide (a strong negative inotrope) 2mg/kg IV over 10–30min, max 150mg (or 300mg PO stat); monitor ECG.
+
+Chronic AF
+
+Main goals in managing permanent AF are rate control and anticoagulation. Rate control is at least as good as rhythm control,⁵¹ but rhythm control may be appropriate if:
+• symptomatic or CCF
+• younger
+• presenting for 1st time with lone AF
+• AF from a corrected precipitant (eg U&E↑↓)
+
+Anticoagulation see BOX 1.
+
+Rate control β-blocker or rate-limiting Ca²+ blocker are 1st choice. If this fails, add digoxin (p108), then consider amiodarone. Digoxin as monotherapy in chronic AF is only OK in sedentary patients. Don’t give β-blockers with diltiazem or verapamil without expert advice (bradycardia risk). Don’t get fixated on a single figure to aim at: dialogue with patients tells what works best and allows desired exercise levels, eg <90 at rest and on exertion 200–age (yrs) if ambulatory.
+
+Rhythm control If cardioversion is chosen, do echo 1st; pre-treat for ≥4wks with sotalol or amiodarone if there is ↑risk of cardioversion failure (past failure, or past recurrence). Pharmacological cardioversion: flecainide is 1st choice if no structural heart disease (IV amiodarone if structural heart disease). AV node ablation, maze procedure, pacing, and pulmonary vein ablation are options to ask about.⁵²
+
+Paroxysmal AF ‘pill in the pocket’ (eg sotalol or flecainide PRN) may be tried if: infrequent AF, BP >100mmHg systolic, no past LV dysfunction. Anticoagulate (BOX 1).
+
+Atrial flutter ECG: continuous atrial depolarization (eg ~300/min, but very variable) produces a sawtooth baseline ± 2:1 AV block (as if SVT at, eg 150bpm). Carotid sinus massage and IV adenosine transiently block the AV node and may unmask flutter waves.
+
+Treatment: Cardioversion may be indicated (anticoagulate before, see p125). Anti-AF drugs may not work—but consider amiodarone to restore sinus rhythm, and amiodarone or sotalol to maintain it. Aim to control rate as above; if the IV route is needed, a β-blocker is preferred (eg p819). Rarely, cavotricuspid isthmus ablation.⁶
+
+
+125
+
+Anticoagulation and AF
+
+Acute AF: Use heparin until a full risk assessment for emboli (see below) is made—eg AF started <48h ago and elective cardioversion is being planned (if >48h, ensure ≥3wks of therapeutic anticoagulation before elective cardioversion; NB trans-oesophageal-guided cardioversion is also an option here). Use warfarin (target INR: 2.5; range 2–3) if risk of emboli high (past ischaemic stroke, TIA or emboli; ≥75yrs with BP↑, DM; coronary or peripheral arterial disease; evidence of valve disease or ↓LV function/CCF—only do echo if unsure).⁵³ Use no anticoagulation if stable sinus rhythm has been restored and no risk factors for emboli, and AF recurrence unlikely (ie no failed cardioversions, no structural heart disease, no previous recurrences, no sustained AF for >1yr).
+
+Chronic AF: Anticoagulate with warfarin and aim for an INR of 2–3.⁵⁴ Less good alternative is aspirin ~300mg/d PO—eg if warfarin contraindicated or at very low risk of emboli (<65yrs, and no hypertension, diabetes, LV dysfunction, ↑LA size, rheumatic valve disease, MI, or past TIA). CI to warfarin in AF:⁵⁵ Bleeding diathesis; platelets <50×10⁹/L; BP>160/90 (consistently); compliance issues around dosing or INR monitoring; patient choice, after risks discussed. Factors such as age ≥75–80yrs old, frequent falls, on NSAIDS, past intracranial bleeds, Hb↓, and polypharmacy may be considered CI but are less evidence-based. Risk of major bleeds is ~13/100-person-yrs if ≥80yrs old (4 if <80yrs).⁵⁶,⁵⁷ Discuss with patient: let him decide. The CHA₂DS₂-VASc⁵⁸ score quantifies risk of stroke and may help in decision making.
+
+Dabigatran: This is a direct thrombin inhibitor which doesn’t need regular lab monitoring and dose adjustment. Despite its expense, it may be an alternative to warfarin (eg if warfarin is declined or has SE/CI, or monitoring INR is intrusive). In one trial, 110mg/12h PO was as good as warfarin in preventing stroke and emboli in AF, and it caused fewer bleeding problems.⁵⁹ CI: severe renal/liver impairment; active bleeding; lesion at risk of bleeding; ↓clotting factors. Warn to report signs of bleeding. Interactions: heparin, clopidogrel, NSAIDs, GPIIb/IIIa antagonists, p-glycoprotein inhibitors (verapamil, amiodarone, clarithromycin), etc. ↓Dose if eGFR <50 (avoid if <30).
+
+CHA₂DS₂-VASc SCORE⁵⁸
+• Score 1 point for each of: heart failure, diabetes, hypertension, vascular disease, aged>65, female; AND 2 points for: age ≥75, or prior TIA, stroke/thromboembolism. A score of 2 = an annual stroke risk of ~2.2%.
+• If the score is 1 or more (or 2 or more if older) consider oral anticoagulation.
+
+Bleeding risk can also be calculated, eg HEMORR₂HAGES or HAS-BLED scores. See also CHADS2 score (p477).
+
+Fig 1. Wolff–Parkinson–White (WPW) syndrome. ECG of WPW syndrome (p120) in 1st and 4th beats; compared with the other beats, it can be seen how the delta wave both broadens the ventricular complex and shortens the PR interval. If WPW is the underlying cause of AF, avoid AV node blockers such as diltiazem, verapamil and digoxin—but flecainide may be used.
+
+
+126
+
+Pacemakers
+
+Pacemakers supply electrical initiation to myocardial contraction. The pacemaker lies subcutaneously where it may be programmed through the skin as necessary. Pacemakers usually last 5–10yrs, but usually only the box needs replacing.
+
+Indications for temporary cardiac pacing
+• Symptomatic bradycardia, unresponsive to atropine.
+• After acute anterior MI, prophylactic pacing is required in:
+  • Complete AV block
+  • Mobitz type I AV block (Wenckebach)
+  • Mobitz type II AV block
+  • Non-adjacent bifascicular, or trifascicular block (p94).
+• After inferior MI, pacing may not be needed in complete AV block if reasonably stable, rate is >40–50, and QRS complexes are narrow.
+• Suppression of drug-resistant tachyarrhythmias, eg SVT, VT.
+• Special situations: During general anaesthesia; during cardiac surgery; during electrophysiological studies; drug overdose (eg digoxin, β-blockers, verapamil).
+
+See p790 for further details and insertion technique.
+
+Indications for a permanent pacemaker
+• Complete AV block (Stokes–Adams attacks, asymptomatic, congenital)
+• Mobitz type II AV block (p119)
+• Persistent AV block after anterior MI
+• Symptomatic bradycardias (eg sick sinus syndrome, p118)
+• Heart failure (cardiac resynchronization)
+• Drug-resistant tachyarrhythmias
+
+Some say persistent bifascicular block after MI requires a permanent system: this remains controversial.
+
+Pre-operative assessment: FBC, clotting screen, hepatitis B status. Insert IV cannula. Consent for procedure under local anaesthetic. Consider pre-medication. Give antibiotic cover (eg flucloxacillin 500mg IM and benzylpenicillin 600mg IM) 20min before, and 1 and 6h after.
+
+Post-op management: Prior to discharge, check wound for bleeding or haematoma; check position on CXR; check pacemaker function. During 1st week, inspect for wound haematoma or dehiscence. Count apical rate (p37): if this is ≥6bpm below the rate quoted for the pacemaker, suspect malfunction. Other problems: lead fracture; pacemaker interference (eg from patient’s muscles). Driving rules: p152.
+
+Pacemaker letter codes These enable pacemaker identification (min is 3 letters):
+• 1st letter the chamber paced (A=atria, V=ventricles, D=dual chamber).
+• 2nd letter the chamber sensed (A=atria, V=ventricles, D=dual chamber, O=none).
+• 3rd letter the pacemaker response (T=triggered, I=inhibited, D=dual, R=reverse).
+• 4th letter, P=programmable; M=multiprogrammable.
+• 5th letter, P means that in tachycardia the pacemaker will pace the patient. S means that in tachycardia the pacemaker shocks the patient. D=dual ability to pace and shock. 0=neither of these.
+• VVI pacemakers are the most frequently used in the UK. DDD pacemakers are the only pacemakers that sense and pace both chambers.
+
+Cardiac resynchronization therapy (CRT)⁶⁰ improves the synchronization of cardiac contraction and reduces mortality⁶¹ in people with symptomatic heart failure who have an ejection fraction <35% and a QRS duration >120ms. It involves biventricular pacing (both septal and lateral walls of the LV) and if required also an atrial lead. It may be combined with a defibrillator.
+
+ECG of paced rhythm: (ECG 7 p101, and fig 1 for rhythm strip) If the system is on ‘demand’ of 60bpm, a pacing spike is only seen if the intrinsic rate is <60. If seen at a higher rate, the sensing mode is malfunctioning. If it is not pacing at lower rates, the pacing mode is malfunctioning, eg lead dislodged, or faulty. If you see spikes but no capture (ie no systole), suspect dislodgement.
+
+¹ Non-adjacent = RBBB + L posterior hemiblock, or alternating bundle branch block (p94).
+
+
+127
+
+Fig 1. ECG of paced rhythm.
+
+Some confusing pacemaker terms
+
+Fusion beat: Union of native depolarization and pacemaker impulse.
+
+Pseudofusion: The pacemaker impulse occurs just after cardiac depolarization, so it is ineffective, but it distorts the QRS morphology.
+
+Pseudopseudofusion beat: If a DVI pacemaker gives an atrial spike within a native QRS complex, the atrial output is non-contributory.
+
+Pacemaker syndrome: In single-chamber pacing, retrograde conduction to the atria, which then contract during ventricular systole. This leads to retrograde flow in pulmonary veins, and ↓cardiac output, dyspnoea, palpitations, malaise, and even syncope.
+
+Pacemaker tachycardia: In dual-chamber pacing, a short-circuit loop goes between the electrodes, causing an artificial WPW-like syndrome. Solution: Single-chamber pacing. For ECG images, see www.monroecc.edu./depts/pstc/backup/paracar6.htm
+
+
+128
+
+Heart failure—basic concepts⁶²,⁶³
+
+Definition Cardiac output is inadequate for the body’s requirements. Prognosis is poor with ~25–50% of patients dying within 5yrs of diagnosis.
+
+Prevalence 1–3% of the general population; ~10% among elderly patients.⁶⁴
+
+Systolic versus diastolic failure Systolic failure: inability of the ventricle to contract normally, resulting in ↓cardiac output. Ejection fraction (EF) is <40%. Causes: IHD, MI, cardiomyopathy. Diastolic failure: inability of the ventricle to relax and fill normally, causing ↑filling pressures. EF is >50%. Causes: constrictive pericarditis, tamponade, restrictive cardiomyopathy, hypertension. NB: systolic and diastolic failure usually coexist.
+
+Left-sided versus right-sided failure Left ventricular failure (LVF) and right ventricular failure (RVF) may occur independently, or together as congestive cardiac failure (CCF).
+
+Left ventricular failure: Symptoms: Dyspnoea, poor exercise tolerance, fatigue, orthopnoea, paroxysmal nocturnal dyspnoea (PND), nocturnal cough (±pink frothy sputum), wheeze (cardiac ‘asthma’), nocturia, cold peripheries, weight loss, muscle wasting.
+
+Right ventricular failure: Causes: LVF, pulmonary stenosis, lung disease. Symptoms: Peripheral oedema (up to thighs, sacrum, abdominal wall), ascites, nausea, anorexia, facial engorgement, pulsation in neck and face (tricuspid regurgitation), epistaxis.
+
+Acute versus chronic heart failure Acute heart failure is often used exclusively to mean new onset acute or decompensation of chronic heart failure characterized by pulmonary and/or peripheral oedema with or without signs of peripheral hypoperfusion. Chronic heart failure develops or progresses slowly. Venous congestion is common but arterial pressure is well maintained until very late.
+
+Low-output versus high-output failure Low-output heart failure: Cardiac output is ↓ and fails to ↑normally with exertion. Causes: Pump failure: Systolic and/or diastolic HF (see above), ↓heart rate (eg β-blockers, heart block, post MI), negatively inotropic drugs (eg most antiarrhythmic agents). Excessive preload: eg mitral regurgitation or fluid overload (eg NSAID causing fluid retention). Fluid overload may cause LVF in a normal heart if renal excretion is impaired or big volumes are involved (eg IVI running too fast). More common if there is simultaneous compromise of cardiac function, and in the elderly. Chronic excessive afterload: eg aortic stenosis, hypertension.
+
+High-output heart failure: This is rare. Here, output is normal or increased in the face of ↑↑needs. Failure occurs when cardiac output fails to meet these needs. It will occur with a normal heart, but even earlier if there is heart disease. Causes: Anaemia, pregnancy, hyperthyroidism, Paget’s disease, arteriovenous malformation, beri beri. Consequences: Initially features of RVF; later LVF becomes evident.
+
+Signs To diagnose there should be symptoms of failure and objective evidence of cardiac dysfunction (at rest). Diagnosis can be made using Framingham criteria (see BOX).⁶⁵ Other signs: exhaustion, cool peripheries, cyanosis, ↓BP, narrow pulse pressure, pulsus alternans, displaced apex (LV dilatation), RV heave (pulmonary hypertension), murmurs of mitral or aortic valve disease, wheeze (cardiac asthma).
+
+Investigations According to NICE,⁶² if ECG and B-type natriuretic peptide (BNP; p131) are normal, heart failure is unlikely, and an alternative diagnosis should be considered; if either is abnormal, then echocardiography (p106) is required.
+
+Tests: FBC; U&E; BNP; CXR: cardiomegaly (cardiothoracic ratio >50%), prominent upper lobe veins (upper lobe diversion), peribronchial cuffing, diffuse interstitial or alveolar shadowing, classical perihilar ‘bat’s wing’ shadowing, fluid in the fissures, pleural effusions, septal (formerly called ‘Kerley B’) lines (variously attributed to interstitial oedema⁶⁶ and engorged peripheral lymphatics⁶⁷). ECG may indicate cause (look for evidence of ischaemia, MI, or ventricular hypertrophy). It is rare to get a completely normal ECG in chronic heart failure. Echocardiography is the key investigation.⁶⁸ It may indicate the cause (MI, valvular heart disease) and can confirm the presence or absence of LV dysfunction. Endomyocardial biopsy is rarely needed.
+
+Prognosis If admission is needed, 5yr mortality≈75%. Don’t be dogmatic: in one study, 54% of those dying in the next 72h had been expected to live for >6months.⁶⁹
+
+
+129
+
+Framingham criteria for congestive cardiac failure (CCF)
+
+Diagnosis of CCF requires the simultaneous presence of at least 2 major criteria or 1 major criterion in conjunction with 2 minor criteria.
+
+Major criteria
+• Paroxysmal nocturnal dyspnoea
+• Neck vein distention
+• Crepitations
+• Acute pulmonary oedema
+• S3 gallop
+• Hepatojugular reflux
+• Cardiomegaly (cardiothoracic ratio >50% on chest radiography)
+• Increased central venous pressure (>16cmH₂O at right atrium)
+• Weight loss >4.5kg in 5 days in response to treatment
+
+Minor criteria
+• Bilateral ankle oedema
+• Nocturnal cough
+• Dyspnoea on ordinary exertion
+• Hepatomegaly
+• Tachycardia (heart rate >120/min)
+• Pleural effusion
+• Decrease in vital capacity by ⅓ from maximum recorded
+
+Fig 1. The CXR in left ventricular failure. These features can be remembered as A B C D E. See also Fig 2 p737.
+
+Figure labels:
+Dilated prominent upper lobe vessels
+Alveolar oedema (‘Bat’s wings’)
+Kerley B lines (interstitial oedema)
+Cardiomegaly
+Pleural Effusion
+
+
+130
+
+Heart failure—management⁶²
+
+Acute heart failure ↘This is a medical emergency (p812).
+
+Chronic heart failure Stop smoking. Eat less salt. Optimize weight & nutrition.
+• Treat the cause (eg if dysrhythmias; valve disease).
+• Treat exacerbating factors (anaemia, thyroid disease, infection, ↑BP).
+• Avoid exacerbating factors, eg NSAIDS (fluid retention) and verapamil (–ve inotrope).
+• Drugs: the following are used:
+
+1 Diuretics: Diuretics can reduce the risk of death and worsening heart failure.⁷⁰ Give loop diuretics to relieve symptoms, eg furosemide 40mg/24h PO or bumetanide 1–2mg/24h PO. Increase dose as necessary. SE: K+↓, renal impairment. Monitor U&E and add K+-sparing diuretic (eg spironolactone) if K+ <3.2mmol/L, predisposition to arrhythmias, concurrent digoxin therapy (↓K+ increases risk of digoxin toxicity), or pre-existing K+-losing conditions. If refractory oedema, consider adding a thiazide, eg metolazone 5–20mg/24h PO.
+
+2 ACE-i: Consider in all those with left ventricular systolic dysfunction; improves symptoms and prolongs life (see p108). If cough is a problem, an angiotensin receptor blocker (ARB) may be substituted (eg candesartan 4mg/d; max 32mg PO). SE: ↑K+.
+
+3 β-blockers (eg carvedilol) decrease mortality in heart failure.⁷¹ These benefits appear to be additional to those of ACE-i in patients with heart failure due to LV dysfunction.⁷² Initiate after diuretic and ACE-i. Use with caution: ‘start low and go slow’; if in doubt seek specialist advice first (eg carvedilol 3.125mg/12h → 25–50mg/12h); wait ≥2weeks between each dose increment. Beta-blocker therapy in patients hospitalized with decompensated heart failure is associated with lower post-discharge mortality risk and improved treatment rates.⁷³
+
+4 Spironolactone: Spironolactone (25mg/24h PO) ↓mortality by 30% when added to conventional therapy.⁷⁴ Use in those still symptomatic despite optimal therapy as listed above. Spironolactone is K+-sparing, but there is little risk of significant hyperkalaemia, even when given with ACE-i.
+
+5 Digoxin helps symptoms even in those with sinus rhythm,⁷⁵ and should be considered for patients with LV systolic dysfunction who have signs or symptoms of heart failure while receiving standard therapy, including ACE-i and β-blockers, or in patients with AF. Dose example: 125μg/24h PO if sinus rhythm. Monitor U&E; maintain K+ at 4–5mmol/L. Digoxin levels: p766. Other inotropes are unhelpful in terms of outcome.
+
+6 Vasodilators: The combination of hydralazine (SE: drug-induced lupus) and isosorbide dinitrate should be used if intolerant of ACE-i and ARBs as it reduces mortality. It also reduces mortality when added to standard therapy (including ACE-i) in Black patients with heart failure.⁷⁶
+
+Intractable heart failure Reassess the cause. Are they taking the drugs?—at maximum dose? Switching furosemide to bumetanide (one 5mg tab≈200mg furosemide) might help: absorption may be better.⁷⁷ Consider admitting for:
+• Strict bed rest ± Na+ & fluid restriction (≤1.5L/24h PO).⁷⁸,⁷⁹
+• Metolazone (as above) and IV furosemide (p812).
+• Opiates and IV nitrates may relieve symptoms (p812).
+• Weigh daily. Do frequent U&E (beware K+↓).
+• Give DVT prophylaxis: heparin + TED stockings (p580).
+
+In extremis, try IV inotropes (p814; it may be difficult to wean patients off them). Consider cardiac resynchronization (p126), LV assist device, or transplantation.
+
+Palliative care Treat/prevent comorbidities (eg flu vaccination). Good nutrition (allow alcohol!). Involve GP: continuity of care and discussion of prognosis is much appreciated.⁸⁰ Dyspnoea, pain (from liver capsule stretching), nausea, constipation, and ↓mood all need tackling.⁸¹ Opiates help pain and dyspnoea. O₂ may help.

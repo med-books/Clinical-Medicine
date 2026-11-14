@@ -1,0 +1,350 @@
+PDF PAGE 1 — PRINTED PAGE 181
+
+Administering oxygen⁴⁹
+
+Oxygen is usually given via a facemask or nasal cannulae. It is good practice to prescribe it—this avoids inadvertent administration of too much or too little. Titrate the amount guided by the SaO₂ (aim for ~94–98% (or 88–92% if, or at risk of hypercapnia)); and the clinical condition of the patient. Humidification is only required for longer-term delivery of O₂ at high flow rates and tracheostomies, but may ↑ expectoration in bronchiectasis. Be careful in those with COPD (p822).
+
+Nasal cannulae: preferred by patients, but O₂ delivery is relatively imprecise and may cause nasal soreness. The flow rate (1–4L/min) roughly defines the concentration of O₂ (24–40%). May be used to maintain SaO₂ when nebulizers need to be run using air eg COPD.
+
+Simple face mask: delivers a variable amount of O₂ depending on the rate of inflow. Far less precise than venturi masks—so don’t use if hypercapnia or type 2 respiratory failure. Risk of CO₂ accumulation (within the mask and so in inspired gas) if flow rate <5L/min.
+
+Venturi mask: provides a precise percentage of O₂ (FiO₂) at high flow rates.
+
+Colour codes:
+24% — BLUE
+28% — WHITE
+35% — YELLOW
+40% — RED
+60% — GREEN
+
+Start at 24–28% in COPD.
+
+Non-rebreathing mask: these have a reservoir bag and deliver high concentrations of O₂ (60–90%), determined by the inflow (10–15L/min) and the presence of flap valves on the side. They are commonly used in emergencies, but are imprecise and should be avoided in those requiring controlled O₂ therapy.
+
+Promoting oxygenation. Other ways to ↑ oxygenation to reach the target SaO₂ (this should be given as a number on the drug chart):
+• Treat anaemia (transfuse if essential)
+• Improve cardiac output (treat heart failure)
+• Chest physio to improve ventilation/perfusion mismatch.
+
+When to consider ABG (arterial blood gas) measurement
+• Any unexpected deterioration in an ill patient. (Technique: see p785.)
+• Anyone with an acute exacerbation of a chronic chest condition.
+• Anyone with impaired consciousness or impaired respiratory effort.
+• Signs of CO₂ retention, eg bounding pulse, drowsy, tremor (flapping), headache.
+• Cyanosis, confusion, visual hallucinations (signs of PaO₂↓; SaO₂ is an alternative).
+• To validate measurements from transcutaneous pulse oximetry (p156).
+
+
+PDF PAGE 2 — PRINTED PAGE 182
+
+Pulmonary embolism (PE)⁵⁰
+
+Causes. PEs usually arise from a venous thrombosis in the pelvis or legs. Clots break off and pass through the veins and the right side of the heart before lodging in the pulmonary circulation. Rare causes include: right ventricular thrombus (post-MI); septic emboli (right-sided endocarditis); fat, air, or amniotic fluid embolism; neoplastic cells; parasites.
+
+Risk factors
+• Recent surgery, especially abdominal/pelvic or hip/knee replacement
+• Thrombophilia, eg antiphospholipid syndrome (p368)
+• Leg fracture
+• Prolonged bed rest/reduced mobility
+• Malignancy
+• Pregnancy/postpartum; Pill/HRT
+• Previous PE
+
+Clinical features. These depend on the number, size, and distribution of the emboli; small emboli may be asymptomatic, whereas large emboli are often fatal.
+
+Symptoms: Acute breathlessness, pleuritic chest pain, haemoptysis; dizziness; syncope. Ask about risk factors (above), past history or family history of thromboembolism.
+
+Signs: Pyrexia; cyanosis; tachypnoea; tachycardia; hypotension; raised JVP; pleural rub; pleural effusion. Look for signs of a cause, eg deep vein thrombosis.
+
+Tests
+• FBC, U&E, baseline clotting, D-dimers (BOX).
+• ABG may show ↓PaO₂ and ↓PaCO₂.
+• Imaging: CXR may be normal, or show oligaemia of affected segment, dilated pulmonary artery, linear atelectasis, small pleural effusion, wedge-shaped opacities or cavitation (rare). CTPA—see BOX.
+• ECG may be normal, or show tachycardia, right bundle branch block, right ventricular strain (inverted T in V1 to V4). The classical SI QIII TIII pattern (p92) is rare.
+
+Further investigations are shown on p828; see also BOX, p753.
+
+Treatment. See p828. Anticoagulate with LMW heparin (p828). Start warfarin (p344). Stop heparin when INR is >2 and continue warfarin for a minimum of 3 months (see p345); aim for an INR of 2–3. Thrombolysis for massive PE (alteplase 10mg IV over 1min, then 90mg IVI over 2h; max 1.5mg/kg if <65kg). Consider placement of a vena caval filter in patients who develop emboli despite adequate anticoagulation (NB increased risk if placed without concomitant anticoagulation).
+
+Prevention. Give heparin (eg dalteparin 2500U/24h SC) to all immobile patients. Prescribe compression stockings and encourage early mobilization. Stop HRT and the Pill pre-op (if reliable with another form of contraception). If past or family history of thromboembolism, consider investigation for thrombophilia (p368).
+
+Pneumothorax⁵¹ — Management: p824.
+
+Causes. Often spontaneous (especially in young thin men) due to rupture of a sub-pleural bulla. Other causes: asthma; COPD; TB; pneumonia; lung abscess; carcinoma; cystic fibrosis; lung fibrosis; sarcoidosis; connective tissue disorders (Marfan’s sy., Ehlers–Danlos sy.), trauma; iatrogenic (subclavian CVP line insertion, pleural aspiration/biopsy, transbronchial biopsy, liver biopsy, +ve pressure ventilation).
+
+Clinical features. Symptoms: There may be no symptoms (especially if fit, young and small pneumothorax) or there may be sudden onset of dyspnoea and/or pleuritic chest pain. Patients with asthma or COPD may present with a sudden deterioration. Mechanically ventilated patients may present with hypoxia or an increase in ventilation pressures. Signs: Reduced expansion, hyper-resonance to percussion and diminished breath sounds on the affected side. With a tension pneumothorax, the trachea will be deviated away from the affected side. See X-ray p763.
+
+Management: p824, placing a chest drain, p780.
+
+Managing a tension pneumothorax: See p824.
+
+
+PDF PAGE 3 — PRINTED PAGE 183
+
+Investigating suspected PE
+
+Diagnosis of PE is improved by adopting a stepwise approach, combining an objective probability score, with subsequent investigations, as follows.
+
+Assess the clinical probability of a PE: many systems exist and are usually based around elements drawn from the history and clinical examination.
+
+Scoring system for investigation of suspected DVT*
+
+Feature | Score
+Active cancer, or treatment within 6 months | 1
+Paralysis, paresis, or recent plaster immobilization of lower limbs | 1
+Recently bed-ridden (>3 days) or major surgery (<4weeks) | 1
+Localized tenderness along venous system | 1
+Entire leg swollen | 1
+Calf circumference >3cm more than other side, 10cm below tibial tuberosity | 1
+Pitting oedema > in asymptomatic leg | 1
+Collateral superficial veins | 1
+Alternative diagnosis is likely, or more likely, than DVT | –2
+
+Total score: 0=low probability; 1–2 moderate probability; ≥3 high probability.
+
+*Adapted from Wells et al. Lancet 1997 350 1795
+
+D-dimers: only perform in those patients without a high probability of a PE. A negative D-dimer test effectively excludes a PE in those with a low or intermediate clinical probability, and imaging is NOT required. However, a positive test does not prove a diagnosis of a PE, and imaging is required.
+
+Imaging: the recommended 1st-line imaging modality is now CT pulmonary angiography (CTPA), which can show clots down to 5th-order pulmonary arteries (after the 4th branching). V/Q scanning (p158, p752 & p828) is now rarely performed.
+
+
+PDF PAGE 4 — PRINTED PAGE 184
+
+Pleural effusion
+
+Definitions. A pleural effusion is fluid in the pleural space. Effusions can be divided by their protein concentration into transudates (<25g/L) and exudates (>35g/L), see BOX. Blood in the pleural space is a haemothorax, pus in the pleural space is an empyema, and chyle (lymph with fat) is a chylothorax. Both blood and air in the pleural space is called a haemopneumothorax.
+
+Causes. Transudates may be due to ↑venous pressure (cardiac failure, constrictive pericarditis, fluid overload), or hypoproteinaemia (cirrhosis, nephrotic syndrome, malabsorption). Also occur in hypothyroidism and Meigs’ syndrome (right pleural effusion and ovarian fibroma). Exudates are mostly due to increased leakiness of pleural capillaries secondary to infection, inflammation, or malignancy. Causes: pneumonia; TB; pulmonary infarction; rheumatoid arthritis; SLE; bronchogenic carcinoma; malignant metastases; lymphoma; mesothelioma; lymphangitis carcinomatosis.
+
+Symptoms. Asymptomatic—or dyspnoea, pleuritic chest pain.
+
+Signs. Decreased expansion; stony dull percussion note; diminished breath sounds occur on the affected side. Tactile vocal fremitus and vocal resonance are ↓ (inconstant and unreliable). Above the effusion, where lung is compressed, there may be bronchial breathing. With large effusions there may be tracheal deviation away from the effusion. Look for aspiration marks and signs of associated disease: malignancy (cachexia, clubbing, lymphadenopathy, radiation marks, mastectomy scar); stigmata of chronic liver disease; cardiac failure; hypothyroidism; rheumatoid arthritis; butterfly rash of SLE.
+
+Tests. CXR: Small effusions blunt the costophrenic angles, larger ones are seen as water-dense shadows with concave upper borders. A completely flat horizontal upper border implies that there is also a pneumothorax.
+
+Ultrasound is useful in identifying the presence of pleural fluid and in guiding diagnostic or therapeutic aspiration.
+
+Diagnostic aspiration: Percuss the upper border of the pleural effusion and choose a site 1 or 2 intercostal spaces below it (don’t go too low or you’ll be in the abdomen!). Infiltrate down to the pleura with 5–10mL of 1% lidocaine. Attach a 21G needle to a syringe and insert it just above the upper border of an appropriate rib (avoids neurovascular bundle). Draw off 10–30mL of pleural fluid and send it to the lab for clinical chemistry (protein, glucose, pH, LDH, amylase), bacteriology (microscopy and culture, auramine stain, TB culture), cytology and, if indicated, immunology (rheumatoid factor, ANA, complement).
+
+Pleural biopsy: If pleural fluid analysis is inconclusive, consider parietal pleural biopsy. Thoracoscopic or CT-guided pleural biopsy increases diagnostic yield (by enabling direct visualization of the pleural cavity and biopsy of suspicious areas).
+
+Management is of the underlying cause.
+
+• Drainage. If the effusion is symptomatic, drain it, repeatedly if necessary. Fluid is best removed slowly (0.5–1.5L/24h). It may be aspirated in the same way as a diagnostic tap, or using an intercostal drain (see p780).
+• Pleurodesis with tetracycline, bleomycin, or talc may be helpful for recurrent effusions. Thoracoscopic talc pleurodesis is most effective for malignant effusions. Empyemas (p164) are best drained using a chest drain, inserted under ultrasound or CT guidance.
+• Intra-pleural streptokinase: Of no benefit.
+• Surgery: Persistent collections and increasing pleural thickness (on ultrasound) requires surgery.⁵²
+
+
+PDF PAGE 5 — PRINTED PAGE 185
+
+Pleural fluid analysis
+
+Gross appearance | Cause
+Clear, straw-coloured | Transudate, exudate
+Turbid, yellow | Empyema, parapneumonic effusion¹
+Haemorrhagic | Trauma, malignancy, pulmonary infarction
+
+Cytology
+Neutrophils ++ | Parapneumonic effusion, PE
+Lymphocytes ++ | Malignancy, TB, RA, SLE, sarcoidosis
+Mesothelial cells ++ | Pulmonary infarction
+Abnormal mesothelial cells | Mesothelioma
+Multinucleated giant cells | RA
+Lupus erythematosus cells | SLE
+
+Clinical chemistry
+Protein <25g/L | Transudate
+Protein >35g/L | Exudate
+Protein 25–35g/L | If pleural fluid protein/serum protein >0.5, effusion is an exudate
+Glucose <3.3mmol/L | Empyema, malignancy, TB, RA, SLE
+pH <7.2 | Empyema, malignancy, TB, RA, SLE
+LDH↑ (pleural:serum >0.6) | Empyema, malignancy, TB, RA, SLE
+Amylase↑ | Pancreatitis, carcinoma, bacterial pneumonia, oesophageal rupture
+
+Immunology
+Rheumatoid factor | RA
+Antinuclear antibody | SLE
+Complement levels↓ | RA, SLE, malignancy, infection
+
+¹ Inflammation of the pleura caused by pneumonia may lead to infected pleural fluid (empyema); if it is not infected, the term parapneumonic effusion is used.
+
+
+PDF PAGE 6 — PRINTED PAGE 186
+
+Sarcoidosis
+
+A multisystem granulomatous disorder of unknown cause. Prevalence highest in Northern Europe, eg UK: 10–20/10⁵ population. Usually affects adults aged 20–40yrs, more common in women. African–Caribbeans are affected more frequently and more severely than Caucasians, particularly by extra-thoracic disease. Associated with HLA-DRB1 and DQB1 alleles.
+
+Clinical features. In 20–40%, the disease is discovered incidentally, after a routine CXR, and is thus asymptomatic. Acute sarcoidosis often presents with erythema nodosum (fig 1, p275)¹ ± polyarthralgia. It usually resolves spontaneously.
+
+Pulmonary disease. 90% have abnormal CXRs with bilateral hilar lymphadenopathy (BHL, fig 1) ± pulmonary infiltrates or fibrosis; see below for staging. Symptoms: Dry cough, progressive dyspnoea, ↓exercise tolerance and chest pain. In 10–20%, symptoms progress, with concurrent deterioration in lung function.
+
+Non-pulmonary signs are legion: lymphadenopathy; hepatomegaly; splenomegaly; uveitis; conjunctivitis; keratoconjunctivitis sicca; glaucoma; terminal phalangeal bone cysts; enlargement of lacrimal & parotid glands (fig 5, p349); Bell’s palsy; neuropathy; meningitis; brainstem and spinal syndromes; space-occupying lesion; erythema nodosum (fig 1, p565); lupus pernio; subcutaneous nodules; cardiomyopathy; arrhythmias; hypercalcaemia; hypercalciuria; renal stones; pituitary dysfunction.
+
+Tests. Blood: ↑ESR, lymphopenia, LFT↑, serum ACE↑ in ~60% (non-specific), ↑Ca²⁺, ↑immunoglobulins. 24h urine: Ca²⁺↑. Tuberculin skin test is –ve in two-thirds; CXR is abnormal in 90%: Stage 0: normal. Stage 1: BHL. Stage 2: BHL + peripheral pulmonary infiltrates. Stage 3: peripheral pulmonary infiltrates alone. Stage 4: progressive pulmonary fibrosis; bulla formation (honeycombing); pleural involvement. ECG may show arrhythmias or bundle branch block. Lung function tests may be normal or show reduced lung volumes, impaired gas transfer, and a restrictive ventilatory defect. Tissue biopsy (lung, liver, lymph nodes, skin nodules, or lacrimal glands) is diagnostic and shows non-caseating granulomata. Kveim tests are now obsolete. Bronchoalveolar lavage (BAL) shows ↑lymphocytes in active disease; ↑neutrophils with pulmonary fibrosis.
+
+Ultrasound may show nephrocalcinosis or hepatosplenomegaly.
+
+Bone X-rays show ‘punched out’ lesions in terminal phalanges.
+
+CT/MRI may be useful in assessing severity of pulmonary disease or diagnosing neurosarcoidosis. Ophthalmology assessment (slit lamp examination, fluorescein angiography) is indicated in ocular disease.
+
+Management⁵³, ⁵⁴. Patients with BHL alone don’t need treatment as most recover spontaneously. Acute sarcoidosis: Bed rest, NSAIDS.
+
+Indications for corticosteroids:
+• Parenchymal lung disease (symptomatic, static, or progressive)
+• Uveitis
+• Hypercalcaemia
+• Neurological or cardiac involvement.
+
+Prednisolone (40mg/24h) PO for 4–6 wks, then ↓dose over 1yr according to clinical status. A few patients relapse and may need a further course or long-term therapy.
+
+Other therapy: In severe illness, IV methylprednisolone or immunosuppressants (methotrexate, hydroxychloroquine, ciclosporin, cyclophosphamide) may be needed. Anti-TNFα therapy may be tried in refractory cases, or lung transplantation.
+
+Prognosis. 60% of patients with thoracic sarcoidosis resolve over 2yrs. 20% respond to steroid therapy; in the rest, improvement is unlikely despite therapy.²
+
+¹ A detailed history and exam (including for synovitis) + CXR, 2 ASO titres and a tuberculin skin test are usually enough to diagnose erythema nodosum: R Pugol 2000 Arthr Rheu 43 584.
+
+² ACE is also ↑ in: hyperthyroidism, Gaucher’s, silicosis, TB, hypersensitivity pneumonitis, asbestosis, pneumocystosis.⁵⁵ ACE levels may help monitor sarcoidosis activity. ↑ACE levels in CSF help diagnose CNS sarcoidosis (when serum ACE may be normal).⁵⁶ ACE is lower in: Caucasians; and anorexia.⁵⁷
+
+
+PDF PAGE 7 — PRINTED PAGE 187
+
+Causes of BHL (bilateral hilar lymphadenopathy)
+
+Sarcoidosis
+Infection, eg TB, mycoplasma
+Malignancy, eg lymphoma, carcinoma, mediastinal tumours
+Organic dust disease, eg silicosis, berylliosis
+Extrinsic allergic alveolitis
+Histocytosis X
+
+Differential diagnosis of granulomatous diseases
+
+Infections
+Bacteria: TB, leprosy, syphilis; Cat scratch fever
+Fungi: Cryptococcus neoformans; Coccidioides immitis
+Protozoa: Schistosomiasis
+
+Autoimmune
+Primary biliary cirrhosis
+Granulomatous orchitis
+
+Vasculitis (p558)
+Giant cell arteritis
+Polyarteritis nodosa
+Takayasu’s arteritis
+Wegener’s granulomatosis
+
+Organic dust disease
+Silicosis, berylliosis
+
+Idiopathic
+Crohn’s disease
+de Quervain’s thyroiditis
+Sarcoidosis
+
+Extrinsic allergic alveolitis
+
+Histiocytosis X
+
+Fig 1. PA chest radiograph showing bilateral hilar lymphadenopathy. The important differentials for this appearance are: sarcoidosis, TB, lymphoma, pneumoconioses and metastatic disease. This patient has sarcoidosis but there are no other stigmata (such as the presence of infiltrates, fibrosis and honeycombing) on this image.
+
+Image courtesy of Norfolk and Norwich University Hospitals NHS Trust Radiology Department.
+
+
+PDF PAGE 8 — PRINTED PAGE 188
+
+Interstitial lung disease (ILD)⁵⁸
+
+This is the generic term used to describe a number of conditions that primarily affect the lung parenchyma in a diffuse manner. They are characterized by chronic inflammation and/or progressive interstitial fibrosis, and share a number of clinical and pathological features. See BOX and fig 1.
+
+Clinical features. Dyspnoea on exertion; non-productive paroxysmal cough; abnormal breath sounds; abnormal CXR or high resolution CT; restrictive pulmonary spirometry with ↓DLCO (p158).
+
+Pathological features. Fibrosis and remodelling of the interstitium; chronic inflammation; hyperplasia of type II epithelial cells or type II pneumocytes.
+
+Classification. The ILDS can be broadly grouped into three categories:
+
+Those with known cause, eg
+• Occupational/environmental, eg asbestosis, berylliosis, silicosis, cotton worker’s lung (byssinosis)
+• Drugs, eg nitrofurantoin, bleomycin, amiodarone, sulfasalazine, busulfan
+• Hypersensitivity reactions, eg extrinsic allergic alveolitis
+• Infections, eg TB, fungi, viral
+• Gastro-oesophageal reflux
+
+Those associated with systemic disorders, eg
+• Sarcoidosis
+• Rheumatoid arthritis
+• SLE, systemic sclerosis, mixed connective tissue disease, Sjögren’s syndrome
+• Ulcerative colitis, renal tubular acidosis, autoimmune thyroid disease
+
+Idiopathic, eg
+• Idiopathic pulmonary fibrosis (IPF, p190)
+• Cryptogenic organizing pneumonia
+• Lymphocytic interstitial pneumonia
+
+Extrinsic allergic alveolitis (EAA)
+
+In sensitized individuals, inhalation of allergens (fungal spores or avian proteins) provokes a hypersensitivity reaction. In the acute phase, the alveoli are infiltrated with acute inflammatory cells. With chronic exposure, granuloma formation and obliterative bronchiolitis occur.
+
+Causes
+• Bird-fancier’s and pigeon-fancier’s lung (proteins in bird droppings).
+• Farmer’s and mushroom worker’s lung (Micropolyspora faeni, Thermoactinomyces vulgaris).
+• Malt worker’s lung (Aspergillus clavatus).
+• Bagassosis or sugar worker’s lung (Thermoactinomyces sacchari).
+
+Clinical features. 4–6h post-exposure: Fever, rigors, myalgia, dry cough, dyspnoea, crackles (no wheeze). Chronic: Increasing dyspnoea, weight↓, exertional dyspnoea, type I respiratory failure, cor pulmonale.
+
+Tests. Acute: Blood: FBC (neutrophilia); ESR↑; ABGS; positive serum precipitins (indicate exposure only). CXR: upper-zone mottling/consolidation; hilar lymphadenopathy (rare). Lung function tests: reversible restrictive defect; reduced gas transfer during acute attacks. Chronic: Blood tests: positive serum precipitins. CXR: upper-zone fibrosis; honeycomb lung. Lung function tests: persistent changes (see above). Bronchoalveolar lavage (BAL) fluid shows ↑ lymphocytes and mast cells.
+
+Management. Acute: Remove allergen and give O₂ (35–60%), then: Oral prednisolone (40mg/24h PO), followed by reducing dose.
+
+Chronic: Avoid exposure to allergens, or wear a facemask or +ve pressure helmet. Long-term steroids often achieve CXR and physiological improvement. Compensation (UK Industrial Injuries Act) may be payable.
+
+
+PDF PAGE 9 — PRINTED PAGE 189
+
+Fig 1. AP chest radiograph showing air-space shadowing in the left upper zone (compare the relative lucency with the right upper zone). Although this appearance often represents infection (ie pneumonia), it is non-specific. Important differentials to remember for this distribution of shadowing include lymphoma, alveolar cell carcinoma (both to be considered if not resolving in appearance on follow-up imaging), and haemorrhage.
+
+Image courtesy of Nottingham University Hospitals NHS Trust Radiology Department.
+
+Causes of fibrotic shadowing on a CXR
+
+Upper zone:
+• TB
+• Extrinsic allergic alveolitis
+• Ankylosing spondylitis
+• Radiotherapy
+• Sarcoidosis, histoplasmosis
+
+Mid zone:
+• Progressive massive fibrosis (PMF)
+
+Lower zone:
+• Idiopathic pulmonary fibrosis
+• Asbestosis
+
+
+PDF PAGE 10 — PRINTED PAGE 190
+
+Idiopathic pulmonary fibrosis (IPF)
+
+This is a type of idiopathic interstitial pneumonia. Inflammatory cell infiltrate and pulmonary fibrosis of unknown cause (also known as cryptogenic fibrosing alveolitis). The commonest cause of interstitial lung disease.
+
+Symptoms. Dry cough; exertional dyspnoea; malaise; weight↓; arthralgia.
+
+Signs. Cyanosis; finger clubbing; fine end-inspiratory crepitations.
+
+Complications. Respiratory failure; increased risk of lung cancer.
+
+Tests. Blood: ABG (PaO₂↓; if severe PaCO₂↑); CRP↑; immunoglobulins↑; ANA (30% +ve), rheumatoid factor (10% +ve). CXR: (fig 1) Lung volume↓; bilateral lower zone reticulonodular shadows; honeycomb lung (advanced disease). CT shows similar changes to the CXR but is more sensitive and is an essential tool for diagnosis. Spirometry: Restrictive (p156); ↓transfer factor. BAL (bronchoalveolar lavage) may indicate activity of alveolitis: lymphocytes↑ (good response/prognosis) or neutrophils and eosinophils↑ (poor response/prognosis). ⁹⁹Tcᵐ-DTPA scan: (diethylene-triamine-penta-acetic acid) may reflect disease activity⁵⁹. Lung biopsy may be needed for diagnosis. The histological changes observed on biopsy are referred to as usual interstitial pneumonia (UIP).
+
+Management. Best supportive care: oxygen, pulmonary rehabilitation, opiates, palliative care input. It is strongly recommended that high-dose steroids are NOT used except where the diagnosis of IPF is in doubt. All patients should be considered for current clinical trials or lung transplantation.⁵⁸
+
+Prognosis. 50% 5yr survival rate (range 1–20yrs).
+
+Fig 1. Interstitial lung disease due to idiopathic pulmonary fibrosis (a similar appearance to the interstitial oedema of moderate left heart failure, but without a big heart).
+
+Courtesy of Prof P Scally.

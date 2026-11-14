@@ -1,0 +1,885 @@
+[PDF page 1]
+
+OXFORD
+HANDBOOK
+OF CLINICAL
+MEDICINE
+NINTH EDITION
+
+MURRAY LONGMORE
+IAN B. WILKINSON
+ANDREW BALDWIN
+ELIZABETH WALLIN
+
+
+[PDF page 2]
+
+Index to emergency topics
+
+‘Don’t go so fast: we’re in a hurry!’—Talleyrand to his coachman.
+
+Abdominal aortic aneurysm 656                   Intracranial pressure, raised 840
+Acute abdomen 608                               Ketoacidosis, diabetic 842
+Acute kidney injury (acute renal failure) 848   Lassa fever 388
+Addisonian crisis 846                           Left ventricular failure 812
+Anaphylaxis 806                                 Major disaster 862
+Aneurysm, abdominal aortic 656                  Malaria 394
+Antidotes, poisoning 854                        Malignant hyperpyrexia 574
+Arrhythmias, broad complex 122, 816             Malignant hypertension 134
+   narrow complex 120, 818                      Meningitis 832
+   see also back inside cover                   Meningococcaemia 832
+Asthma 820                                      Myocardial infarction 808
+Asystole back inside cover                      Needle pericardiocentesis 787
+Bacterial shock 804                             Neutropenic sepsis 346
+Blast injury 862                                Obstructive uropathy 645
+Bleeding, aneurysm 656                          Oncological emergencies 526
+   extradural/intracranial 482, 486             Opiate poisoning 854
+   gastrointestinal 252, 830                    Overdose 850–7
+   rectal 631                                   Pacemaker, temporary 790
+   variceal 254, 830                            Pericardiocentesis 787
+Blood loss 804                                  Phaeochromocytoma 846
+Blue patient 178–81                             Pneumonia 826
+Bradycardia 118                                 Pneumothorax 824
+Burns 858                                       Poisoning 850–7
+Cardiac arrest back inside cover                Potassium, hyperkalaemia 688, 849
+Cardiogenic shock/tamponade 814                   hypokalaemia 688
+Cardioversion, DC 784                           Pulmonary embolism 828
+Cauda equina compression 470, 545              Pulseless, altogether back inside cover
+Central line insertion (CVP line) 788             in a leg 658
+Cerebral malaria 397                            Respiratory arrest back inside cover
+Cerebral oedema 840                             Respiratory failure 180
+Chest drain 780                                 Resuscitation back inside cover
+Coma 800                                        Rheumatological emergencies 540
+Cord compression 470, 545                       Shock 804
+Cranial arteritis 558                           Smoke inhalation 859
+Cricothyrotomy 786                              Sodium, hypernatraemia 686
+Cyanosis 178–81                                   hyponatraemia 686
+Cut-down 775                                    Spinal cord compression 470, 545
+Defibrillation 784, back inside cover           Status asthmaticus 820
+Diabetes emergencies 842–4                      Status epilepticus 836
+Disseminated intravascular coagulopathy         Superior vena cava obstruction 526
+      (DIC) 346                                 Supraventricular tachycardia (SVT) 818
+Disaster, major 862                             Tachycardia, ventricular 122, 816
+Dissecting aneurysm 656                         Thrombolysis, myocardial infarct 808
+Embolism, leg 658                                 stroke 475
+   pulmonary 828                                Thrombotic thrombocytopenic purpura
+Encephalitis 834                                     (TTP) 308
+Endotoxic shock 804                             Thyroid storm 844
+Epilepsy, status 836                            Torted testis 654
+Extradural haemorrhage 486                      Transfusion reaction 343
+Fits, unending 836                              Varices, bleeding 254, 830
+Fluids, IV 680, 804                             Vasculitis, acute systemic 558
+Haematemesis 252–5                              Ventricular arrhythmias 122, 816
+Haemorrhage 804                                 Ventricular failure, left 812
+   see also under Bleeding above                Ventricular fibrillation back inside cover
+Hyperthermia 804, 850                           Ventricular tachycardia 122, 816
+Hypoglycaemia 206, 844                          Waterhouse–Friderichsen 728
+Hypothermia 860                                 Wheeze 796, 820–3
+
+
+[PDF page 3]
+
+Common haematology values If outside this range, consult:
+
+Haemoglobin                    men:       130–180g/L                         p318
+                               women:     115–160g/L                         p318
+Mean cell volume, MCV                     76–96fL                    ↓p320; ↑p326
+Platelets                                 150–400 × 109/L                    p358
+White cells (total)                       4–11 × 109/L                       p324
+    neutrophils                           40–75%                             p324
+    lymphocytes                           20–45%                             p324
+    eosinophils                           1–6%                               p324
+
+Blood gases
+pH                                        7.35–7.45                         p684
+PaO2                                      >10.6kPa                          p684
+                                          (75–100mmHg)
+PaCO2                                     4.7–6kPa                          p684
+                                          (35–45mmHg)
+Base excess                               ± 2mmol/L                         p684
+
+U&Es (urea and electrolytes) If outside this range, consult:
+Sodium                           135–145mmol/L            p686
+Potassium                        3.5–5mmol/L              p688
+Creatinine                       70–150μmol/L         p298–301
+Urea                             2.5–6.7mmol/L        p298–301
+eGFR                             >90                      p683
+
+LFTs (liver function tests)
+Bilirubin                                 3–17μmol/L                   p250, p258
+Alanine aminotransferase, ALT             5–35iU/L                     p250, p258
+Aspartate transaminase, AST               5–35iU/L                     p250, p258
+Alkaline phosphatase, ALP                 30–150iU/L                   p250, p258
+                                          (non-pregnant adults)
+Albumin                                   35–50g/L                          p700
+Protein (total)                           60–80g/L                          p700
+
+Cardiac enzymes
+Troponin T                                <0.1μg/L                           p113
+Creatine kinase                           25–195iU/L                         p113
+Lactate dehydrogenase, LDH                70–250iU/L                         p113
+
+Lipids and other biochemical values
+Cholesterol                               <5mmol/L desired                  p704
+Triglycerides                             0.5–1.9mmol/L                     p704
+Amylase                                   0–180 Somogyi U/dL                p638
+C-reactive protein, CRP                   <10mg/L                           p700
+Calcium (total)                           2.12–2.65mmol/L                   p690
+Glucose, fasting                          3.5–5.5mmol/L                     p198
+Prostate-specific antigen, PSA            0–4ng/mL                          p538
+T4 (total thyroxine)                      70–140mmol/L                      p208
+Thyroid stimulating hormone, TSH          0.5–5.7mU/L                       p208
+
+For all other reference intervals, see p769–71
+
+[PDF page 4]
+
+He moved                                                    N. 48
+
+all the brightest gems                                      N. 24
+faster and faster towards the                               N. 18
+ever-growing bucket of lost hopes;                           N. 14
+had there been just one more year
+of peace the battalion would have made                       N. 12
+a floating system of perpetual drainage.
+
+A silent fall of immense snow came near oily
+remains of the recently eaten supper on the table.           N. 10
+
+We drove on in our old sunless walnut. Presently
+classical eggs ticked in the new afternoon shadows.           N. 8
+
+We were instructed by my cousin Jasper not to exercise by country
+house visiting unless accompanied by thirteen geese or gangsters. N. 6
+
+The modern American did not prevail over the pair of redundant bronze puppies.
+The worn-out principle is a bad omen which I am never glad to ransom in August. N. 5
+
+[Illustrations: an octopus, a wheelbarrow, a ball, a boat, a baby,
+a shoe, a small boat or object in water, and a key.]
+
+Reading tests
+Hold this chart (well-illuminated) 30cm away, and record the smallest
+type read (eg N12 left eye, N6 right eye, spectacles worn) or object named accurately.
+
+
+[PDF page 5]
+
+Great Clarendon Street, Oxford OX2 6DP
+
+Oxford University Press is a department of the University of Oxford. It furthers
+the University’s objective of excellence in research, scholarship, and education by
+publishing worldwide in: Oxford New York
+                 Auckland Cape Town Dar es Salaam Hong Kong Karachi
+                 Kuala Lumpur Madrid Melbourne Mexico City Nairobi
+                 New Delhi Shanghai Taipei Toronto. With offices in:
+                  Argentina Austria Brazil Chile Czech Republic France Greece
+                  Guatemala Hungary Italy Japan Poland Portugal Singapore
+                  South Korea Switzerland Thailand Turkey Ukraine Vietnam
+
+Oxford is a registered trade mark of Oxford University Press in the UK and in
+certain other countries
+
+Published in the United States by Oxford University Press Inc., New York
+
+© Oxford University Press, 2014
+
+The moral rights of the authors have been asserted
+
+Database right Oxford University Press (maker)
+
+First published 1985      Fifth edition 2001                 Translations:
+  (RA Hope & JM Longmore)       (JM Longmore & IB Wilkinson) Chinese    Indonesian
+Second edition 1989       Sixth edition 2004                 Czech      Italian
+Third edition 1993        Seventh edition 2007               Estonian Polish
+Fourth edition 1998       Eighth edition 2010                French     Portuguese
+                          Ninth edition 2014                 German     Romanian
+                                                             Greek      Russian
+                                                             Hungarian Spanish
+
+All rights reserved. No part of this publication may be reproduced, stored in a
+retrieval system, or transmitted, in any form or by any means, without the prior
+permission in writing of Oxford University Press, or as expressly permitted by law,
+or under terms agreed with the appropriate reprographics rights organization.
+Enquiries concerning reproduction outside the scope of the above should be sent
+to the Rights Department, Oxford University Press, at the address above.
+
+You must not circulate this book in any other binding or cover
+and you must impose the same condition on any acquirer.
+
+British Library Cataloguing in Publication Data
+Data available
+
+Library of Congress Cataloging in Publication Data
+Data available
+
+Typeset by GreenGate Publishing Services, Tonbridge, UK; printed in China by
+C&C Offset Printing Co. Ltd.
+
+ISBN 978-0-19-960962-8
+
+
+Drugs
+
+Except where otherwise stated, recommendations are for the non-pregnant
+adult who is not breastfeeding and who has reasonable renal and hepatic func-
+tion. To avoid excessive doses in obese patients it may be best to calculate doses
+on the basis of ideal body weight (IBW): see p621.
+
+We have made every effort to check this text, but it is still possible that drug or
+other errors have been missed. OUP makes no representation, express or implied,
+that doses are correct. Readers are urged to check with the most up to date
+product information, codes of conduct, and safety regulations. The authors and
+the publishers do not accept responsibility or legal liability for any errors in the
+text, or for the misuse or misapplication of material in this work.
+
+For updates/corrections, see http://www.oup.co.uk/academic/series/oxhmed/updates/
+
+
+[PDF page 6]
+
+Contents
+
+Each chapter’s contents are detailed on its first page
+
+Index to emergency topics front endpapers
+Common reference intervals front endpapers
+
+From the preface to the first edition vi
+Preface to the ninth edition vi
+Acknowledgements vii
+Symbols and abbreviations viii
+How to conduct ourselves when juggling with symbols x
+
+
+1 Thinking about medicine                                    0
+2 History and examination                                    18
+3 Cardiovascular medicine                                    86
+4 Chest medicine                                             154
+5 Endocrinology                                              196
+6 Gastroenterology                                           234
+7 Renal medicine                                             284
+8 Haematology                                                316
+9 Infectious diseases                                        372
+10 Neurology                                                 448
+11 Oncology and palliative care                              522
+12 Rheumatology                                              540
+13 Surgery                                                   566
+14 Epidemiology                                              664
+15 Clinical chemistry                                        676
+16 Eponymous syndromes                                       708
+17 Radiology                                                 732
+18 Reference intervals, etc.                                 764
+19 Practical procedures                                      772
+20 Emergencies                                               792
+
+Index 864
+Useful doses for the new doctor 902
+Cardiorespiratory arrest endmatter
+Life support algorithms back endpapers
+
+[PDF page 7]
+
+We wrote this book not because we know so much, but because we know
+we remember so little…the problem is not simply the quantity of informa-
+tion, but the diversity of places from which it is dispensed. Trailing eagerly
+behind the surgeon, the student is admonished never to forget alcohol withdrawal
+as a cause of post-operative confusion. The scrap of paper on which this is written
+spends a month in the pocket before being lost for ever in the laundry. At different
+times, and in inconvenient places, a number of other causes may be presented to
+the student. Not only are these causes and aphorisms never brought together, but
+when, as a surgical house officer, the former student faces a confused patient, none
+is to hand.
+
+We aim to encourage the doctor to enjoy his patients: in doing so we believe he will
+prosper in the practice of medicine. For a long time now, house officers have been
+encouraged to adopt monstrous proportions in order to straddle the diverse pinna-
+cles of clinical science and clinical experience. We hope that this book will make this
+endeavour a little easier by moving a cumulative memory burden from the mind into
+the pocket, and by removing some of the fears that are naturally felt when starting
+a career in medicine, thereby freely allowing the doctor’s clinical acumen to grow by
+the slow accretion of many, many days and nights.
+
+From the 1st edition
+Preface RAH & JML 1985
+
+
+Preface to the ninth edition
+
+As medicine becomes more and more specialized, and moves further and further
+from the general physician, becoming increasingly subspecialized, it can be difficult
+to know where we fit in to the general scheme of things. What ties a public health
+physician to a neurosurgeon? Why does a dermatologist require the same early
+training as a gastroenterologist? What makes an academic nephrologist similar to a
+general practitioner? To answer these questions we need to go back to the definition
+of a physician. The word physician comes from the Greek physica, or natural science,
+and the Latin physicus, or one who undertakes the study of nature. A physician
+therefore is one who has studied nature and natural sciences, although the word has
+been adapted to mean one who has studied healing and medicine. We can think also
+about the word medicine, originally from the Latin stem med, to think or reflect on.
+A medical person, or medicus, originally meant someone who knew the best course
+of action for a disease, having spent time thinking or reflecting on the problem in
+front of them.
+
+As physicians, we continue to specialize in ever more diverse conditions, complex
+scientific mechanisms, external interests ranging from academia to education, from
+public health and government policy to managerial posts. At the heart of this we
+should remember that all physicians enter into medicine with a shared goal, to un-
+derstand the human body, what makes it go wrong, and how to treat that disease.
+We all study natural science, and must have a good evidence base for what we do,
+for without evidence, and knowledge, how are we to reflect on the patient and the
+problem they bring to us, and therefore understand the best course of action to
+take? This is not always a drug or an operation; we must work holistically and treat
+the whole patient, not just the problem they present with; for this reason we need
+psychiatrists as much as cardiothoracic surgeons, public health physicians as much
+as intensive care physicians. For each problem, and each patient, the best and most
+appropriate course of action will be different. It is no longer possible to be a true
+general physician, there is too much to know, too much detail, too many treatments
+and options. Strive instead to be the best medic that you can, knowing enough to
+understand the best course of action, whether that be to reassure, to treat, to refer
+or to palliate.
+
+In this book, we join the minds of an academic clinical pharmacologist, a general
+practitioner, a nephrologist, and a GP registrar. Four physicians, each very different
+in their interests and approaches, and yet each bringing their own knowledge and
+expertise, which, combined with that of our specialist readers, we hope creates a
+book that is greater than the sum of its parts.
+
+
+[PDF page 8]
+
+Acknowledgements
+
+Heart-felt thanks to our advisers on specific sections—each is acknowledged on
+the chapter’s first page. We especially thank Dr Judith Collier and Dr Ahmad Mafi
+for reading the entire text, and also Rev. Gary Bevans for his kind permission to
+use the image on p225, from his beautiful Sistine Chapel sequences reproduced on
+the ceiling of the Church of the English Martyrs, Goring-by-Sea. IBW would like to
+acknowledge his clinical mentors Jim Holt and John Cockcroft and EFW her clini-
+cal and literary mentor Dr John Firth. We thank the Department of Radiology at
+both the Leeds Teaching Hospitals NHS Trust and the Norfolk and Norwich Univer-
+sity Hospital for their kind help in providing many images, particularly Dr Edmund
+Godfrey, whose tireless hunt for perfect images has improved so many chapters.
+
+Readers’ comments
+These have formed a vital part of our endeavour to provide
+an accurate, comprehensive, and up-to-date text. We sincerely thank the many
+students, doctors and other health professionals who have found the time and
+the generosity to write to us on our Reader’s Comments Cards, in editions past,
+or, in more recent times, via the web. These have now become so numerous for
+past editions that they cannot all be listed. See www.oup.com/uk/academic/series/
+oxhmed/links for a full list, and our very heart-felt tokens of thanks.
+
+3rd-party web addresses
+We disclaim any responsibility for 3rd-party content.
+
+[PDF page 9]
+
+Symbols and abbreviations
+
+ this fact or idea is important
+ don’t dawdle!—prompt action saves lives
+ incendiary (controversial) topic
+[ ] non-BNF drug dose
+1 reference available on our website www.oup.com/uk/ohcm9refs
+: male-to-female ratio. :=2:1 means twice as common in males
+@12 search Medline (pubmed.gov) with ’12…’ to get an abstract (omit ‘@’)
+ on account of
+ therefore
+~ approximately
+–ve negative (+ve is positive)
+  increased or decreased (eg serum level)
+ normal (eg serum level)
+ diagnosis
+ differential diagnosis (list of possibilities)
+ deprecated term
+A2 aortic component of the 2nd heart sound
+A2A angiotensin-2 receptor antagonist (p309; = AT-2, A2R, and AIIR)
+Ab antibody
+ABC airway, breathing, and circulation: basic life support (see inside back cover)
+ABG arterial blood gas: PaO2, PaCO2, pH, HCO3
+ABPA allergic bronchopulmonary aspergillosis
+ac ante cibum (before food)
+ACE-i angiotensin-converting enzyme inhibitor
+ACS acute coronary syndrome
+ACTH adrenocorticotrophic hormone
+ADH antidiuretic hormone
+ad lib as much/as often as wanted
+AF atrial fibrillation
+AFB acid-fast bacillus
+AFP (or -FP) alpha-fetoprotein
+Ag antigen
+AIDS acquired immunodeficiency syndrome
+AKI acute kidney injury
+alk phos alkaline phosphatase (also ALP)
+ALL acute lymphoblastic leukaemia
+AMA antimitochondrial antibody
+AMP adenosine monophosphate
+ANA antinuclear antibody
+ANCA antineutrophil cytoplasmic antibody
+APTT activated partial thromboplastin time
+AR aortic regurgitation
+ARA(b) angiotensin receptor antagonist (p309; also AT-2, A2R, and AIIR)
+ARDS acute respiratory distress syndrome
+ARF acute renal failure = AKI
+AS aortic stenosis
+ASD atrial septal defect
+ASO antistreptolysin O (titre)
+AST aspartate transaminase
+AT-2 angiotensin-2 receptor blocker (p309; also AT-2, A2R, and AIIR)
+ATN acute tubular necrosis
+ATP adenosine triphosphate
+AV atrioventricular
+AVM arteriovenous malformation(s)
+AXR abdominal X-ray (plain)
+Ba barium
+BAL bronchoalveolar lavage
+bd bis die (Latin for twice a day)
+BKA below-knee amputation
+BMA British Medical Association
+BMJ British Medical Journal
+BNF British National Formulary
+BP blood pressure
+BPH benign prostatic hyperplasia
+bpm beats per minute (eg pulse)
+ca cancer
+CABG coronary artery bypass graft
+CAD coronary heart disease
+cAMP cyclic adenosine monophosphate (AMP)
+CAPD continuous ambulatory peritoneal dialysis
+CBD common bile duct, cortico-basal degeneration
+CC creatinine clearance (also CrCl)
+CCF congestive cardiac failure (ie left and right heart failure)
+CCU coronary care unit
+CHB complete heart block
+CHD coronary heart disease (related to ischaemia and atheroma)
+CI contraindications
+CK creatine (phospho)kinase (also CPK)
+CKD chronic kidney disease
+CLL chronic lymphocytic leukaemia
+CML chronic myeloid leukaemia
+
+CMV cytomegalovirus
+CNS central nervous system
+COC combined oral contraceptive pill
+COPD chronic obstructive pulmonary disease
+CPAP continuous positive airways pressure
+CPR cardiopulmonary resuscitation
+CRD chronic renal disease
+CRP c-reactive protein
+CSF cerebrospinal fluid
+CT computer tomography
+CVA cerebrovascular accident
+CVP central venous pressure
+CVS cardiovascular system
+CXR chest x-ray
+d day(s); also expressed as /7; months are /12
+DC direct current
+DIC disseminated intravascular coagulation
+DIP distal interphalangeal
+dL decilitre
+DoH (or DH) Department of Health (UK)
+DM diabetes mellitus
+DU duodenal ulcer
+D&V diarrhoea and vomiting
+DVT deep venous thrombosis
+DXT deep radiotherapy
+EBM evidence-based medicine and its journal published by the BMA
+EBV Epstein–Barr virus
+ECG electrocardiogram
+Echo echocardiogram
+ED emergency department
+EDTA ethylene diamine tetra-acetic acid (anticoagulant coating, eg in FBC bottles)
+EEG electroencephalogram
+eGFR estimated glomerular filtration rate (GFR; mL/min/1.73m2—see p683)
+ELISA enzyme-linked immunosorbent assay
+EM electron microscope
+EMG electromyogram
+ENT ear, nose, and throat
+ERCP endoscopic retrograde cholangiopancreatography; see also MRCP
+ESR erythrocyte sedimentation rate
+ESRF end-stage renal failure
+EUA examination under anaesthesia
+FB foreign body
+FBC full blood count
+FDP fibrin degradation products
+FEV1 forced expiratory volume in 1st sec
+FiO2 partial pressure of O2 in inspired air
+FFP fresh frozen plasma
+FSH follicle-stimulating hormone
+FVC forced vital capacity
+g gram
+GA general anaesthetic
+GAT Sanford Guide to Antimicrobial Therapy 43ed
+GB gallbladder
+GC gonococcus
+GCS Glasgow coma scale
+GFR glomerular filtration rate eGFR, p683
+GGT gamma-glutamyl transferase
+GH growth hormone
+GI gastrointestinal
+GP general practitioner
+G6PD glucose-6-phosphate dehydrogenase
+GTN glyceryl trinitrate
+GTT glucose tolerance test (OGTT: oral GTT)
+GU(M) genitourinary (medicine)
+h hour
+HAV hepatitis A virus
+Hb haemoglobin
+HBSAg hepatitis B surface antigen
+HBV hepatitis B virus
+HCC hepatocellular cancer
+HCM hypertrophic obstructive cardiomyopathy
+Hct haematocrit
+HCV hepatitis C virus
+HDV hepatitis D virus
+HDL high-density lipoprotein, p704
+HHT hereditary haemorrhagic telangiectasia
+HIDA hepatic immunodiacetic acid
+HIV human immunodeficiency virus
+HONK hyperosmolar non-ketotic (diabetic coma)
+HRT hormone replacement therapy
+HSV herpes simplex virus
+IBD inflammatory bowel disease
+IBW ideal body weight, p446
+ICD implantable cardiac defibrillator
+ICP intracranial pressure
+ICU intensive care unit
+IDA iron-deficiency anaemia
+IDDM insulin-dependent diabetes mellitus
+
+
+[PDF page 10]
+
+IFN- interferon alpha
+IE infective endocarditis
+Ig immunoglobulin
+IHD ischaemic heart disease
+IM intramuscular
+INR international normalized ratio (prothrombin)
+IP interphalangeal
+IPPV intermittent positive pressure ventilation
+ITP idiopathic thrombocytopenic purpura
+iU/U international unit
+IVC inferior vena cava
+IV(I) intravenous (infusion)
+IVU intravenous urography
+JAMA Journal of the American Medical Association
+JVP jugular venous pressure
+K potassium
+KCCT kaolin cephalin clotting time
+kg kilogram
+KPa kiloPascal
+L litre
+LAD left axis deviation on the ECG; also left anterior descending coronary artery; left anterior hemiblock
+LBBB left bundle branch block
+LDH lactate dehydrogenase
+LDL low-density lipoprotein, p704
+LBW lean body weight, p434
+LFT liver function test
+LH luteinizing hormone
+LIF left iliac fossa
+LKKS liver, kidney (R), kidney (L), spleen
+LMN lower motor neuron
+LOC loss of consciousness
+LP lumbar puncture
+LUQ left upper quadrant
+LV left ventricle of the heart
+LVF left ventricular failure
+LVH left ventricular hypertrophy
+μg microgram
+MAI Mycobacterium avium intracellulare
+mane morning (from Latin)
+MAOI monoamine oxidase inhibitor
+MAP mean arterial pressure
+MC&S microscopy, culture and sensitivity
+MCP metacarpo-phalangeal
+MCV mean cell volume
+MDMA 3,4-methylenedioxymethamphetamine
+ME myalgic encephalomyelitis
+MET meta-analysis
+mg milligram
+MI myocardial infarction
+min(s) minute(s)
+mL millilitre
+mmHg millimetres of mercury
+MND motor neuron disease
+MRCP magnetic resonance cholangiopancreatography/member of Royal College of Physicians
+MRI magnetic resonance imaging
+MRSA methicillin-resistant Staph. aureus
+MS multiple sclerosis (mitral stenosis)
+MSU midstream urine
+NAD nothing abnormal detected
+NBM nil by mouth
+ND notifiable disease
+NEJM New England Journal of Medicine
+ng nanogram
+NG(T) nasogastric (tube)
+NHS National Health Service (UK)
+NICE National Institute for Health and Clinical Excellence, www.nice.org.uk
+NIDDM non-insulin-dependent diabetes mellitus
+NMDA N-methyl-D-aspartate
+NNT number needed to treat, for 1 extra satisfactory result (p671)
+Nocte at night
+NR normal range (=reference interval)
+NSAID non-steroidal anti-inflammatory drug
+N&V nausea and/or vomiting
+od omni die (Latin for once daily)
+OD overdose
+OGD oesophagogastroduodenoscopy
+OGS oxogenic steroids
+OGTT oral glucose tolerance test
+OHCS Oxford Handbook of Clinical Specialties 9e
+om omni mane (in the morning)
+on omni nocte (at night)
+OPD outpatients department
+ORh– blood group O, Rh negative
+OT occupational therapist
+OTM Oxford Textbook of Medicine 5e (OUP)
+P2 pulmonary component of 2nd heart sound
+PaCO2 partial pressure of CO2 in arterial blood
+PAN polyarteritis nodosa
+PaO2 partial pressure of O2 in arterial blood
+PBC primary biliary cirrhosis
+PCP Pneumocystis carinii (jiroveci) pneumonia
+
+PCR polymerase chain reaction (DNA diagnosis)
+PCV packed cell volume
+PE pulmonary embolism
+PEEP positive end-expiratory pressure
+PEF(R) peak expiratory flow (rate)
+PERLA pupils equal and reactive to light and accommodation
+PET positron emission tomography
+PID pelvic inflammatory disease
+PIP proximal interphalangeal (joint)
+PMH past medical history
+PND paroxysmal nocturnal dyspnoea
+PO per os (by mouth)
+PPF purified plasma fraction (albumin)
+PPI proton pump inhibitor, eg omeprazole
+PR per rectum (by the rectum)
+PRL prolactin
+PRN pro re nata (Latin for as required)
+PRV polycythaemia rubra vera
+PSA prostate-specific antigen
+PTH parathyroid hormone
+PTT prothrombin time
+PUO pyrexia of unknown origin
+PV per vaginam (by the vagina, eg pessary)
+PVD peripheral vascular disease
+qds quater die sumendus; take 4 times daily
+qqh quarta quaque hora: take every 4h
+R right
+RA rheumatoid arthritis
+RAD right axis deviation on the ECG
+RBBB right bundle branch block
+RBC red blood cell
+RCT randomized control trial
+RFT respiratory function tests
+Rh Rh; a contraction, not an abbreviation: derived from the rhesus monkey
+RIF right iliac fossa
+RUQ right upper quadrant
+RV right ventricle of heart
+RVF right ventricular failure
+RVH right ventricular hypertrophy
+ recipe (Latin for treat with)
+s/sec second(s)
+S1, S2 first and second heart sounds
+SBE subacute bacterial endocarditis (IE is any infective endocarditis)
+SC subcutaneous
+SD standard deviation
+SE side-effect(s)
+SL sublingual
+SLE systemic lupus erythematosus
+SOB short of breath
+SOBE short of breath on exercise
+SPC summary of product characteristics, www.medicines.org.uk
+SpO2 peripheral oxygen saturation (%)
+SR slow-release (also MR, modified-release)
+Stat statim (immediately; as initial dose)
+STD/I sexually transmitted disease/infection
+SVC superior vena cava
+SVT supraventricular tachycardia
+Sy(n) syndrome
+T° temperature
+T½ biological half-life
+T3; T4 tri-iodothyronine; T4 is thyroxine
+TB tuberculosis
+tds ter die sumendus (take 3 times a day)
+TFT thyroid function test (eg TSH)
+TIA transient ischaemic attack
+TIBC total iron-binding capacity
+tid ter in die (Latin for 3 times a day)
+TPR temperature, pulse and respirations count
+TRH thyroid-releasing hormone
+TSH thyroid-stimulating hormone
+U units
+UC ulcerative colitis
+U&E urea and electrolytes and creatinine—in plasma, unless stated otherwise
+UMN upper motor neuron
+URT(I) upper respiratory tract (infection)
+US(S) ultrasound (scan)
+UTI urinary tract infection
+VDRL Venereal Diseases Research Laboratory
+VE ventricular extrasystole
+VF ventricular fibrillation
+VMA vanillyl mandelic acid (HMMA)
+V/Q ventilation/perfusion ratio
+VSD ventriculo-septal defect
+VT ventricular tachycardia
+WBC white blood cell
+WCC white blood cell count
+wk(s) week(s)
+WR Wassermann reaction (syphilis serology)
+yr(s) year(s)
+ZN Ziehl–Neelsen stain, eg for mycobacteria
+
+
+[PDF page 11]
+
+How to conduct ourselves when juggling with
+symbols
+
+The great conductors (Herbert von Karajan, Claudio Abbado, and Leonard Bern-
+stein, for example) always seem to know instinctively what is important (), when
+to hurry up (PRESTO! ), and when to slow down (). The symbols on the previ-
+ous page (Symbols & abbreviations) perpetuate the myth that these instructions
+are easy to follow and to understand. When we first experience life on the ward
+or in consulting rooms, we marvel at how efficiently senior doctors dispatch their
+business. How will we ever aspire to this efficiency?—we ask ourselves, without
+pausing to ask what all this efficiency is for. We should be efficient so that we can
+canter through straightforward consultations,
+then slow down and spend time when we can
+make a real difference—to our patient’s wellbe-
+ing, mental health, social functioning, or life in
+general. Too often, doctors remember the bit
+about cantering (or galloping) and forget the
+bit about slowing down. Every day we should
+dawdle, dilly-dally, and play—with each other
+and with our patients. This way we can pick
+up cues about what is really important to our
+fellows, and we can think up ingenious non-
+reductionist ways out of seemingly impossible
+muddles. The spiral is our symbol for this ()
+because it comes from infinity and drills down
+to the infinitesimal. We need to enjoy juggling
+with both aspects, and move seamlessly from
+one to the other.
+
+Fig 1. Juggling with symbols
+
+Almost whenever we ask colleagues about the management of certain diseases
+we get a mouthful of drugs and then a full stop. But really we should start with the
+full stop—to indicate a pause—hence our  symbol—before launching into danger-
+ous and sometimes unwanted drugs. These ideas can be rolled into a comprehensive
+treatment plan. This comes naturally to some doctors, although we were surprised
+to hear one such physician mutter “BASTARD!” under his breath when confronted
+by a difficult patient—surprised until he told us what he meant was “avoid doctor
+dependency”—ie Buy stuff over the counter; take Advice from grandma et al; use
+Self-made remedies such as lemon-and-honey or sensible complementary thera-
+pies; Team up with other people with the same condition for mutual support;
+Augment your own mental health and resilience so that symptoms are less intru-
+sive; Rest (or exercise); and eat a sensible Diet.
+
+Fig 2. Antidotes to doctor dependency
+
+Two people may have the same symptom (backache, migraine, indigestion, etc):
+by adopting the principles above, one may shrug off his symptom and his doctor,
+while the other gets stuck in a cycle of prescription medicines, side-effects, and
+complications. To coin a phrase, we could describe this dependency on medicines
+as medlock. Have you freed anyone from medlock today? To do so, be it medlock
+or wedlock, think: “bastard”.
+
+The foregoing is a little bit too neat. It suggests that two people can have iden-
+tical symptoms, eg indigestion. This is as absurd as suggesting that two people
+can wear the same hat—identically the same hat. There is only room for one in-
+side my pain. In the end, it’s not so much the symptom that matters, or the ex-
+act hat, but the nonchalance with which we wear it. And on the tip of the coiled
+tongue inside our little symbol  we can taste a hint of the jaunty insouciance
+we so admire in our long-suffering and indomitable patients.
+
+
+[PDF page 12]
+
+[Full-page illustration; no clearly readable printed text is visible in the supplied
+page image.]
+
+
+[PDF page 13]
+
+1 Thinking about medicine
+
+Contents
+
+The Hippocratic oath 1
+Ideals 2
+The bedside manner 3
+Asking questions 4
+Finding narrative answers 5
+Death 6
+Facing and managing death 7
+Prescribing drugs 8
+Surviving life on the wards 9
+Resource allocation 10
+Psychiatry on the wards 11
+The elderly patient in hospital 12
+The art of diagnosing 13
+On being busy 14
+Health and medical ethics 15
+Troubled, troubling, and troublesome patients 16
+Medicine, art, and the humanities 17
+
+Fig 1. Hippocrates sits under his famous tree, dispensing, in equal measure,
+the fruits of reductionist medicine (on his right) and those of integrative
+medicine (on his left).
+
+A new Hippocratic oath ~2013AD
+
+I will make my patient my first concern. I will treat all my patients as individuals,
+and respect their dignity and right to confidentiality.
+
+I will do my best to help anyone in medical need and ensure the health of
+patients and the public are protected and promoted.
+
+I will use my medical knowledge to benefit people’s health. I will be honest,
+respectful, and compassionate to all.
+
+I will provide a good standard of care, uninfluenced by political or religious pressure,
+or the age, race, sexual orientation, social class or wealth of my patient.
+
+I will listen to patients and respond to their concerns. I will give patients
+information they want or need in a way they can understand.
+
+I will help patients reach decisions about their treatment and care and will respect
+decisions of informed and competent patients, even if treatment is refused.
+
+I will recognize the limits of my knowledge and competence, and seek advice when
+needed. I will keep my knowledge and skills up to date, and ensure poor standards
+or bad practices are exposed without delay to those who can improve them.
+
+I will show respect for all those with whom I work, and will work with colleagues
+in a way that best serves the interest of my patients. I will be ready to share my
+knowledge by teaching others.
+
+I recognize the special value of human life, but I also know that prolonging life is
+not the only aim of health care.
+
+I will promote fair use of health resources and try to influence positively those
+whose policies harm public health.
+
+I recognize that I have responsibilities to humankind that transcend diktats and
+orders of States, and which no legislature can countermand. I will oppose
+health policies that breach internationally accepted standards of human rights.
+
+I will learn from my mistakes and seek help from colleagues to promote patient
+safety. While keeping within this framework, I will not be discouraged by failure,
+and will try to continue in a spirit of practical and rational optimism.
+
+Where should we keep this oath? Not in the dusty confines of a book, but in our
+limbic system (p448), where it has every chance of influencing unconscious action,
+before our subverting cerebral cortex comes up with brilliant and convenient
+excuses as to why, in this case, the oath does not apply.
+
+See also the BMA’s Revised Hippocratic Oath and the GMC’s Duties of a Doctor
+
+We thank our Junior Reader Mathuranayagham Niroshan for his contribution.

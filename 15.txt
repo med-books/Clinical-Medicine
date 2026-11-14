@@ -1,0 +1,282 @@
+PDF PAGE 1 — PRINTED PAGE 141
+
+Cardiovascular medicine
+
+Fig 1. Severely calcified aortic valve. Reproduced with permission from Hamid Reza Taghipour.
+
+
+PDF PAGE 2 — PRINTED PAGE 142
+
+Right heart valve disease
+
+Tricuspid regurgitation Causes: Functional (RV dilatation; eg due to pulmonary hypertension induced by LV failure); rheumatic fever; infective endocarditis (IV drug abuser¹); carcinoid syndrome; congenital (eg ASD, AV canal, Ebstein’s anomaly, ie downward displacement of the tricuspid valve—see OHCS p642); drugs (eg ergot-derived dopamine agonists, p498, fenfluramine). Symptoms: Fatigue; hepatic pain on exertion; ascites; oedema and also dyspnoea and orthopnoea if the cause is LV dysfunction. Signs: Giant v waves and prominent y descent in JVP (p41); RV heave; pansystolic murmur, heard best at lower sternal edge in inspiration; pulsatile hepatomegaly; jaundice; ascites. Management: Treat underlying cause. Drugs: diuretics, digoxin, ACE-i. Valve replacement (~10% 30-day mortality). Tricuspid regurgitation resulting from myocardial dysfunction or dilatation has a mortality of up to 50% at 5 yrs.
+
+Tricuspid stenosis Causes: Main cause is rheumatic fever, which almost always occurs with mitral or aortic valve disease. Also: congenital, infective endocarditis. Symptoms: Fatigue, ascites, oedema. Signs: Giant a wave and slow y descent in JVP (p41); opening snap, early diastolic murmur heard at the left sternal edge in inspiration. AF can also occur. Diagnosis: Echo. Treatment: Diuretics; surgical repair.
+
+Pulmonary stenosis Causes: Usually congenital (Turner’s syndrome, Noonan’s syndrome, William’s syndrome, Fallot’s tetralogy, rubella). Acquired causes: rheumatic fever, carcinoid syndrome. Symptoms: Dyspnoea; fatigue; oedema; ascites. Signs: Dysmorphic facies (congenital causes); prominent a wave in JVP; RV heave. In mild stenosis, there is an ejection click, ejection systolic murmur (which radiates to the left shoulder); widely split S2. In severe stenosis, the murmur becomes longer and obscures A2. P2 becomes softer and may be inaudible. Tests: ECG: RAD, P-pulmonale, RVH, RBBB. echo/TOE (p106). CXR: Prominent main, right, or left pulmonary arteries caused by post-stenotic dilatation. Cardiac catheterization is diagnostic. Treatment: Pulmonary valvuloplasty or valvotomy.
+
+Pulmonary regurgitation is caused by any cause of pulmonary hypertension (p194). A decrescendo murmur is heard in early diastole at the left sternal edge (the Graham Steell murmur if associated with mitral stenosis and pulmonary hypertension).
+
+Cardiac surgery
+
+Valvuloplasty can be used in mitral or pulmonary stenosis (pliable, non-calcified valve, no regurgitation). A balloon catheter is inserted across the valve and inflated.
+
+Valvotomy Closed valvotomy is rarely performed now. Open valvotomy is performed under cardiopulmonary bypass through a median sternotomy.
+
+Valve replacements Mechanical valves may be of the ball-cage (Starr–Edwards), tilting disc (Bjork–Shiley), or double tilting disc (St Jude) type. These valves are very durable but the risk of thromboembolism is high; patients require lifelong anticoagulation. Xenografts are made from porcine valves or pericardium. These valves are less durable and may require replacement at 8–10yrs. Anticoagulation is not required unless there is AF. Homografts are cadaveric valves. They are particularly useful in young patients and in the replacement of infected valves. Complications of prosthetic valves: systemic embolism, infective endocarditis, haemolysis, structural valve failure, arrhythmias.
+
+CABG See p104.
+
+Cardiac transplantation Consider this when cardiac disease is severely curtailing quality of life, and survival is not expected beyond 6–12 months. Refer to a specialist centre.
+
+¹ This list is easier to remember once we recall that it is the tricuspid valve which is the valve most vulnerable to events arriving by vein, eg pathogens from IV drug abusers reach the tricuspid valve first; likewise for drugs and toxins from distal carcinoid tumours.
+
+
+PDF PAGE 3 — PRINTED PAGE 143
+
+The heart in various, mostly rare, systemic diseases
+
+This list reminds us to look at the heart and the whole patient, not just in exams (where those with odd syndromes congregate), but always.
+
+Acromegaly: (p230) BP↑; LVH; hypertrophic cardiomyopathy; high output cardiac failure; coronary artery disease.
+
+Amyloidosis: (p364) Restrictive cardiomyopathy. Bright myocardium on echo.
+
+Ankylosing spondylitis: Conduction defects; AV block; AR.
+
+Behçet’s disease: (p708) Aortic regurgitation; arterial ± venous thrombi.
+
+Cushing’s syndrome: (p216) Hypertension.
+
+Down’s syndrome: (OHCS p152) ASD; VSD; mitral regurgitation.
+
+Ehlers–Danlos syndrome: (OHCS p642) Mitral valve prolapse + hyperelastic skin ± aneurysms and GI bleeds. Joints are loose and hypermobile; mutations exist, eg in genes for procollagen (COL3A1); there are 6 types.
+
+Friedreich’s ataxia: (p712) Hypertrophic cardiomyopathy, dilatation over time.
+
+Haemochromatosis: (p262) AF; cardiomyopathy.
+
+Holt–Oram syndrome: ASD or VSD with upper limb defects. 97
+
+Human immunodeficiency virus: (p408) Myocarditis; dilated cardiomyopathy; effusion; ventricular arrhythmias; SBE/IE; non-infective thrombotic (marantic) endocarditis; RVF (pulmonary hypertension); metastatic Kaposi’s sarcoma.
+
+Hypothyroidism: (p212) Sinus bradycardia; low pulse pressure; pericardial effusion; coronary artery disease; low voltage ECG.
+
+Kawasaki disease: (OHCS p646) Coronary arteritis similar to PAN; commoner than rheumatic fever (p136) as a cause of acquired heart disease.
+
+Klinefelter’s syndrome: ♂ (OHCS p646) ASD. Psychopathy; learning difficulties; libido↓; gynaecomastia; sparse facial hair and small firm testes. XXY.
+
+Marfan’s syndrome: (p720) Mitral valve prolapse; AR; aortic dissection. Look for long fingers and a high-arched palate.
+
+Noonan’s syndrome: (OHCS p650) ASD; pulmonary stenosis ± low-set ears.
+
+PAN: (p558) Small and medium vessel vasculitis + angina; MI; arrhythmias; CCF; pericarditis and conduction defects.
+
+Rheumatoid arthritis: Conduction defects; pericarditis; LV dysfunction; aortic regurgitation; coronary arteritis. Look for arthritis signs, p548.
+
+Sarcoidosis: (p186) Infiltrating granulomas may cause complete AV block; ventricular or supraventricular tachycardia; myocarditis; CCF; restrictive cardiomyopathy. ECG may show Q waves.
+
+Syphilis: (p431) Myocarditis; ascending aortic aneurysm.
+
+Systemic lupus erythematosus: (p556) Pericarditis/effusion; myocarditis; Libman–Sacks endocarditis; mitral valve prolapse; coronary arteritis.
+
+Systemic sclerosis: (p554) Pericarditis; pericardial effusion; myocardial fibrosis; myocardial ischaemia; conduction defects; cardiomyopathy.
+
+Thyrotoxicosis: (p210) Pulse↑; AF ± emboli; wide pulse pressure; hyperdynamic apex; loud heart sounds; ejection systolic murmur; pleuropericardial rub; angina; high-output cardiac failure.
+
+Turner’s syndrome: ♀ Coarctation of aorta. Look for webbed neck. XO.
+
+William’s syndrome: Supravalvular aortic stenosis (visuospatial IQ↓).
+
+
+PDF PAGE 4 — PRINTED PAGE 144
+
+Infective endocarditis (IE)
+
+Fever + new murmur = endocarditis until proven otherwise. Any fever lasting >1wk in those known to be at risk¹ must prompt blood cultures. 98 Classification: 50% of all endocarditis occurs on normal valves. It follows an acute course, and presents with acute heart failure ± emboli. Chief cause: 99 S. aureus. Risk factors: dermatitis; IV injections; renal failure; organ transplantation; DM; post-op wounds. Entry is usually via the skin. Mortality: 5–50% (related to age and embolic events). Endocarditis on abnormal valves tends to run a subacute course. Risk factors: aortic or mitral valve disease; tricuspid valves in IV drug users; coarctation; patent ductus arteriosus; VSD; prosthetic valves. Endocarditis on prosthetic valves may be ‘early’ (during surgery, poor prognosis) or ‘late’ (haematogenous).
+
+Cardiovascular medicine
+
+Causes Bacteraemia: This is occurring all the time, eg when we chew (not just when we have dentistry or medical interventions—which is why routine prophylaxis for such procedures does not make sense). 98 Strep viridans is common cause (>35%). Others: enterococci; Staph aureus/epidermidis; diphtheroids; microaerophilic streps. Rarely: HACEK Gram –ve bacteria (Haemophilus–Actinobacillus–Cardiobacterium–Eikenella–Kingella); Coxiella burnetii; Chlamydia. Fungi: Candida; Aspergillus; Histoplasma. Other causes: SLE (Libman–Sacks endocarditis); malignancy.
+
+Signs Septic signs: Fever, rigors, night sweats, malaise, weight loss, anaemia, splenomegaly, and clubbing (fig 1). Cardiac lesions: Any new murmur, or a changing pre-existing murmur, should raise the suspicion of endocarditis. Vegetations may cause valve destruction and severe regurgitation, or valve obstruction. An aortic root abscess causes prolongation of the PR interval, and may lead to complete AV block. LVF is a common cause of death. Immune complex deposition: Vasculitis (p558) may affect any vessel. Microscopic haematuria is common; glomerulonephritis and acute renal failure may occur. Roth spots (boat-shaped retinal haemorrhage with pale centre; p386 fig 1); splinter haemorrhages (fig 2); Osler’s nodes (painful pulp infarcts in fingers or toes). Embolic phenomena: Emboli may cause abscesses in the relevant organ, eg brain, heart, kidney, spleen, gut (or lung if right-sided IE) or skin: termed Janeway lesions (fig 3; painless palmar or plantar macules), which, together with Osler’s nodes, are pathognomonic.
+
+Diagnosis Use the Duke criteria (BOX 1). 100 Blood cultures: Do 3 sets at different times from different sites at peak of fever. 85–90% are diagnosed from the 1st 2 sets; 10% are culture-negative. Blood tests: Normochromic, normocytic anaemia, neutrophilia, high ESR/CRP. Also check U&E, Mg2+, LFT. Urinalysis for microscopic haematuria. CXR (cardiomegaly). ECG (long PR interval) at regular intervals. Echocardiogram TTE (p106) may show vegetations, but only if >2mm. TOE (p106) is more sensitive, and better for visualizing mitral lesions and possible development of aortic root abscess.
+
+Treatment: Liaise early with microbiologist and cardiologists. Antibiotics: see BOX 2. Consider surgery if: heart failure, valvular obstruction; repeated emboli; fungal endocarditis; persistent bacteraemia; myocardial abscess; unstable infected prosthetic valve.101 Mortality 30% with staphs; 14% if bowel organisms; 6% if sensitive streptococci.
+
+Prevention Antibiotic prophylaxis solely to prevent IE is not recommended because:
+
+• There is no proven association between having an interventional procedure (dental or non-dental) and the development of IE.
+• The clinical effectiveness of antibiotic prophylaxis is not proven.
+• Antibiotic prophylaxis against IE for dental procedures may lead to increased deaths through fatal anaphylaxis compared with a strategy of no antibiotic prophylaxis.
+
+Recommendations: Give clear information about prevention, including:
+
+• The benefits and risks of antibiotic prophylaxis.
+• The importance of maintaining good oral health.
+• Symptoms that may indicate IE and when to seek expert advice.
+• The risks of invasive procedures, including non-medical procedures such as body piercing or tattooing. 102
+
+¹ Past IE or rheumatic fever; IV drug abuser; damaged or replaced valve; structural congenital heart disease (but not simple ASD or fully repaired VSD or patent ductus); hypertrophic cardiomyopathy.
+
+
+PDF PAGE 5 — PRINTED PAGE 145
+
+Duke criteria for infective endocarditis
+
+Cardiovascular medicine
+
+Major criteria:
+
+• Positive blood culture:
+  • typical organism in 2 separate cultures or
+  • persistently +ve blood cultures, eg 3, >12h apart (or majority if ≥4)
+
+• Endocardium involved:
+  • positive echocardiogram (vegetation, abscess, dehiscence of prosthetic valve)
+    or
+  • new valvular regurgitation (change in murmur not sufficient).
+
+Minor criteria:
+
+• Predisposition (cardiac lesion; IV drug abuse)
+• Fever >38°C
+• Vascular/immunological signs
+• Positive blood culture that does not meet major criteria
+• Positive echocardiogram that does not meet major criteria.
+
+How to diagnose: Definite infective endocarditis: 2 major or 1 major and 3 minor or all 5 minor criteria (if no major criterion is met).
+
+Antibiotic therapy for infective endocarditis
+See BNF; consult a microbiologist
+
+• Blind therapy—native valve: amoxicillin 2g/4h IVI ± gentamicin ~1mg/kg/12h IV slowly, p767. Vancomycin 1g/12h IVI + gentamicin if penicillin-allergic. If thought to be Gram –ve: meropenem (2g/8h IVI) + vancomycin (trough level: 15–20mgL).
+
+• Blind therapy—prosthetic valve: vancomycin + gentamicin + rifampicin 300–600mg/12h PO/IVI.
+
+• Staphs—native valve: flucloxacillin for >4wks; dose example if <85kg: 2g/6h IVI (/4h if >85kg). If allergic or MRSA: vancomycin + rifampicin.
+
+• Staphs—prosthetic valves: flucloxacillin + rifampicin + gentamicin for 6wks (review need for gentamicin after 2wks). If penicillin-allergic or MRSA: vancomycin + rifampicin + gentamicin.
+
+• Streps—fully sensitive to penicillin: benzylpenicillin 1.2g/4h IV for 4–6wks.¹
+
+• Streps—less sensitive: benzylpenicillin + gentamicin; if penicillin allergic or highly penicillin resistant: vancomycin (or teicoplanin) + gentamicin.
+
+• Enterococci: amoxicillin + gentamicin (or benzylpenicillin + gentamicin). If pen allergic: vancomycin + gentamicin—for 4wks (6wks if prosthetic valve); review need for gentamicin after 2wks.
+
+• HACEK organisms (Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, Kingella): amoxicillin for 4wks (6 if prosthetic valve) + gentamicin eg for 2wks.
+
+Fig 1. Clubbing with endocarditis.
+
+Fig 2. Splinter haemorrhages are normally seen under the fingernails or toenails. They are usually red-brown in colour.
+
+Fig 3. Janeway’s lesions are non-tender erythematous, haemorrhagic, or pustular spots eg on the palms or soles.
+
+¹ If Strep bovis is cultured, do colonoscopy, as a colon neoplasm is the likely portal of entry (p257 BOX 2).
+
+
+PDF PAGE 6 — PRINTED PAGE 146
+
+Diseases of heart muscle
+
+Acute myocarditis This is inflammation of myocardium. Causes: Idiopathic (~50%), viral (flu, hepatitis, mumps, rubeola, Coxsackie, polio, HIV); bacterial (Clostridia, diphtheria, TB, meningococcus, mycoplasma, brucellosis, psittacosis); spirochaetes (leptospirosis, syphilis, Lyme); protozoa (Chagas’, p426); drugs (cyclophosphamide, herceptin, penicillin, chloramphenicol, sulfonamides, methyldopa, spironolactone, phenytoin, carbamazepine); toxins; vasculitis, p558. Symptoms & signs: Fatigue, dyspnoea, chest pain, fever, palpitations, tachycardia, soft S1, S4 gallop (p42). Tests: ECG: ST elevation or depression, T wave inversion, atrial arrhythmias, transient AV block. In proper clinical setting (and absence of MI) +ve troponin I or T confirms the diagnosis. Negative antimyosin scintigraphy also excludes active myocarditis. Treatment: Supportive. Treat the underlying cause. Patients may recover or get intractable heart failure (p130).
+
+Dilated cardiomyopathy A dilated, flabby heart of unknown cause. Associations: alcohol, high BP, haemochromatosis, viral infection, autoimmune, peri- or postpartum, thyrotoxicosis, congenital (X-linked). Prevalence: 0.2%. Presentation: Fatigue, dyspnoea, pulmonary oedema, RVF, emboli, AF, VT. Signs: High pulse, low BP, high JVP, displaced, diffuse apex, S3 gallop, mitral or tricuspid regurgitation (MR/TR), pleural effusion, oedema, jaundice, hepatomegaly, ascites. Tests: Blood: plasma BNP is sensitive and specific in diagnosing heart failure. Low Na+ indicates a poor prognosis. CXR: cardiomegaly, pulmonary oedema. ECG: tachycardia, non-specific T wave changes, poor R wave progression. Echo: globally dilated hypokinetic heart and low ejection fraction. Look for MR, TR, LV mural thrombus. Treatment: Bed rest, diuretics, digoxin, ACE-i, anticoagulation, biventricular pacing, ICDs, cardiac transplantation. Mortality: Variable, eg 40% in 2yrs.
+
+Hypertrophic cardiomyopathy HCM ≈ LV outflow tract (LVOT) obstruction from asymmetric septal hypertrophy. HCM is the leading cause of sudden cardiac death in the young. Prevalence: 0.2%. Autosomal dominant inheritance, but 50% are sporadic. 70% have mutations in genes encoding beta-myosin, alpha-tropomyosin, and troponin T. May present at any age. Ask about family history of sudden death. Symptoms & signs: Sudden death may be the first manifestation of HCM in many patients (VF is amenable to implantable defibrillators), angina, dyspnoea, palpitation, syncope, CCF. Jerky pulse; a wave in JVP; double-apex beat; systolic thrill at lower left sternal edge; harsh ejection systolic murmur. Tests: ECG: LVH; progressive T wave inversion; deep Q waves (inferior + lateral leads); AF; WPW syndrome (p120); ventricular ectopics; VT. Echo: asymmetrical septal hypertrophy; small LV cavity with hypercontractile posterior wall; midsystolic closure of aortic valve; systolic anterior movement of mitral valve. Cardiac catheterization may provoke VT. It helps assess: severity of gradient; coronary artery disease or mitral regurgitation. Electrophysiological studies may be needed (eg if WPW, p120). Exercise test ± Holter monitor (p102) to risk stratify. Treatment: beta-blockers or verapamil for symptoms (the aim is reducing ventricular contractility). Amiodarone (p124) for arrhythmias (AF, VT). Anticoagulate for paroxysmal AF or systemic emboli. Dual-chamber pacing (p126) is rarely used. Septal myomectomy (surgical, or chemical, with alcohol, to reduce LV outflow tract gradient) is reserved for those with severe symptoms. Consider implantable defibrillator. Mortality: 5.9%/yr if <14yrs; 2.5%/yr if >14yrs. Poor prognostic factors: age <14yrs or syncope at presentation; family history of HCM/sudden death.
+
+Restrictive cardiomyopathy Causes: Idiopathic; amyloidosis; haemochromatosis; sarcoidosis; scleroderma; Löffler’s eosinophilic endocarditis; endomyocardial fibrosis. Presentation is like constrictive pericarditis (p148). Features of RVF predominate: high JVP, with prominent x and y descents; hepatomegaly; oedema; ascites. Diagnosis: Cardiac catheterization. Treatment: Treat the cause.
+
+Cardiac myxoma (fig 1) Rare benign cardiac tumour. Prevalence ≤5/10,000, female:male≈2:1. Usually sporadic, but may be familial (Carney complex: cardiac and cutaneous myxomas, skin pigmentation, endocrinopathy, etc, p215). It may mimic infective endocarditis (fever, weight loss, clubbing, high ESR), or mitral stenosis (left atrial obstruction, systemic emboli, AF). A ‘tumour plop’ may be heard, and signs may vary according to posture. Tests: Echo. Treatment: Excision.
+
+
+PDF PAGE 7 — PRINTED PAGE 147
+
+Cardiovascular medicine
+
+Fig 1a. Echocardiogram of a 35yr-old patient who presented with severe exertional dyspnoea and several episodes of syncope. Look at the large mass (cardiac myxoma) in left atrium. Abbreviations: RV: right ventricle; LV: left ventricle; AV: aortic valve; AO: aorta; MV: mitral valve.
+
+Fig 1b. Echocardiogram of the same patient during diastole. Notice how the large mass of myxoma protrudes into the left ventricle during diastole, and obstructs the mitral valve almost completely. Abbreviations: RV: right ventricle; LV: left ventricle; AO: aorta.
+
+Figures reproduced with permission from Hamid Reza Taghipour.
+
+
+PDF PAGE 8 — PRINTED PAGE 148
+
+Pericardial diseases
+
+Acute pericarditis This is inflammation of the pericardium. It may be idiopathic or secondary to:
+
+• Viruses (Coxsackie, flu, Epstein–Barr, mumps, varicella, HIV)
+• Bacteria (pneumonia, rheumatic fever, TB, staphs, streps, MAI in HIV, p410)
+• Fungi
+• Myocardial infarction, Dressler’s (p712)
+• Drugs: procainamide, hydralazine, penicillin, cromolyn sodium, isoniazid
+• Others: uraemia, rheumatoid arthritis, SLE, myxoedema, trauma, surgery, malignancy (and antineoplastic agents), radiotherapy, sarcoidosis.
+
+Clinical features: Central chest pain worse on inspiration or lying flat ± relief by sitting forward. A pericardial friction rub (p44) may be heard. Look for evidence of a pericardial effusion or cardiac tamponade (see below). Fever may occur.
+
+Tests: ECG classically shows concave (saddle-shaped) ST segment elevation, but may be normal or non-specific (10%); see fig 1. Blood tests: FBC, ESR, U&E, cardiac enzymes (NB: troponin may be raised), viral serology, blood cultures, and, if indicated, autoantibodies (p555), fungal precipitins, thyroid function tests. Cardiomegaly on CXR may indicate a pericardial effusion. Echo (if suspected pericardial effusion).
+
+Treatment: Analgesia, eg ibuprofen 400mg/8h PO with food. Treat the cause. Consider colchicine before steroids/immunosuppressants if relapse or continuing symptoms occur. 15–40% do recur. Steroids may increase the risk of recurrence.
+
+Pericardial effusion Accumulation of fluid in the pericardial sac.
+
+Causes: Any cause of pericarditis (see above).
+
+Clinical features: Dyspnoea, raised JVP (with prominent x descent, p40), bronchial breathing at left base (Ewart’s sign: large effusion compressing left lower lobe). Look for signs of cardiac tamponade (see below).
+
+Diagnosis: CXR shows an enlarged, globular heart. ECG shows low-voltage QRS complexes and alternating QRS morphologies (electrical alternans). Echocardiography shows an echo-free zone surrounding the heart.
+
+Management: Treat the cause. Pericardiocentesis may be diagnostic (suspected bacterial pericarditis) or therapeutic (cardiac tamponade). See p787. Send pericardial fluid for culture, ZN stain/TB culture, and cytology.
+
+Constrictive pericarditis The heart is encased in a rigid pericardium.
+
+Causes: Often unknown (UK); elsewhere TB, or after any pericarditis.
+
+Clinical features: These are mainly of right heart failure with high JVP (with prominent x and y descents, p41); Kussmaul’s sign (JVP rising paradoxically with inspiration); soft, diffuse apex beat; quiet heart sounds; S3; diastolic pericardial knock, hepatosplenomegaly, ascites, and oedema.
+
+Tests: CXR: small heart ± pericardial calcification (if none, CT/MRI helps distinguish from other cardiomyopathies). Echo; cardiac catheterization.
+
+Management: Surgical excision.
+
+Cardiac tamponade Accumulation of pericardial fluid raises intrapericardial pressure, hence poor ventricular filling and fall in cardiac output.
+
+Causes: Any pericarditis (above); aortic dissection; haemodialysis; warfarin; transseptal puncture at cardiac catheterization; post cardiac biopsy.
+
+Signs: Pulse↑, BP↓, pulsus paradoxus, JVP↑, Kussmaul’s sign, muffled S1 and S2.
+
+Diagnosis: Beck’s triad: falling BP; rising JVP; muffled heart sounds. CXR: big globular heart (if >250mL fluid). ECG: low voltage QRS ± electrical alternans. Echo is diagnostic: echo-free zone (>2cm, or >1cm if acute) around the heart ± diastolic collapse of right atrium and right ventricle.
+
+Management: Seek expert help. The pericardial effusion needs urgent drainage (p787). Send fluid for culture, ZN stain/TB culture and cytology.
+
+
+PDF PAGE 9 — PRINTED PAGE 149
+
+Fig 1. Pericarditis.
+
+Cardiovascular medicine
+
+
+PDF PAGE 10 — PRINTED PAGE 150
+
+Congenital heart disease
+
+The spectrum of congenital heart disease in adults is considerably different from that in infants and children; adults are unlikely to have complex lesions. The commonest lesions, in descending order of frequency, are:
+
+Bicuspid aortic valve These work well at birth and go undetected. Many eventually develop aortic stenosis (needing valve replacement) ± aortic regurgitation predisposing to IE/SBE ± aortic dilatation/dissection. Intense exercise may accelerate complications, so do yearly echocardiograms on affected athletes. 103
+
+Atrial septal defect (ASD) A hole connects the atria. Ostium secundum defects (high in the septum) are commonest; ostium primum defects (opposing the endocardial cushions) are associated with AV valve anomalies. Primum ASDs present early. Secundum ASDs are often asymptomatic until adulthood, as the L→R shunt depends on compliance of the right and left ventricles. The latter decreases with age (esp. if BP↑), so augmenting L→R shunting (hence dyspnoea/heart failure, eg at age 40–60). There may be pulmonary hypertension, cyanosis, arrhythmia, haemoptysis, and chest pain.
+
+Signs: AF; JVP↑; wide, fixed split S2; pulmonary ejection systolic murmur. Pulmonary hypertension may cause pulmonary or tricuspid regurgitation. Increased frequency of migraine.
+
+Complications: • Reversal of left-to-right shunt, ie Eisenmenger’s complex: initial L→R shunt leads to pulmonary hypertension, hence shunt reversal, causing cyanosis (±heart failure & chest infections). • Paradoxical emboli (vein→artery via ASD; rare).
+
+Tests: ECG: RBBB with LAD and prolonged PR interval (primum defect) or RAD (secundum defect). CXR: small aortic knuckle, pulmonary plethora, progressive atrial enlargement. Echocardiography is diagnostic. Cardiac catheterization shows step up in O2 saturation in the right atrium. Treatment: In children closure is recommended before age 10yrs. In adults, if symptomatic, or if pulmonary to systemic blood flow ratios of ≥1.5:1. Transcatheter closure is now more common than surgical.
+
+Ventricular septal defect (VSD) A hole connects the ventricles. Causes: Congenital (prevalence 2:1000 births); acquired (post-MI). Symptoms: May present with severe heart failure in infancy, or remain asymptomatic and be detected incidentally in later life. Signs: These depend on size and site: smaller holes, which are haemodynamically less significant, give louder murmurs. Classically, a harsh pansystolic murmur is heard at the left sternal edge, with a systolic thrill, ± left parasternal heave. Larger holes are associated with signs of pulmonary hypertension. Complications: AR, infundibular stenosis, IE/SBE, pulmonary hypertension, Eisenmenger’s complex (above). Tests: ECG: normal (small VSD), LAD + LVH (moderate VSD) or LVH + RVH (large VSD). CXR: normal heart size ± mild pulmonary plethora (small VSD) or cardiomegaly, large pulmonary arteries and marked pulmonary plethora (large VSD). Cardiac catheter: step up in O2 saturation in right ventricle. Treatment: This is medical, at first, as many close spontaneously. Indications for surgical closure: failed medical therapy, symptomatic VSD, shunt >3:1, SBE/IE. Endovascular closure is also possible. 104
+
+Coarctation of the aorta Congenital narrowing of the descending aorta; usually occurs just distal to the origin of the left subclavian artery. More common in boys. Associations: Bicuspid aortic valve; Turner’s syndrome. Signs: Radiofemoral delay (femoral pulse later than radial); weak femoral pulse; BP↑; scapular bruit; systolic murmur (best heard over the left scapula). Complications: Heart failure; infective endocarditis. Tests: CT or MRI-aortogram, CXR shows rib notching. Treatment: Surgery, or balloon dilatation ± stenting.
+
+Pulmonary stenosis may occur alone or with other lesions (p142).

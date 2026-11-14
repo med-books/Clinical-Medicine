@@ -1,0 +1,276 @@
+PDF PAGE 1 — PRINTED PAGE 131
+
+New York classification of heart failure: summary
+
+I   Heart disease present, but no undue dyspnoea from ordinary activity.
+II  Comfortable at rest; dyspnoea on ordinary activities.
+III Less than ordinary activity causes dyspnoea, which is limiting.
+IV  Dyspnoea present at rest; all activity causes discomfort.
+
+Cardiovascular medicine
+
+Natriuretic peptides
+
+Secretory granules have long been known to exist in the atria, and if homogenized atrial tissue is injected into rats, their urine volume (and Na+ excretion) rises. This is evidence of endocrine action via the effects of atrial natriuretic peptide (ANP). BNP is a similar hormone originally identified from pig brain (hence the B), but most BNP is secreted from ventricular myocardium. Plasma BNP is closely related to LV pressure. In MI and LV dysfunction, these hormones can be released in large quantities. Secretion is also increased by tachycardia, glucocorticoids, and thyroid hormones. Vasoactive peptides (endothelin-1, angiotensin II) also influence secretion. ANP and BNP both increase GFR and decrease renal Na+ resorption; they also decrease preload by relaxing smooth muscle. ANP partly blocks secretion of renin and aldosterone.
+
+BNP as a biomarker of heart failure 82, 83, 84 As plasma BNP reflects myocyte stretch, BNP is used to diagnose heart failure. BNP distinguishes heart failure from other causes of dyspnoea more accurately than LV ejection fraction, ANP, and N-terminal ANP (sensitivity: >90%; specificity: 80–90%). BNP is highest in decompensated heart failure, intermediate in left ventricular dysfunction but no acute heart failure exacerbation, and lowest if no heart failure or LV dysfunction.
+
+What BNP threshold for diagnosing heart failure? If BNP >100ng/L, this ‘diagnoses’ heart failure better than other clinical variables or clinical judgement (history, examination, and CXR). BNP can be used to ‘rule out’ heart failure if <50ng/L—negative predictive value (PV) 96%, ie the chance of BNP being <50ng/L given that heart failure is absent in 96%, see p672.
+
+In those with heart failure, BNP is higher in systolic dysfunction than in isolated diastolic dysfunction (eg hypertrophic or dilated cardiomyopathy), and is highest in those with systolic and diastolic dysfunction. BNP also increases in proportion to right ventricular dysfunction, eg in primary pulmonary hypertension, cor pulmonale, PE, and congenital heart disease, but rises are less than in left ventricular disorders.
+
+Prognosis in heart failure: The higher the BNP, the higher the cardiovascular and all-cause mortality (independent of age, NYHA class, previous MI and LV ejection fraction). BNP in heart failure is also associated with sudden death. Serial testing may be important: persistently high BNP despite vigorous antifailure treatment predicts adverse outcomes. In one study, those with heart failure randomized to get N-terminal BNP-guided (rather than symptom-guided) therapy had fewer adverse events.
+
+Prognosis in angina and MI: BNP has some prognostic value here (adverse left ventricular remodelling; LV dysfunction; death post-MI). 85
+
+Cautions with BNP: A BNP >50ng/L does not exclude other co-existing diseases such as pneumonia. Also, assays vary, so liaise with your lab.
+
+
+PDF PAGE 2 — PRINTED PAGE 132
+
+Hypertension
+
+Hypertension86 is a major risk factor for stroke and MI. It is usually asymptomatic, and regular screening (eg 3-yrly) is a vital primary care task. It causes ~50% of all vascular deaths (8≈106/yr). Most preventable deaths are in areas without universal screening.87
+
+Cardiovascular medicine
+
+Defining hypertension Blood pressure has a skewed normal distribution (p765) within the population, and risk is continuously related to blood pressure, so it is impossible to define ‘hypertension’. 88 We choose to select a value above which risk is significantly increased and the benefit of treatment is clear cut, see below. Assess BP over a period of time (don’t rely on a single reading). The ‘observation’ period depends on the BP and the presence of other risk factors or end-organ damage.
+
+Whom to treat All with BP ≥160/100mmHg (sustained; p133). For those ≥140/90, the decision depends on the risk of coronary events, presence of diabetes or end-organ damage; see fig 1. The recent HYVET study showed that there is even substantial benefit in treating the over-80s. 89
+
+Isolated systolic hypertension (ISH): The most common form of hypertension in the UK—affects >50% of the over-60s, and results from stiffening of the large arteries (arteriosclerosis). It is not benign: doubles risk of MI, triples risk of CVA. Treatment reduces this excess risk and is as, if not more, effective than treating moderate hypertension in middle-aged patients.
+
+‘Malignant’ or accelerated phase hypertension: Refers to a rapid rise in BP leading to vascular damage (pathological hallmark is fibrinoid necrosis). Usually there is severe hypertension (eg systolic >200, diastolic>130mmHg) + bilateral retinal haemorrhages and exudates; papilloedema may or may not be present. Symptoms are common, eg headache ± visual disturbance. Alone it requires urgent treatment. It may also precipitate acute renal failure, heart failure, or encephalopathy, which are hypertensive emergencies. Untreated, 90% die in 1yr; treated, 70% survive 5yrs. It is more common in younger patients and in black patients. Look hard for any underlying cause.
+
+Essential hypertension (primary, cause unknown). ~95% of cases.
+
+Secondary hypertension ~5% of cases. Causes include:
+
+• Renal disease: The most common secondary cause. 75% are from intrinsic renal disease: glomerulonephritis, polyarteritis nodosa (PAN), systemic sclerosis, chronic pyelonephritis, or polycystic kidneys. 25% are due to renovascular disease, most frequently atheromatous (elderly men, cigarette smokers, eg with peripheral vascular disease) or rarely fibromuscular dysplasia (young women).
+
+• Endocrine disease: Cushing’s (p216) and Conn’s syndromes (p220), phaeochromocytoma (p220), acromegaly, hyperparathyroidism.
+
+• Others: Coarctation (p150), pregnancy (OHCS p48), steroids, MAOI, ‘the Pill’.
+
+Signs & symptoms Usually asymptomatic (except malignant hypertension, above). Headache is no more common than in the general population. Always examine the CVS fully and check for retinopathy. Are there features of an underlying cause (phaeochromocytoma, p220, etc.), signs of renal disease, radiofemoral delay, or weak femoral pulses (coarctation), renal bruits, palpable kidneys, or Cushing’s syndrome? Look for end-organ damage: LVH, retinopathy and proteinuria—indicates severity and duration of hypertension and associated with a poorer prognosis.
+
+Tests To help quantify overall risk: Fasting glucose; cholesterol. To look for end-organ damage: ECG (any LV hypertrophy? past MI?); urine analysis (protein, blood). To ‘exclude’ secondary causes: U&E (eg K+ low in Conn’s); Ca2+ (high in hyperparathyroidism). Special tests: Renal ultrasound/arteriography (renal artery stenosis); 24h urinary metanephrines (p220); urinary free cortisol (p217); renin; aldosterone; MR aorta (coarctation). 24h ambulatory BP monitoring (ABPM) may help sometimes, eg in ‘white coat’ or borderline hypertension, and is now recommended for all newly diagnosed hypertensive. Ambulatory readings are always lower; add on 10/5mmHg (but NICE suggests simply 5/5) to ‘convert’ to clinic pressures for decision-making. Echocardiography may be useful to assess end-organ damage (LV hypertrophy).
+
+
+PDF PAGE 3 — PRINTED PAGE 133
+
+Grading hypertensive retinopathy
+
+I   Tortuous arteries with thick shiny walls (silver or copper wiring, p562, fig 1)
+II  A–V nipping (narrowing where arteries cross veins, p562, fig 2)
+III Flame haemorrhages and cotton-wool spots
+IV  Papilloedema, p562, fig 3.
+
+Cardiovascular medicine
+
+Measuring BP with a sphygmomanometer
+
+• Use the correct size cuff. The cuff width should be >40% of the arm circumference. The bladder should be centred over the brachial artery, and the cuff applied snugly. Support the arm in a horizontal position at mid-sternal level.
+
+• Inflate the cuff while palpating the brachial artery, until the pulse disappears. This provides an estimate of systolic pressure.
+
+• Inflate the cuff until 30mmHg above systolic pressure, then place stethoscope over the brachial artery. Deflate the cuff at 2mmHg/s.
+
+• Systolic pressure: appearance of sustained repetitive tapping sounds (Korotkoff I).
+
+• Diastolic pressure: usually the disappearance of sounds (Korotkoff V). However, in some individuals (eg pregnant women) sounds are present until the zero point. In this case, the muffling of sounds, Korotkoff IV, should be used. State which is used for a given reading. For children, see OHCS p156.
+
+• For advice on using automated sphygmomanometers and a list of validated devices see http://www.bhsoc.org/how_to_measure_blood_pressure.stm.
+
+Managing suspected hypertension86
+
+Clinic blood pressure <140/90mmHg
+Normotensive
+
+Clinic blood pressure ≥140/90mmHg
+
+Clinic blood pressure ≥180/110mmHg
+Consider starting antihypertensive drug treatment immediately.
+Consider referral.
+
+Offer ABPM.
+Calculate cv risk and look for organ damage.
+
+ABPM <135/85mmHg
+Normotensive
+NICE says no treatment. Consider treatment if clear end-organ damage or high risk.
+
+ABPM ≥135/85mmHg
+Stage 1 hypertension
+Treatment if cv risk >20%/10yrs or end organ damage
+
+ABPM ≥150/95mmHg
+Stage 2 hypertension
+Treatment
+
+Fig 1. Managing suspected hypertension.
+
+Target pressure is <140/90mmHg (150/90 if aged >80), but in diabetes mellitus aim for <130/80mmHg, and <125/75 if proteinuria. To quantify CV risk, see www.bhs.org.uk. NB: CV threshold of 20% ≈ 15% for CHD alone. Examples of target (end-organ) damage: • LVH • PMH of MI or angina • PMH of stroke/TIA • Peripheral vascular disease • Renal failure.
+
+Adapted from NICE CG127, 2011, with permission.
+
+
+PDF PAGE 4 — PRINTED PAGE 134
+
+Hypertension—management
+
+NICE/BHS
+
+Cardiovascular medicine
+
+Look for and treat underlying causes 86 (eg renal disease, alcohol high: see p132). Drug therapy reduces the risk of cardiovascular disease and death. Almost any adult over 50 would benefit from the antihypertensives below, whatever their starting BP. 90
+
+Treatment is especially important if: BP is persistently ≥160/100mmHg or cardiovascular risk high (10yr risk of vascular disease ≥20%) or existing vascular disease or target organ damage (eg brain, kidney, heart, retina) with BP >140/90mmHg. Essential hypertension is not ‘curable’ and long-term treatment is needed.
+
+Treatment goal <140/90mmHg (<130/80 in diabetes, 150/90 if aged >80). Reduce blood pressure slowly; rapid reduction can be fatal, especially in the context of an acute stroke.
+
+Lifestyle changes Reduce concomitant risk factors: stop smoking; low-fat diet. Reduce alcohol and salt intake; increase exercise; reduce weight if obese.
+
+Drugs The ALLHAT study suggests that adequate BP reduction is more important than the specific drug used. 91 However, beta-blockers seem to be less effective than a comparator drug at reducing major cardiovascular events, particularly stroke. Beta-blockers and thiazides may increase the risk of new onset diabetes, Ca2+ channel blockers appear neutral, and ACE-i or ARB may reduce the risk. 92
+
+Monotherapy If ≥55yrs, and in Black patients of any age, 1st choice is a Ca2+ channel blocker or thiazide. If <55, 1st choice is ACE-i (or ARB if ACE-i intolerant, eg cough). Beta-blockers are not 1st-line for hypertension, but consider in younger people, particularly: if intolerance or contraindication to ACE-i/ARB (angiotensin receptor blockers) exists, or she is a woman of child-bearing potential, or there is high sympathetic drive.
+
+Combination therapy ACE-i + a Ca2+-channel blocker or diuretic is logical, and has been commonly done in trials. There is little evidence on using 3 drugs so the recommendation is based on the most straightforward option:92 try ACE-i, Ca2+-channel blocker and thiazide. If BP still uncontrolled on adequate doses of 3 drugs, add a 4th (consider: higher-dose thiazide, or another diuretic, eg spironolactone (monitor U&E), or beta-blockers, or selective alpha-blockers) and get help. If only on a beta-blocker and a 2nd drug is needed, add a Ca2+ blocker, not a thiazide, to reduce risk of developing diabetes.
+
+Dose examples Thiazides: eg chlortalidone 25–50mg/24h PO mane. SE: K+ low, Na+ low, impotence. CI: gout. Ca2+-channel blockers: eg nifedipine MR, 30–60mg/24h PO. SE: flushes, fatigue, gum hyperplasia, ankle oedema; avoid short-acting form. ACE-i: eg lisinopril 10–40mg/24h PO (max 40mg/d). ACE-i may be 1st choice if co-existing LVF, or in diabetics (esp. if microalbuminuria, p309) or proteinuria. SE: cough, high K+, renal failure, angio-oedema. CI: bilateral renal artery or aortic valve stenosis; p109. ARB: Candesartan (8–32mg/d); caution if valve disease or cardiomyopathy; monitor K+. SE: vertigo, urticaria, pruritus. Direct renin inhibitors: aliskiren (150–300mg/d); monitor K+. SE: diarrhoea, rash, high K+. Avoid in CRF, DM, and with ACE-i or ARB. Beta-blockers: eg bisoprolol 2.5–5mg/24h PO. SE: bronchospasm, heart failure, cold peripheries, lethargy, impotence. CI: asthma; caution in heart failure. Consider aspirin when BP controlled, if aged >55yrs. Add a statin (p704, esp. if other risk factors). Most drugs take 4–8wks to gain maximum effect: don’t assess efficacy with just one BP measurement.
+
+Malignant hypertension In general, use oral therapy, unless there is encephalopathy or CCF. The aim is for a controlled reduction in blood pressure over days, not hours. Avoid sudden drops in BP as cerebral autoregulation is poor (so stroke risk increases). Bed rest; there is no ideal hypotensive, but atenolol or long-acting Ca2+ blockers may be used PO.
+
+Encephalopathy (headache, focal CNS signs, seizures, coma): aim to reduce BP to ~110mmHg diastolic over 4h. Admit to monitored area. Insert intra-arterial line for pressure monitoring. Furosemide 40–80mg IV; then either IV labetalol (eg 50mg IV over 1min, repeated every 5min, max 200mg) or sodium nitroprusside infusion (0.5μg/kg/min IVI titrated up to 8μg/kg/min, eg 50mg in 1L glucose 5%; expect to give 100–200mL/h for a few hours only, to avoid cyanide risk).
+
+Never use sublingual nifedipine to reduce BP (big drop in BP and stroke risk). 93
+
+
+PDF PAGE 5 — PRINTED PAGE 135
+
+ECG 8—Left ventricular hypertrophy—this is from a patient with malignant hypertension—note the sum of the S-wave in C2 and R-wave in C6 is greater than 35mm.
+
+Figure labels visible in the ECG: I, II, III, aVR, aVL, aVF, C1, C2, C3, C4, C5, C6, II.
+
+
+PDF PAGE 6 — PRINTED PAGE 136
+
+Rheumatic fever
+
+This systemic infection is still common in developing countries but increasingly rare in the West. Peak incidence: 5–15yrs. Tends to recur unless prevented. Pharyngeal infection with Lancefield group A beta-haemolytic streptococci triggers rheumatic fever 2–4wks later, in the susceptible 2% of the population. An antibody to the carbohydrate cell wall of the streptococcus cross-reacts with valve tissue (antigenic mimicry) and may cause permanent damage to the heart valves.
+
+Diagnosis Use the revised Jones criteria (may be over-rigorous). There must be evidence of recent strep infection plus 2 major criteria, or 1 major + 2 minor.
+
+Evidence of group A beta-haemolytic streptococcal infection:
+
+• Positive throat culture (but this is usually negative by the time symptoms of rheumatic fever appear)
+• Rapid streptococcal antigen test +ve
+• Elevated or rising streptococcal antibody titre (eg ASO or DNase B titre)
+• Recent scarlet fever
+
+Major criteria:
+
+• Carditis: Tachycardia, murmurs (mitral or aortic regurgitation, Carey Coombs’ murmur, p44), pericardial rub, CCF, cardiomegaly, conduction defects (45–70%). An apical systolic murmur may be the only sign.94
+
+• Arthritis: A migratory, ‘flitting’ polyarthritis; usually affects larger joints (75%).
+
+• Subcutaneous nodules: Small, mobile, painless nodules on extensor surfaces of joints and spine (2–20%).
+
+• Erythema marginatum: (fig 1) Geographical-type rash with red, raised edges and clear centre; occurs mainly on trunk, thighs and arms in 2–10% (p564).
+
+• Sydenham’s chorea (St Vitus’ dance): Occurs late in 10%. Unilateral or bilateral involuntary semi-purposeful movements. May be preceded by emotional lability and uncharacteristic behaviour.
+
+Minor criteria:
+
+• Fever
+• Raised ESR or CRP
+• Arthralgia (but not if arthritis is one of the major criteria)
+• Prolonged PR interval (but not if carditis is major criterion)
+• Previous rheumatic fever
+
+Management
+
+• Bed rest until CRP normal for 2wks (may be 3 months).
+
+• Benzylpenicillin 0.6–1.2g IV stat, then penicillin V 250–500mg 4 times daily PO for 10 days (if allergic to penicillin, give erythromycin or azithromycin for 10 days).
+
+• Analgesia for carditis/arthritis: aspirin 100mg/kg/d PO in divided doses (max 4–8g/d) for 2d, then 70mg/kg/d for 6wks. Monitor salicylate level. Toxicity causes tinnitus, hyperventilation, and metabolic acidosis. Alternative: NSAIDS (p548). If moderate-to-severe carditis is present (cardiomegaly, CCF, or 3rd-degree heart block), add oral prednisolone to salicylate therapy. In case of heart failure, treat appropriately (p130).
+
+• Immobilize joints in severe arthritis.
+
+• Haloperidol (0.5mg/8h PO) or diazepam for the chorea.
+
+Prognosis 60% with carditis develop chronic rheumatic heart disease. This correlates with the severity of the carditis. 95 Acute attacks last an average of 3 months. Recurrence may be precipitated by further streptococcal infections, pregnancy, or use of the Pill. Cardiac sequelae affect mitral (70%), aortic (40%), tricuspid (10%), and pulmonary (2%) valves. Incompetent lesions develop during the attack, stenoses years later.
+
+Secondary prophylaxis Penicillin V 250mg/12h PO. Alternatives: sulfadiazine 1g daily (0.5g if <30kg) or erythromycin 250mg twice daily (if penicillin allergic). Duration: If carditis + persistent valvular disease, continue at least until age of 40 (sometimes lifelong). If carditis but no valvular disease, continue for 10 yrs. If there is no carditis, 5 yrs prophylaxis (until age of 21) is sufficient.
+
+
+PDF PAGE 7 — PRINTED PAGE 137
+
+Cardiovascular medicine
+
+Fig 1. Erythema marginatum.
+Image courtesy of Dr Maria Angelica Binotto.
+
+
+PDF PAGE 8 — PRINTED PAGE 138
+
+Mitral valve disease
+
+Mitral stenosis Causes: Rheumatic, congenital, mucopolysaccharidoses, endocardial fibroelastosis, malignant carcinoid (p278; rare), prosthetic valve.
+
+Presentation: Normal mitral valve orifice area is ~4–6cm2. Symptoms usually begin when the orifice becomes <2cm2: dyspnoea; fatigue; palpitations; chest pain; systemic emboli; haemoptysis; chronic bronchitis-like picture ± complications (below).
+
+Signs: Malar flush on cheeks (due to low cardiac output); low-volume pulse; AF common; tapping, non-displaced, apex beat (palpable S1). On auscultation: loud S1; opening snap (pliable valve); rumbling mid-diastolic murmur (heard best in expiration, with patient on left side). Graham Steell murmur (p44) may occur. Severity: The more severe the stenosis, the longer the diastolic murmur, and the closer the opening snap is to S2.
+
+Tests: ECG: AF; P-mitrale if in sinus rhythm; RVH; progressive RAD. CXR: left atrial enlargement (double shadow in right cardiac silhouette); pulmonary oedema; mitral valve calcification. Echocardiography is diagnostic. Significant stenosis exists if the valve orifice is <1cm2/m2 body surface area. Indications for cardiac catheterization: previous valvotomy; signs of other valve disease; angina; severe pulmonary hypertension; calcified mitral valve.
+
+Management: If in AF, rate control (p124) is crucial; anticoagulate with warfarin (p345). Diuretics reduce preload and pulmonary venous congestion. If this fails to control symptoms, balloon valvuloplasty (if pliable, non-calcified valve), open mitral valvotomy or valve replacement. SBE/IE prophylaxis for GI/GU infected procedures (p144). Oral penicillin as prophylaxis against recurrent rheumatic fever (p136).
+
+Complications: Pulmonary hypertension, emboli, pressure from large LA on local structures, eg hoarseness (recurrent laryngeal nerve), dysphagia (oesophagus), bronchial obstruction; infective endocarditis (rare).
+
+Mitral regurgitation Causes: Functional (LV dilatation); annular calcification (elderly); rheumatic fever, infective endocarditis, mitral valve prolapse, ruptured chordae tendinae; papillary muscle dysfunction/rupture; connective tissue disorders (Ehlers–Danlos, Marfan’s); cardiomyopathy; congenital (may be associated with other defects, eg ASD, AV canal); appetite suppressants (eg fenfluramine, phentermine).
+
+Symptoms: Dyspnoea; fatigue; palpitations; infective endocarditis. Signs: AF; displaced, hyperdynamic apex; RV heave; soft S1; split S2; loud P2 (pulmonary hypertension) pansystolic murmur at apex radiating to axilla. Severity: The more severe, the larger the left ventricle.
+
+Tests: ECG: AF ± P-mitrale if in sinus rhythm (may mean left atrial size increases); LVH. CXR: big LA & LV; mitral valve calcification; pulmonary oedema.
+
+Echocardiogram to assess LV function and aetiology (trans-oesophageal to assess severity and suitability for repair rather than replacement). Doppler echo to assess size and site of regurgitant jet. Cardiac catheterization to confirm diagnosis, exclude other valve disease, assess coronary artery disease.
+
+Management: Control rate if fast AF. Anticoagulate if: AF; history of embolism; prosthetic valve; additional mitral stenosis. Diuretics improve symptoms. Surgery for deteriorating symptoms; aim to repair or replace the valve before LV irreversibly impaired. SBE/IE prophylaxis for GI/GU infected procedures.
+
+Mitral valve prolapse is the most common valvular abnormality (prevalence: ~5%). Occurs alone or with: ASD, patent ductus arteriosus, cardiomyopathy, Turner’s syndrome, Marfan’s syndrome, osteogenesis imperfecta, pseudoxanthoma elasticum, WPW (p120). Symptoms: Asymptomatic—or atypical chest pain and palpitations. Some patients have symptoms of autonomic dysfunction (anxiety, panic attack, syncope). Signs: Mid-systolic click and/or a late systolic murmur. Complications: Mitral regurgitation, cerebral emboli, arrhythmias, sudden death. Tests: Echocardiography is diagnostic. ECG may show inferior T wave inversion. Treatment: Beta-blockers may help palpitations and chest pain. In case of severe mitral regurgitation, surgery is needed.
+
+
+PDF PAGE 9 — NO PRINTED PAGE NUMBER
+
+This page intentionally left blank
+
+
+PDF PAGE 10 — PRINTED PAGE 140
+
+Aortic valve disease
+
+Aortic stenosis (AS) Causes: Senile calcification is the commonest. 96 Others: congenital (bicuspid valve, William’s syndrome, p143), rheumatic heart disease.
+
+Presentation: Think of AS in any elderly person with chest pain, exertional dyspnoea or syncope. The classic triad includes angina, syncope, and heart failure (usually after age 60). Also: dyspnoea; dizziness; faints; systemic emboli if infective endocarditis; sudden death.
+
+Signs: Slow rising pulse with narrow pulse pressure (feel for diminished and delayed carotid upstroke—parvus et tardus); heaving, non-displaced apex beat; LV heave; aortic thrill; ejection systolic murmur (heard at the base, left sternal edge and the aortic area, radiates to the carotids). S1 is usually normal. As stenosis worsens, A2 is increasingly delayed, giving first a single S2 and then reversed splitting. But this sign is rare. More common is a quiet A2. In severe AS, A2 may be inaudible (calcified valve). There may be an ejection click (pliable valve) or an S4 (said to occur more often with bicuspid valves, but not in all populations).
+
+Tests: ECG: P-mitrale, LVH with strain pattern; LAD (left anterior hemiblock); poor R wave progression; LBBB or complete AV block (calcified ring). CXR: LVH; calcified aortic valve (fig 1); post-stenotic dilatation of ascending aorta. Echo: diagnostic (p106). Doppler echo can estimate the gradient across valves: severe stenosis if peak gradient ≥50mmHg and valve area <1cm2. If the aortic jet velocity is >4m/s (or is increasing by >0.3m/s per yr) risk of complications is increased. 96 Cardiac catheter can assess: valve gradient; LV function; coronary artery disease; but risks emboli.
+
+Differential diagnosis: Hypertrophic cardiomyopathy (HCM, p146).
+
+Management: If symptomatic, prognosis is poor without surgery: 2–3yr survival if angina/syncope; 1–2yr if cardiac failure. If moderate-to-severe and treated medically, mortality can be as high as 50% at 2yrs, therefore prompt valve replacement (p142) is usually recommended. In asymptomatic patients with severe AS and a deteriorating ECG, valve replacement is also recommended. If the patient is not medically fit for surgery, percutaneous valvuloplasty/replacement (TAVI = transcatheter aortic valve implantation) may be attempted.
+
+Aortic sclerosis is senile degeneration of the valve. There is an ejection systolic murmur, no carotid radiation, and normal pulse (character and volume) and S2.
+
+Aortic regurgitation (AR) Acute: Infective endocarditis, ascending aortic dissection, chest trauma. Chronic: Congenital, connective tissue disorders (Marfan’s syndrome, Ehlers–Danlos), rheumatic fever, Takayasu arteritis, rheumatoid arthritis, SLE; pseudoxanthoma elasticum, appetite suppressants (eg fenfluramine, phentermine), seronegative arthritides (ankylosing spondylitis, Reiter’s syndrome, psoriatic arthropathy), hypertension, osteogenesis imperfecta, syphilitic aortitis.
+
+Symptoms: Exertional dyspnoea, orthopnoea, and paroxysmal nocturnal dyspnoea. Also: palpitations, angina, syncope, CCF.
+
+Signs: Collapsing (water-hammer) pulse (p40); wide pulse pressure; displaced, hyperdynamic apex beat; high-pitched early diastolic murmur (heard best in expiration, with patient sitting forward). Eponyms: Corrigan’s sign: carotid pulsation; de Musset’s sign: head nodding with each heart beat; Quincke’s sign: capillary pulsations in nail beds; Duroziez’s sign: in the groin, a finger compressing the femoral artery 2cm proximal to the stethoscope gives a systolic murmur; if 2cm distal, it gives a diastolic murmur as blood flows backwards; Traube’s sign: ‘pistol shot’ sound: over femoral arteries; an Austin Flint murmur (p44) denotes severe AR.
+
+Tests: ECG: LVH. CXR: cardiomegaly; dilated ascending aorta; pulmonary oedema. Echocardiography is diagnostic. Cardiac catheterization to assess: severity of lesion; anatomy of aortic root; LV function; CAD; other valve disease.
+
+Management: The main goal of medical therapy is to reduce systolic hypertension. ACE-i are helpful. Echo every 6–12 months to monitor. Indications for surgery: increasing symptoms; enlarging heart on CXR/echo; ECG deterioration (T-wave inversion in lateral leads); IE refractory to medical therapy. Aim to replace the valve before significant LV dysfunction occurs. Predictors of poor post-operative survival: ejection fraction <50%, NYHA class III or IV (p131), duration of CCF >12 months.

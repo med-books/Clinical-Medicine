@@ -1,0 +1,370 @@
+PDF PAGE 1
+
+This page intentionally left blank
+
+
+PDF PAGE 2 — PRINTED PAGE 192
+
+Industrial dust diseases
+
+Coal worker’s pneumoconiosis (CWP) A common dust disease in countries that have or have had underground coal-mines. It results from inhalation of coal dust particles (1–3μm in diameter) over 15–20yrs. These are ingested by macrophages which die, releasing their enzymes and causing fibrosis.
+
+Clinical features: Asymptomatic, but co-existing chronic bronchitis is common. CXR: many round opacities (1–10mm), especially in upper zone.
+
+Management: Avoid exposure to coal dust; treat co-existing chronic bronchitis; claim compensation (in the UK, via the Industrial Injuries Act).
+
+Chest medicine
+
+Progressive massive fibrosis (PMF) is due to progression of CWP, which causes progressive dyspnoea, fibrosis, and, eventually, cor pulmonale. CXR: upper-zone fibrotic masses (1–10cm).
+
+Management: Avoid exposure to coal dust; claim compensation (as above).
+
+Caplan’s syndrome is the association between rheumatoid arthritis, pneumoconiosis, and pulmonary rheumatoid nodules.
+
+Silicosis (see fig 1) is caused by inhalation of silica particles, which are very fibrogenic. A number of jobs may be associated with exposure, eg metal mining, stone quarrying, sandblasting, and pottery/ceramic manufacture.
+
+Clinical features: Progressive dyspnoea, ↑incidence of TB, CXR shows diffuse miliary or nodular pattern in upper and mid-zones and egg-shell calcification of hilar nodes.
+
+Spirometry: restrictive ventilatory defect.
+
+Management: Avoid exposure to silica; claim compensation (as above).
+
+Asbestosis is caused by inhalation of asbestos fibres. Chrysotile (white asbestos) is the least fibrogenic—crocidolite (blue asbestos) is the most fibrogenic. Amosite (brown asbestos) is the least common and has intermediate fibrogenicity. Asbestos was commonly used in the building trade for fire proofing, pipe lagging, electrical wire insulation, and roofing felt. Degree of asbestos exposure is related to degree of pulmonary fibrosis.
+
+Clinical features: Similar to other fibrotic lung diseases with progressive dyspnoea, clubbing, and fine end-inspiratory crackles. Also causes pleural plaques, ↑risk of bronchial adenocarcinoma and mesothelioma.
+
+Management: Symptomatic. Patients are often eligible for compensation through the UK Industrial Injuries Act.
+
+Malignant mesothelioma is a tumour of mesothelial cells that usually occurs in the pleura, and rarely in the peritoneum or other organs. It is associated with occupational exposure to asbestos but the relationship is complex. 60–90% report previous exposure to asbestos, but only 20% of patients have pulmonary asbestosis. The latent period between exposure and development of the tumour may be up to 45yrs. Compensation is often available.
+
+Clinical features: Chest pain, dyspnoea, weight loss, finger clubbing, recurrent pleural effusions. Signs of metastases: lymphadenopathy, hepatomegaly, bone pain/tenderness, abdominal pain/obstruction (peritoneal malignant mesothelioma).
+
+Tests: CXR/CT: pleural thickening/effusion. Bloody pleural fluid.
+
+Diagnosis is made on histology, usually following a thoracoscopy. Often the diagnosis is only made post-mortem.
+
+Management: Pemetrexed + cisplatin chemotherapy can improve survival. Surgery is hard to evaluate (few randomized trials). Radiotherapy is controversial. Pleurodesis and indwelling intra-pleural drain may help.
+
+Prognosis is poor (especially without pemetrexed, eg <2yrs). >650 deaths/yr in UK.
+
+
+PDF PAGE 3 — PRINTED PAGE 193
+
+Chest medicine
+
+Fig 1. PA chest radiograph showing diffuse nodular pulmonary opacities with a focal area of irregular soft tissue shadowing in the right upper zone. Appearances are consistent with silicosis and developing progressive massive fibrosis (PMF). PMF is usually bilateral and starts as ill-defined or oval opacities that occur most often in the upper/mid-zones and develop from the periphery towards the hila.
+
+Image courtesy of Derby Hospitals NHS Foundation Trust Radiology Department.
+
+
+PDF PAGE 4 — PRINTED PAGE 194
+
+Obstructive sleep apnoea syndrome
+
+This disorder is characterized by intermittent closure/collapse of the pharyngeal airway causing apnoeic episodes during sleep. These are terminated by partial arousal.
+
+Clinical features The typical patient is an obese, middle-aged man who presents because of snoring or daytime somnolence. His partner often describes apnoeic episodes during sleep.
+
+• Loud snoring
+• Daytime somnolence
+• Poor sleep quality
+
+Chest medicine
+
+• Morning headache
+• Decreased libido
+• Cognitive performance↓.
+
+Complications Pulmonary hypertension; type II respiratory failure (p180). Sleep apnoea is also reported as an independent risk factor for hypertension. 62
+
+Investigations Simple studies (eg pulse oximetry, video recordings) may be all that are required for diagnosis. Polysomnography (which monitors oxygen saturation, airflow at the nose and mouth, ECG, EMG chest and abdominal wall movement during sleep) is diagnostic. The occurrence of 15 or more episodes of apnoea or hypopnoea during 1h of sleep indicates significant sleep apnoea.
+
+Management 36
+
+• Weight reduction
+• Avoidance of tobacco and alcohol
+• CPAP via a nasal mask during sleep is effective and recommended by NICE for those with moderate to severe disease 64
+• Surgery to relieve pharyngeal obstruction (tonsillectomy, uvulopalatopharyngoplasty, or tracheostomy) is occasionally needed, but only after seeing a chest physician.
+
+Cor pulmonale
+
+Cor pulmonale is right heart failure caused by chronic pulmonary arterial hypertension. Causes include chronic lung disease, pulmonary vascular disorders, and neuromuscular and skeletal diseases (see BOX).
+
+Clinical features Symptoms include dyspnoea, fatigue, and syncope. Signs: cyanosis; tachycardia; raised JVP with prominent a and v waves; RV heave; loud P2, pansystolic murmur (tricuspid regurgitation); early diastolic Graham Steell murmur; hepatomegaly and oedema.
+
+Investigations FBC: Hb and haematocrit↑ (secondary polycythaemia). ABG: hypoxia, with or without hypercapnia. CXR: enlarged right atrium and ventricle, prominent pulmonary arteries (see fig 1). ECG: P pulmonale; right axis deviation; right ventricular hypertrophy/strain.
+
+Management
+
+• Treat underlying cause—eg COPD and pulmonary infections.
+• Treat respiratory failure—in the acute situation give 24% oxygen if PaO2 <8kPa. Monitor ABG and gradually increase oxygen concentration if PaCO2 is stable (p180). In COPD patients, long-term oxygen therapy (LTOT) for 15h/d increases survival (p176). Patients with chronic hypoxia when clinically stable should be assessed for LTOT.
+• Treat cardiac failure with diuretics such as furosemide, eg 40–160mg/24h PO. Monitor U&E and give amiloride or potassium supplements if necessary. Alternative: spironolactone.
+• Consider venesection if haematocrit >55%.
+• Consider heart–lung transplantation in young patients.
+
+Prognosis Poor. 50% die within 5yrs.
+
+
+PDF PAGE 5 — PRINTED PAGE 195
+
+Causes of cor pulmonale
+
+Lung disease
+• COPD
+• Bronchiectasis
+• Pulmonary fibrosis
+• Severe chronic asthma
+• Lung resection
+
+Pulmonary vascular disease
+• Pulmonary emboli
+• Pulmonary vasculitis
+• Primary pulmonary hypertension
+• ARDS (p170)
+• Sickle-cell disease
+• Parasite infestation
+
+Thoracic cage abnormality
+• Kyphosis
+• Scoliosis
+• Thoracoplasty
+
+Neuromuscular disease
+• Myasthenia gravis
+• Poliomyelitis
+• Motor neuron disease
+
+Hypoventilation
+• Sleep apnoea
+• Enlarged adenoids in children
+
+Cerebrovascular disease
+
+Chest medicine
+
+Fig 1. PA chest radiograph showing enlarged pulmonary arteries from pulmonary artery hypertension. When caused by interstitial lung disease and leading to right heart failure, this would be termed cor pulmonale. No signs of interstitial lung disease are identifiable in this image.
+
+Image courtesy of Derby Hospitals NHS Foundation Trust Radiology Department.
+
+
+PDF PAGE 6 — PRINTED PAGE 196
+
+5 Endocrinology
+
+Contents
+
+The essence of endocrinology 197
+
+Diabetes mellitus (DM):
+Classification and diagnosis 198
+Treating diabetes mellitus 200
+Helping people with established diabetes 202
+Diabetic neuropathy and diabetic foot care 204
+Hypoglycaemia 206
+
+Thyroid and parathyroid disease:
+Thyroid function tests (TFTs) 208
+Thyrotoxicosis 210
+Thyroid eye disease 211
+Hypothyroidism (myxoedema) 212
+Parathyroid hormone and hyperparathyroidism 214
+Hypoparathyroidism 214
+Multiple endocrine neoplasia (MEN-1; MEN-2) 215
+
+The adrenal gland:
+Adrenal cortex and Cushing’s syndrome 216
+Addison’s disease (adrenal insufficiency) 218
+Hyperaldosteronism 220
+Phaeochromocytoma 220
+Hirsutism, virilism, gynaecomastia and impotence/ED 222
+
+The pituitary gland:
+Hypopituitarism 224
+Pituitary tumours 226
+Hyperprolactinaemia 228
+Acromegaly 230
+Diabetes insipidus (DI) 232
+
+Fig 1. Frederick Banting (1891–1941) and Charles Best (1899–1978). Their discovery of insulin and its effects on glucose, from work in beagles, had a profound effect on the lives of all those with diabetes, as it paved the way for the use of insulin to treat what was then a fatal condition. Banting, but not Best, won the Nobel prize for his work, aged 32, making him the youngest ever recipient of the award in Medicine/Physiology. He died prematurely in a plane crash whilst on route to England on a secretive mission to test out an anti-gravity flying suit.
+
+Relevant pages in other chapters:
+
+Diabetic ketoacidosis (➜p842); hypoglycaemia (➜p844); surgery and diabetes (p590); the eye in diabetes (OHCS p446); thyroid emergencies (➜p844); thyroid lumps (p602); thyroid disease, and surgery (p593); Addisonian crisis and hypopituitary coma (➜p846); phaeochromocytoma emergencies (➜p847).
+
+The endocrinology of food behaviour, mood, and obesity:
+Cholecystokinin, GLP-1, ghrelin, and peptide YY, etc: OHCS p530.
+
+In dermatology (endocrine control of sebocytes via CRH): OHCS p583.
+
+In pregnancy: Thyroid disease: OHCS p25; diabetes in pregnancy: OHCS p24.
+
+In childhood: Childhood diabetes: OHCS p186; thyroid problems: OHCS p182.
+
+We thank Dr Stephen Gilbey, our Specialist Reader, and Dr Konstantinos Kritikos, our Junior Reader for this chapter.
+
+
+PDF PAGE 7 — PRINTED PAGE 197
+
+The essence of endocrinology—for scientists
+
+• Define a syndrome, and match it to a gland malfunction.
+• Measure the gland’s output in the peripheral blood. Define clinical syndromes associated with too much or too little secretion (hyper- and hypo-syndromes, respectively; eu- means normal, neither ↑ nor ↓, as in euthyroid). Note factors that may make measurement variable, eg diurnal release of cortisol.
+• If suspecting hormone deficiency, test by stimulating the gland that produces it (eg short ACTH stimulation test or Synacthen® test in Addison’s). If the gland is not functioning normally, there will be a blunted response to stimulation.
+• If suspecting hormone excess, test by inhibiting the gland that produces it (eg dexamethasone suppression test in Cushing’s). If there is a hormone secreting tumour then this will fail to suppress via normal feedback mechanisms.
+• Find a way to image the gland. NB: non-functioning tumours or ‘incidentalomas’ may be found in health, see p216. Imaging alone does not make the diagnosis.
+• Aim to halt disease progression; diet and exercise can stop progression of impaired fasting glucose to frank diabetes. 1, 2 For other glands, halting progression will depend on understanding autoimmunity, and the interaction of genes and environment. In thyroid autoimmunity (an archetypal autoimmune disease), it is possible to track interactions between genes and environment (eg smoking and stress) via expression of immunologically active molecules (HLA class I and II, adhesion molecules, cytokines, CD40, and complement regulatory proteins). 3
+
+Endocrinologists love this reductionist approach, but have been less successful at understanding emergent phenomena—those properties and performances of ours that cannot be predicted from full knowledge of our perturbed parts. We understand the diurnal nature of cortisol secretion, for example, but the science of relating this to dreams, the consolidation of memory, and the psychopathology of families and other groups (such as the endocrinology ward round you may be about to join) is in its infancy. But as doctors we are steeped in the hormonal lives of patients (as they are in ours)—and we may as well start by recognizing this now.
+
+Endocrinology
+
+The essence of endocrinology—for those doing exams
+
+“What’s wrong with him?” your examiner asks, boldly. While you apologize to the patient for this rudeness by asking, “Is it alright if we speak about you as if you weren’t here?”, think to yourself that if you were a betting man or woman you would wager that the diagnosis will be endocrinological. In no other discipline are gestalt impressions so characteristic. To get good at recognizing these conditions, spend time in endocrinology outpatients and looking at collections of clinical photographs. Also, specific cutaneous signs are important, as follows.
+
+Thyrotoxicosis: Hair loss; pretibial myxoedema (confusing term, p210); onycholysis (nail separation from the nailbed); bulging eyes (exophthalmos/proptosis).
+
+Hypothyroidism: Hair loss; eyebrow loss; cold, pale skin; characteristic face. You might, perhaps should, fail your exam if you blurt out “Toad-like face”.
+
+Cushing’s syndrome: Central obesity and wasted limbs (=‘lemon on sticks’ see fig 1); moon face; buffalo hump; supraclavicular fat pads; striae.
+
+Addison’s disease: Hyperpigmentation (face, neck, palmar creases).
+
+Acromegaly: Acral (distal) + soft tissue overgrowth; big jaws (macrognathia), hands and feet; the skin is thick; facial features are coarse.
+
+Hyperandrogenism (♀): Hirsutism; temporal balding; acne.
+
+Hypopituitarism: Pale or yellow tinged thinned skin, resulting in fine wrinkling around the eyes and mouth, making the patient look older.
+
+Hypoparathyroidism: Dry, scaly, puffy skin; brittle nails; coarse hair.
+
+Pseudohypoparathyroidism: Short stature, short neck and short 4th and 5th metacarpals.
+
+Fig 1. ‘Lemon on sticks.’
+
+
+PDF PAGE 8 — PRINTED PAGE 198
+
+Diabetes mellitus (DM): classification and diagnosis
+
+DM results from lack or reduced effectiveness of endogenous insulin. Hyperglycaemia is one aspect of a far-reaching metabolic derangement, which causes serious microvascular (retinopathy, nephropathy, neuropathy) or macrovascular problems: stroke, renovascular disease, limb ischaemia—and above all heart disease So think of DM as a vascular disease:1 when meeting a diabetic person adopt a holistic approach and consider other cardiovascular risk factors too—they tend to cluster together.
+
+Diagnosis of diabetes mellitus: WHO criteria (rather arbitrary!2)
+
+• Symptoms of hyperglycaemia (eg polyuria, polydipsia, unexplained weight loss, visual blurring, genital thrush, lethargy) AND raised venous glucose detected once—fasting ≥7mmol/L or random ≥11.1mmol/L OR
+• Raised venous glucose on 2 separate occasions—fasting ≥7mmol/L, random ≥11.1mmol/L or oral glucose tolerance test (OGTT)—2h value ≥11.1mmol/L
+• HbA1c ≥48mmol/L (6.5%), but below doesn’t exclude DM. Avoid in pregnancy, children and type 1 DM.
+
+Whenever you have a needle in a vein, do a blood glucose (unless recently done); note if fasting or after food. Non-systematic, but better than urine tests (too many false –ves). In one UK GP trial, 5% of those screened aged 40–69 had new DM.
+
+Endocrinology
+
+Categories of diabetes and dyslipidaemia
+
+Type 1 DM Usually adolescent onset but may occur at any age. Cause: Insulin deficiency from autoimmune destruction of insulin-secreting pancreatic β cells. Patients must have insulin, and are prone to ketoacidosis and weight loss. It is associated with other autoimmune diseases (>90% carry HLA DR3 ± DR4). Concordance is only ~30% in identical twins, indicating environmental influence. Four genes are important: one (6q) determines islet sensitivity to damage (eg from viruses or cross-reactivity from cows’ milk-induced antibodies). Latent autoimmune diabetes of adults (LADA) is a form of type 1 DM, with slower progression to insulin dependence in later life.
+
+Type 2 DM (formerly non-insulin-dependent DM, NIDDM) appears to be prevalent at ‘epidemic’ levels in many places, mainly due to changes in lifestyle, but also because of better diagnosis and improved longevity. 4 Higher prevalence occurs in Asians, men, and the elderly (up to 18%). Most are over 40yrs, but teenagers are now getting type 2 DM (OHCS p156). Cause ↓Insulin secretion ± ↑insulin resistance. It is associated with obesity, lack of exercise, calorie and alcohol excess. ~80% concordance in identical twins, indicating stronger genetic influence than in type 1 DM. Typically progresses from a preliminary phase of impaired glucose tolerance (IGT) or impaired fasting glucose (IFG), see BOX. (This is a unique window for lifestyle intervention.)
+
+Maturity onset diabetes of the young (MODY) is a rare autosomal dominant form of type 2 DM affecting young people with a +ve family history (OHCS p187).
+
+Impaired glucose tolerance (IGT) Fasting plasma glucose <7mmol/L and OGTT (oral glucose tolerance) 2h glucose ≥7.8mmol/L but <11.1mmol/L.
+
+Impaired fasting glucose (IFG) Fasting plasma glucose ≥6.1mmol/L but <7mmol/L (WHO criteria). Do an OGTT to exclude DM. The cut-off point is somewhat arbitrary: Americans use 5.55mmol/L and 4.8 is the cut-off in Israel.
+
+IGT and IFG denote different abnormalities of glucose regulation (post-prandial and fasting). There may be lower risk of progression to DM in IFG than IGT. Manage both with lifestyle advice (exercise and diet, p87) + annual review. Incidence of DM if IFG and HbA1C at high end of normal (37–46mmol/L or 5.5–6.4%) is ~25%. 5
+
+Other causes of DM Steroids; anti-HIV drugs; newer antipsychotics; thiazides.
+
+• Pancreatic: pancreatitis; surgery (where >90% pancreas is removed); trauma; pancreatic destruction (haemochromatosis, cystic fibrosis); pancreatic cancer.
+• Cushing’s disease; acromegaly; phaeochromocytoma; hyperthyroidism; pregnancy.
+• Others: congenital lipodystrophy; glycogen storage diseases.
+
+1 Chicken or egg? Most type II diabetes-associated genes have a function in the vasculature, and stress in β-cells can result from vascular defects in the pancreas, so maybe vascular events trigger DM. 6
+
+2 These values reflect economic and political realities: biological realities are different: risk of DM retinopathy relates to glucose levels >5.6mmol/L, for example. But defining DM as >5.6 would cost £billions.
+
+
+PDF PAGE 9 — PRINTED PAGE 199
+
+Diabetes and pregnancy
+
+• 4% of pregnancies are complicated by DM: either pre-existing type 1 or 2 DM (<0.5%), or new-onset gestational diabetes (GDM) (>3.5%).
+• All forms carry an increased risk to mother and foetus: miscarriage, pre-term labour, pre-eclampsia, congenital malformations, macrosomia, and a worsening of diabetic complications, eg retinopathy, nephropathy.
+• Risk of GDM ↑ if: aged over 25; family history; +ve; weight↑; non-Caucasian; HIV+ve; previous gestational DM. 7
+• Pre-conception: Offer general advice, and discuss risks. Control/reduce weight, aim for good glucose control, offer folic acid 5mg/d until 12 weeks.
+• Screen for GDM with OGTT if risk factors at booking (16–18 weeks if previous GDM).
+• Oral hypoglycaemics other than metformin should be discontinued. Metformin may be used as an adjunct or alternative to insulin in type 2 DM or GDM.
+• 6wks postpartum, do a fasting glucose. Even if –ve, 50% will eventually go on to develop DM.
+
+Endocrinology
+
+Type 1 versus type 2 diabetes mellitus
+
+Occasionally it may be difficult to differentiate whether a patient has type 1 or 2 DM. Features that suggest type 1 DM include weight loss; persistent hyperglycaemia despite diet and medications; presence of autoantibodies: islet cell antibodies (ICA) and anti-glutamic acid decarboxylase (GAD) antibodies; ketonuria on urine dipstick.
+
+Type 1 DM | Type 2 DM
+
+Epidemiology: Often starts before puberty | Older patients (usually)
+Genetics: HLA D3 and D4 linked | No HLA association
+Cause: Autoimmune β cell destruction | Insulin resistance/β cell dysfunction
+Presentation: Polydipsia, polyuria, weight↓, ketosis | Asymptomatic/complications, eg MI
+
+Not all new-onset DM in older people is type 2: if ketotic ± a poor response to oral hypoglycaemics (and patient is slim or has a family or personal history of autoimmunity), think of latent autoimmune diabetes in adults (LADA) and measure islet cell antibodies.
+
+The metabolic syndrome and insulin resistance
+
+Metabolic syndrome (syndrome X) Arbitrarily defined (IDF) as central obesity (BMI >30, or ↑ waist circ),1 plus 2 of BP ≥130/85, triglycerides ≥1.7mmol/L, HDL ≤1.03♂/1.29♀mmol/L, fasting glucose ≥5.6mmol/L or DM. ~20% are affected; weight, genetics, and insulin resistance important in aetiology. Possible consequences: Vascular events (MI)—but may not increase risk beyond individual risk factors; DM; neurodegeneration; microalbuminuria; gallstones; cancers (eg pancreas); fertility problems♂ & ♀. Exercise; weight↓ ± Mediterranean (?ketogenic) diet, antihypertensives, hypoglycaemics (metformin ± glitazones, p200), statins. Explain that benefits are more than simply chemical: there is an intriguing two-way interaction between depression and insulin resistance: Wise doctors and nurses will use this fact and work on many different levels to lead patients out of illness into health. Examples are motivational therapy and weekly phone interventions.
+
+Waist circumference for central obesity:
+Europeans — ♂ ≥94cm; ♀ ≥80cm
+South (S) Asians — ♂ ≥90cm; ♀ ≥80cm
+Chinese — ♂ ≥90cm; ♀ ≥80cm
+Japanese — ♂ ≥85cm; ♀ ≥90cm
+S & Central Americans use S Asian pro tem
+Africans + Middle East use European pro tem
+
+Insulin resistance:
+
+• Risk factors: metabolic syndrome; obese; Asian1; TB drugs; SSRIs; pregnancy; acromegaly; Cushing’s; renal failure; cystic fibrosis; polycystic ovary (OHCS p252); Werner’s syn. (OHCS p655).
+• Causes: Obesity: Possibly ↑ rate of release of non-esterified fatty acids causing post-receptor defects in insulin’s action. Genetics: mutations in genes encoding insulin receptors. Circulating autoantibodies to the extracellular domain of the insulin receptor.
+
+1 Gujaratis, Punjabis, Sri Lankans, Pakistanis and Bangladeshis have a low threshold for diagnosing obesity (BMI >23) and for vigorous intervention.
+
+
+PDF PAGE 10 — PRINTED PAGE 200
+
+Treating diabetes mellitus
+
+If pregnancy possible: see OHCS p24
+
+Address all vascular risk factors. Obsessive focusing on achieving normoglycaemia may be harmful, 8, 9 eg if it detracts from biopsychosocial health (p9) and quitting smoking. Aim for structured education and motivation from an interdisciplinary team of doctors, specialist nurses, dieticians, etc, and fellow patients (peer advisers). Randomized trials show that group learning from fellow patients is better at lowering HbA1c than well-run diabetic clinics: we doctors are not all that important! 10
+
+General: Structured education programme, offer lifestyle advice (including smoking cessation), start a statin1 (p109), control BP2 (p134). Give foot-care (p204). (Pre-)pregnancy care should be in a multidisciplinary clinic (OHCS p24). Advise informing driving licence authority and not to drive if hypoglycaemic spells (p153; loss of hypoglycaemia awareness may lead to loss of licence; permanent if HGV). Be prepared to negotiate on target HbA1c (eg 6.5%), capillary glucose analysis, exercise, diet: p236—saturated fats↓, sugar↓, starch-carbohydrate↑, moderate protein. Foods made just for diabetics are not needed. One could regard bariatric surgery as a cure for DM in selected patients. 11
+
+Type 1 DM: Insulin (BOX).
+
+Type 2 DM:
+
+• Metformin (a biguanide) initially 12 ↑ insulin sensitivity and helps weight. SE: nausea; diarrhoea; abdominal pain; not hypoglycaemia. Avoid if eGFR <36mL/min 13 (∵ lactic acidosis). Dose: 500mg bd after food. Stop if: tissue hypoxia (eg MI, sepsis); and morning before GA and contrast medium containing iodine (restart when renal function OK). If HbA1c ≥53mmol/L 16wks later, add:
+
+• Sulfonylurea ↑ insulin secretion; eg gliclazide 40mg/d. SE: hypoglycaemia (monitor glucose); it ↑weight, so gliptins, below, are an alternative if BMI >35 or hypoglycaemia is an issue. If at 6mths, HbA1c ≥57mmol/L consider:
+
+• Insulin may be needed (BOX), eg isophane insulin bd or long-acting analogue, or a
+
+• Glitazone to ↑ insulin sensitivity; SE: hypoglycaemia, fractures, fluid retention, LFT↑ (do LFT every 8wks for 1yr, stop if ALT up >3-fold). CI: past or present CCF; osteoporosis; monitor weight, and stop if ↑ or oedema. Example: pioglitazone 15–45mg/24h. 14 It replaces either metformin or sulfonylurea. It is occasionally used with insulin. Others:
+
+• Sulfonylurea receptor binders (nateglinide): ↑β-cell insulin release. 60mg PO ½h before meals, eg tds, ↑dose as needed. 15 Alternative: repaglinide. They target post-prandial hyperglycaemia (t½ is short—metformin works mostly on fasting glucose). They have a role in those with irregular mealtimes if glycaemic control is poor.
+• Glucagon-like peptide (GLP) analogues Incretins are gut peptides that work by augmenting insulin release: 2 drug classes: GLP-1 analogues—exenatide 5μg SC bd ¼h before meals (>6h apart; avoid if eGFR <30; ↑after >4wks to 10μg bd) and DPP-4 inhibitors (dipeptidyl peptidase 4 breaks down GLP-1, sitagliptin; vilagliptin). They may be an alternative to insulin (if eGFR >50), eg if obese (they ↓ appetite).
+• α-glucosidase inhibitors (acarbose) ↓breakdown of starch to sugar (an add-on drug, often disappointing!), 50mg chewed at start of each meal. Start once daily; max 200mg/8h. SE: wind (less if slow dose build-up), abdominal distension/pain, diarrhoea.
+
+Monitoring glucose control
+
+1 Fingerprick glucose if type 1 DM (and type 2, if on insulin).
+
+2 Glycated haemoglobin (HbA1c) relates to mean glucose level over previous 8wks (RBC ½-life). Targets are negotiable, eg 48–57mmol/L (depends on patient’s wish and arterial risk, eg past MI or stroke). If at risk from the effects of hypoglycaemia, eg elderly patients prone to falls, consider less tight control. Tight control may not alter all-cause mortality. 16 Complications rise with rising HbA1c, so any improvement helps.
+
+3 Be sure to ask about hypoglycaemic attacks (and whether symptomatic). Hypoglycaemic awareness may diminish if control is too tight, or with time in type 1 DM, due to ↓glucagon secretion. It may return if control is loosened.
+
+1 Simvastatin 40mg nocte; if triglyceride >4.5mmol/L: Bezalip® 200mg/8h (+Omacor® omega 3 if still↑).
+
+2 Target BP <140/80mmHg; 130/80 if: stroke, MI, retinopathy, microalbuminuria (↗ ARB or ACE-i, p123).

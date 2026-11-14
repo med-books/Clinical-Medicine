@@ -1,0 +1,289 @@
+PDF PAGE 1 — PRINTED PAGE 151
+
+Fallot’s tetralogy: what the non-specialist needs to know
+
+Tetralogy of Fallot (TOF) is the most common cyanotic congenital heart disorder (prevalence: 3–6 per 10,000), and it is also the most common cyanotic heart defect that survives to adulthood, accounting for 10% of all congenital defects. 105 It is believed to be due to abnormalities in separation of the truncus arteriosus into the aorta and pulmonary arteries that occur in early gestation (fig 1).
+
+The 4 features typical of TOF include:
+
+1 Ventricular septal defect (VSD)
+2 Pulmonary stenosis
+3 Right ventricular hypertrophy
+4 The aorta overriding the VSD
+
+Occasionally, a few children also have an atrial septal defect, which makes up the pentad of Fallot.
+
+Presentation: Severity of illness depends greatly on the degree of pulmonary stenosis. Infants may be acyanotic at birth, with a pulmonary stenosis murmur as the only initial finding. Gradually (especially after closure of ductus arteriosus) they become cyanotic due to decreasing flow of blood to the lungs as well as right-to-left shunt across the VSD. During a hypoxic spell, the child becomes restless and agitated, and may cry inconsolably. Toddlers may squat, which is typical of TOF, as it increases peripheral vascular resistance and decreases the degree of right to left shunt. Also: difficulty in feeding, failure to thrive, clubbing. Adult patients are often asymptomatic. In the unoperated adult patient, cyanosis is common, although extreme cyanosis or squatting is uncommon. In repaired patients, late symptoms include exertional dyspnoea, palpitations, RV failure, syncope, and even sudden death. ECG shows RV hypertrophy with a right bundle-branch block.
+
+Fig 1. Tetralogy of Fallot.
+Labels in the figure: Overriding aorta; Pulmonary stenosis; VSD; RV hypertrophy.
+Adapted from Chikwe, Beddow, and Glenville, Cardiothoracic Surgery, 2006, with permission from Oxford University Press.
+
+CXR may be normal, or show the hallmark of TOF, which is the classic boot-shaped heart (fig 2). Echocardiography can show the anatomy as well as the degree of stenosis. Cardiac CT and cardiac MRI can give valuable information for planning the surgery.106
+
+Management: Give O₂. Place the child in knee-chest position. Morphine can sedate the child as well as relaxing the pulmonary outflow. Long-term β-blockers may be needed. Give endocarditis prophylaxis only if recommended by a microbiologist. Without surgery, mortality rate is ~95% by age 20. Surgery is usually done before 1yr of age, with closure of the VSD and correction of the pulmonary stenosis. 20-yr survival is ~90–95% after repair.
+
+Fig 2. Boot-shaped heart.
+Courtesy of Dr Edward Singleton.
+
+PDF PAGE 2 — PRINTED PAGE 152
+
+Driving and the heart1107
+
+Ordinary UK licences only; DVLA = Driver and Vehicle Licensing Authority
+
+UK licences are inscribed “You are required by law to inform Drivers Medical Branch, DVLA, Swansea SA99 1AT at once if you have any disability (physical or medical), which is, or may become likely to affect your fitness as a driver, unless you do not expect it to last more than 3 months”. It is the responsibility of drivers to inform the DVLA, and that of their doctors to advise patients that medical conditions (and drugs) may affect their ability to drive and for which conditions patients should inform the DVLA. Drivers should also inform their insurance company of any condition disclosed to the DVLA. If in doubt, ask your defence union. The following are examples of the guidance for holders of standard licences.
+
+Different rules apply for group 2 vehicle licence-holders (eg lorries, buses).
+
+Angina Driving must cease when symptoms occur at rest or with emotion. Driving may recommence when satisfactory symptom control is achieved. DVLA need not be notified.
+
+Angioplasty Driving must cease for 1wk, and may recommence thereafter provided no other disqualifying condition. DVLA need not be notified.
+
+MI If successfully treated with angioplasty cease driving for 1 week provided urgent intervention not planned and LVEF (left ventricular ejection fraction) >40%, and no other disqualifying condition. Otherwise, driving must cease for 1 month. DVLA need not be notified.
+
+Dysrhythmias Sinoatrial including AF/flutter: Driving must cease if the dysrhythmia has caused or is likely to cause incapacity. Driving may recommence 4wks after successful control provided there is no other disqualifying condition.
+
+Significant atrioventricular conduction defects: Driving may be permitted when underlying cause has been identified and controlled for >4wks. DVLA need not be notified unless there are distracting/disabling symptoms.
+
+Pacemaker implant Stop driving for 1wk.
+
+Implanted cardioverter/defibrillator The licence is subject to annual review. Driving may occur when these criteria can be met:
+
+• The 1st device has been implanted for at least 6 months.
+• The device has not administered therapy (shock and/or symptomatic antitachycardia pacing) within the last 6 months (except during testing).
+• Any previous therapy has not been accompanied by incapacity (whether caused by the device or arrhythmia).
+• A period of 1 month off driving must occur following any revision of the device (generator and/or electrode) or alteration of antiarrhythmics.
+• The device is subject to regular review with interrogation.
+• There is no other disqualifying condition.
+
+Syncope Simple faint: no restriction. Unexplained syncope with low risk of recurrence 4wks off driving, high risk of recurrence 4wks off driving if cause identified and treated; otherwise 6 months off. See driving and epilepsy (BOX). Patients who have had a single episode of loss of consciousness (no cause found) still need to have at least 1yr off driving.
+
+Hypertension Driving may continue unless treatment causes unacceptable side-effects. DVLA need not be notified.
+
+Fitness to fly guidelines are now also available 108
+
+¹ See www.dvla.gov.uk/medical/ataglance.aspx
+
+
+PDF PAGE 3 — PRINTED PAGE 153
+
+Other conditions: UK DVLA¹ state it must be informed if:
+
+• An epileptic event. A person who has suffered an epileptic attack while awake must not drive for 1yr from the date of the attack. A person who has suffered an attack while asleep must also refrain from driving for 1yr from the date of the attack, unless they have had an attack while asleep >3yrs ago and have not had any awake attacks since that asleep attack. In any event, they should not drive if they are likely to cause danger to the public or themselves.
+
+• Patients with TIA or stroke should not drive for at least 1 month. There is no need to inform the DVLA unless there is residual neurological defect after 1 month, eg visual field defect. If TIAs have been recurrent and frequent, a 3-month period free of attacks may be required.
+
+• Sudden attacks or disabling giddiness, fainting, or blackouts. Multiple sclerosis, Parkinson’s (any ‘freezing’ or on–off effects), and motor neuron diseases are relevant here.
+
+• Severe mental handicap. Those with dementia should only drive if the condition is mild (do not rely on armchair judgements: on-the-road trials are better). Encourage relatives to contact DVLA if a dementing relative should not be driving. GPs may desire to breach confidentiality (the GMC approves) and inform DVLA of demented or psychotic patients (tel. 01792 783686). Many elderly drivers (~1 in 3) who die in accidents are found to have Alzheimer’s.
+
+• A pacemaker, defibrillator, or antiventricular tachycardia device fitted.
+• Diabetes controlled by insulin or tablets.
+• Angina while driving.
+• Parkinson’s disease.
+• Any other chronic neurological condition.
+• A serious problem with memory.
+• A major or minor stroke with deficit continuing for >1 month.
+• Any type of brain surgery, brain tumour. Severe head injury involving inpatient treatment at hospital.
+• Any severe psychiatric illness or mental disorder.
+• Continuing/permanent difficulty in the use of arms or legs which affects ability to control a vehicle.
+• Dependence on or misuse of alcohol, illicit drugs, or chemical substances in the past 3yrs (do not include drink/driving offences).
+• Any visual disability which affects both eyes (do not declare short/long sight or colour blindness).
+
+Vision (new drivers) should be 6/9 on Snellen’s scale in the better eye and 6/12 on the Snellen scale in the other eye, wearing glasses or contact lenses if needed, and 3/60 in each eye without glasses or contact lenses.
+
+¹ DVLA is the UK Driving and Vehicle Licensing Authority.
+
+
+PDF PAGE 4 — PRINTED PAGE 154
+
+4 Chest medicine
+
+Contents
+
+Signs:
+Examining the respiratory system 48–54
+
+Investigations:
+Bedside tests in chest medicine 156
+Further investigations in chest medicine 158
+
+Pulmonary conditions:
+Pneumonia 160
+Specific pneumonias 162
+Complications of pneumonia 164
+Bronchiectasis 166
+Cystic fibrosis (CF) 166
+Fungi and the lung 168
+Lung tumours 170
+Asthma 172
+Management of chronic asthma 174
+Chronic obstructive pulmonary disease (COPD) 176
+Acute respiratory distress syndrome (ARDS) 178
+Respiratory failure 180
+Pulmonary embolism (PE) 182
+Pneumothorax 182
+Pleural effusion 184
+Sarcoidosis 186
+Interstitial lung disease (ILD) 188
+Extrinsic allergic alveolitis (EAA) 188
+Idiopathic pulmonary fibrosis (IPF) 190
+Industrial dust diseases 192
+Obstructive sleep apnoea syndrome 194
+Cor pulmonale 194
+
+Fig 1. Richard Doll (1912–2005). Famously, reported the link between cigarette smoking and lung cancer in the BMJ in 1950, which led him to stop smoking, concluding that: “The risk of developing the disease increases in proportion to the amount smoked…It may be 50 times as great among those who smoke 25 or more cigarettes a day as among non-smokers.” This was confirmed by the British Doctors’ Study in 1954, and led to a major series of public health campaigns and policy changes against smoking. He was instrumental in the development of epidemiology and clinical trials in the UK. Ironically, after his death it became apparent that he had received payments from the chemical industry for a number of years.
+
+Relevant pages in other sections:
+
+Symptoms and signs: The respiratory history and examination (p48–p54); chest deformities (p55); chest pain (p88); clubbing (p33); cough (p48); cyanosis (p28); dyspnoea (p49); haemoptysis (p49); sputum (p53); stridor (p48).
+
+Radiology: CXR (p736–41); chest CT (p744); V/Q scan (p753).
+
+Procedures: Aspirating pleural effusions (p778); pleural biopsy (p779); chest drains (p780); pneumothorax aspiration (p781); arterial blood gas sampling (p785).
+
+Emergencies: Asthma (p820); COPD (p822); tension pneumothorax (p824); pneumonia (p826); pulmonary embolism (p828).
+
+Others: Sickle-cell acute chest (p335); acid–base balance (p684); tuberculosis (p398).
+
+We thank Dr Phillippa Lawson, our Specialist Reader, and Winnie Chen, our Junior Reader, for their contribution to this chapter.
+
+
+PDF PAGE 5 — PRINTED PAGE 155
+
+Larynx
+Trachea
+
+Right primary bronchus
+Left primary bronchus
+
+Right secondary bronchus
+Left secondary bronchus
+
+Right tertiary bronchus
+Left tertiary bronchus
+
+Smaller bronchi
+Primary bronchi
+Secondary bronchi
+Tertiary bronchi
+Smaller bronchi
+
+Fig 2. Lung anatomy. The left lung has two lobes and the right has three lobes.
+
+Fig 3. Smoke ring sign: cavitating lung carcinoma.
+Reproduced from Warrell, Cox, and Firth, Oxford Textbook of Medicine, 5th Edition, 2010, with permission from Oxford University Press.
+
+
+PDF PAGE 6 — PRINTED PAGE 156
+
+Bedside tests in chest medicine
+
+Sputum examination Collect a good sample; if necessary ask a physiotherapist to help. Note the appearance: clear and colourless (chronic bronchitis), yellow-green (pulmonary infection), red (haemoptysis), black (smoke, coal dust), or frothy white-pink (pulmonary oedema). Send the sample to the laboratory for microscopy (Gram stain and auramine/ZN stain, if indicated), culture, and cytology.
+
+Peak expiratory flow (PEF) is measured by a maximal forced expiration through a peak flow meter. It correlates well with the forced expiratory volume in 1 second (FEV1) and is used as an estimate of airway calibre, but is more effort-dependent.
+
+Chest medicine
+
+Pulse oximetry allows non-invasive assessment of peripheral O2 saturation (SpO2). It provides a useful tool for monitoring those who are acutely ill or at risk of deterioration. An oxygen saturation of ≤80% is clearly abnormal and action is usually required, unless this is usual for the patient, eg in COPD. If a previously healthy person has pneumonia, a saturation of <92% is a serious sign; see p160. Here, check arterial blood gases (ABG) as PaCO2 may be rising despite a normal PaO2. Causes of erroneous readings: poor perfusion, motion, excess light, skin pigmentation, nail varnish, dyshaemoglobinaemias, and carbon monoxide poisoning. As with any bedside test, be sceptical, and check ABG, whenever indicated (p181).
+
+Arterial blood gas (ABG) analysis Heparinized blood is usually taken from the radial or femoral artery (see p785), and pH, PaO2, and PaCO2 are measured using an automated analyser. Remember to note FiO2 (fraction or percentage of inspired O2).
+
+• Normal pH is 7.35–7.45. A pH <7.35 indicates acidosis and a pH >7.45 indicates alkalosis. For interpretation of abnormalities, see p684.
+• Normal PaO2 is 10.5–13.5kPa. Hypoxia is caused by one or more of the following reasons: ventilation/perfusion (V/Q) mismatch, hypoventilation, abnormal diffusion, right to left cardiac shunts. Of these, V/Q mismatch is the commonest cause. Severe hypoxia is defined as a PaO2 <8kPa (see p180).
+• Normal PaCO2 is 4.5–6.0kPa. PaCO2 is directly related to alveolar ventilation. A PaCO2 <4.5kPa indicates hyperventilation and a PaCO2 >6.0kPa indicates hypoventilation.
+
+Type 1 respiratory failure is defined as PaO2 <8kPa and PaCO2 <6.0kPa.
+
+Type 2 respiratory failure is defined as PaO2 <8kPa and PaCO2 >6.0kPa.
+
+Spirometry measures functional lung volumes. Forced expiratory volume in 1s (FEV1) and forced vital capacity (FVC) are measured from a full forced expiration into a spirometer (Vitalograph®); exhalation continues until no more breath can be exhaled. FEV1 is less effort-dependent than PEF. The FEV1/FVC ratio gives a good estimate of the severity of airflow obstruction; normal ratio is 75–80%. See BOX.
+
+Obstructive defect (eg asthma, COPD) FEV1 is reduced more than the FVC, and the FEV1/FVC ratio is <75%.
+
+Restrictive defect (eg lung fibrosis) FVC is reduced and the FEV1/FVC ratio is normal or high. Other causes: sarcoidosis; pneumoconiosis, interstitial pneumonias; connective tissue diseases; pleural effusion; obesity; kyphoscoliosis; neuromuscular problems.
+
+
+PDF PAGE 7 — PRINTED PAGE 157
+
+Fig 1. Examples of spirograms.
+
+(Aa)PO2: the Alveolar–arterial (Aa) oxygen gradient¹
+
+This is the difference in the O2 partial pressures between the alveolar and arterial sides, i.e. (Aa)PO2 = PAO2 − PaO2.
+
+PAO2, the partial pressure of oxygen in the alveoli, depends on R, the respiratory quotient (≈0.8, nearer to 1 if eating all carbohydrates); barometric pressure (PB ≈ 101kPa at sea level), and PH2O, the water saturation of airway gas (PH2O ≈ 6.2kPa as inspired air is usually fully saturated by the time it gets to the carina). PAO2 also depends on FiO2, the fractional concentration of O2 in inspired air (eg FiO2 is 0.5 if breathing 50% O2, and 0.21 if breathing room air). So (at sea level)…
+
+PAO2 = (PB − PH2O) × FiO2 − (PaCO2 /R)
+     = (101 − 6.2) × FiO2 − (PaCO2 /0.8)
+     = (94.8 × FiO2) − (PaCO2 ÷ 0.8)
+
+In type II respiratory failure it helps tell if hypoventilation is from lung disease or poor respiratory effort. Aa gradient normal range breathing air: 0.2–1.5kPa aged 25yrs; increases to 1.5–3.0 at 75yrs. A high Aa gradient indicates a problem with O2 transfer, whereas a normal Aa gradient in the context of hypoxia suggests hypoventilation.
+
+
+PDF PAGE 8 — PRINTED PAGE 158
+
+Further investigations in chest medicine
+
+Lung function tests PEF, FEV1, FVC (see p156). Total lung capacity (TLC) and residual volume (RV) are useful in distinguishing obstructive and restrictive diseases. TLC and RV are increased in obstructive airways disease and reduced in restrictive lung diseases and musculoskeletal abnormalities. The gas transfer coefficient (KCO) represents the carbon monoxide diffusing capacity (DLCO) corrected for alveolar volume. It is calculated by measuring carbon monoxide uptake from a single inspiration in a standard time (usually 10s) and lung volume by helium dilution. Low in emphysema and interstitial lung disease, high in alveolar haemorrhage. ² Flow volume loop measures flow at various lung volumes. Characteristic patterns are seen with intrathoracic airways obstruction (asthma, emphysema) and extra-thoracic airways obstruction (tracheal stenosis).
+
+Radiology Chest x-ray see p736. Ultrasound is used in the diagnosis and to guide drainage of pleural effusions (particularly loculated effusions) and empyema. Radionuclide scans Ventilation/perfusion (V/Q, p752) scans are occasionally used to diagnose pulmonary embolism (PE) (unmatched perfusion defects are seen). Bone scans are used to diagnose bone metastases. Computed tomography (CT, p744) of the thorax is used for diagnosing and staging lung cancer, imaging the hila, mediastinum and pleura, and guiding biopsies. Thin (1–1.5mm) section high resolution CT (HRCT) is used in the diagnosis of interstitial lung disease and bronchiectasis. CT pulmonary angiography (CTPA, p753) is used in the diagnosis of PE. Pulmonary angiography is now rarely used for diagnosing pulmonary hypertension.
+
+Fibreoptic bronchoscopy is performed under local anaesthetic via the nose or mouth. Diagnostic indications: suspected lung carcinoma, slowly resolving pneumonia, pneumonia in the immunosuppressed, interstitial lung disease. Bronchial lavage fluid may be sent to the lab for microscopy, culture, and cytology. Mucosal abnormalities may be brushed (cytology) and biopsied (histopathology). Therapeutic indications: aspiration of mucus plugs causing lobar collapse, removal of foreign bodies, stenting or treating tumours, eg laser. Pre-procedure investigations: FBC, CXR, spirometry, pulse oximetry and ABG (if indicated). Check clotting if recent anticoagulation and potential biopsy. Complications: respiratory depression, bleeding, pneumothorax (fig 1, p763). Diagnostic sensitivity for cancer 50–90%, depends on tumour location; gene profiling of cell sample may improve this. ³ May also be used to deliver an ultrasound probe (endobronchial ultrasound), and treatments—eg stents, or cryotherapy.
+
+Bronchoalveolar lavage (BAL) is performed at the time of bronchoscopy by instilling and aspirating a known volume of warmed, buffered 0.9% saline into the distal airway. Diagnostic indications: suspected malignancy, pneumonia in the immunosuppressed (especially HIV), suspected TB (if sputum negative), interstitial lung diseases (eg sarcoidosis, extrinsic allergic alveolitis, histiocytosis X). Therapeutic indications: alveolar proteinosis.¹ Complications: hypoxia (give supplemental O2), transient fever, transient CXR shadow, infection (rare).
+
+Lung biopsy may be performed in several ways. Percutaneous needle biopsy is performed under radiological guidance and is useful for peripheral lung and pleural lesions. Transbronchial biopsy performed at bronchoscopy may help in diagnosing diffuse lung diseases, eg sarcoidosis. If these are unsuccessful, an open lung biopsy may be performed under general anaesthetic.
+
+Surgical procedures are performed under general anaesthetic. Rigid bronchoscopy provides a wide lumen, enables larger mucosal biopsies, control of bleeding, and removal of foreign bodies. Mediastinoscopy and mediastinotomy enable examination and biopsy of the mediastinal lymph nodes/lesions. Thoracoscopy allows examination and biopsy of pleural lesions, drainage of pleural effusions, and talc pleurodesis.
+
+¹ Pulmonary alveolar proteinosis causes cough, dyspnoea, and restrictive spirometry. It is caused by accumulation of surfactant-derived acidophilic phospholipid/protein compounds which fill alveoli and distal bronchioles. Diagnosis may require lung biopsy. Cause: primary genetic or antibody problem, or secondary to inflammation caused by inhaling silica, aluminium or titanium. ⁴
+
+
+PDF PAGE 9 — PRINTED PAGE 159
+
+Fig 1. Lung volumes: physiological and pathological. Adapted from D Flenley Med Intl 1 (20) 240.
+
+Fig 2. Flow volume loops.
+
+PEF=peak expiratory flow; FEF50=forced expiratory flow at 50% TLC; FEF25=forced expiratory flow at 25% TLC; PIF=peak inspiratory flow; FIF50=forced inspiratory flow at 50% TLC.
+
+After B Harrison in Thoracic Medicine 1981, ed P Emerson, Butterworths, London; and B Harrison 1971 Thorax 26 579.
+
+
+PDF PAGE 10 — PRINTED PAGE 160
+
+Pneumonia⁵
+Emergency treatment: p826
+
+An acute lower respiratory tract illness associated with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray—fig 1, p737. Incidence: 5–11/1000, increases if very young or old (30% are under 65yrs). Mortality: ~21% in hospital.
+
+Classification and causes
+
+Community-acquired pneumonia (CAP) may be primary or secondary to underlying disease. Streptococcus pneumoniae is the commonest cause, followed by Haemophilus influenzae and Mycoplasma pneumoniae. Staphylococcus aureus, Legionella species, Moraxella catarrhalis, and Chlamydia account for most of the remainder. Gram negative bacilli, Coxiella burnetii and anaerobes are rarer. Viruses account for up to 15%. Flu may be complicated by community-acquired MRSA pneumonia (CA-MRSA).
+
+Hospital-acquired (nosocomial; >48h after hospital admission). Most commonly Gram negative enterobacteria or Staph. aureus. Also Pseudomonas, Klebsiella, Bacteroides, and Clostridia.
+
+Aspiration Those with stroke, myasthenia, bulbar palsies, reduced consciousness (eg post-ictal or drunk), oesophageal disease (achalasia, reflux), or with poor dental hygiene risk aspirating oropharyngeal anaerobes.
+
+Immunocompromised patient: Strep. pneumoniae, H. influenzae, Staph. aureus, M. catarrhalis, M. pneumoniae, Gram –ve bacilli and Pneumocystis jiroveci (formerly named P. carinii, p410–p411). Other fungi, viruses (CMV, HSV), and mycobacteria.
+
+Clinical features Symptoms: Fever, rigors, malaise, anorexia, dyspnoea, cough, purulent sputum, haemoptysis, and pleuritic pain. Signs: Pyrexia, cyanosis, confusion (can be the only sign in the elderly—may also be hypothermic), tachypnoea, tachycardia, hypotension, signs of consolidation (diminished expansion, dull percussion note, increased tactile vocal fremitus/vocal resonance, bronchial breathing), and a pleural rub.
+
+Tests aim to establish diagnosis, identify pathogen, and assess severity (see below). CXR (fig 1, p737): lobar or multilobar infiltrates, cavitation or pleural effusion. Assess oxygenation: oxygen saturation, p156 (ABGs if SaO2 <92% or severe pneumonia) and BP. Blood tests: FBC, U&E, LFT, CRP, blood cultures. Sputum for microscopy and culture. In severe cases, check for Legionella (sputum culture, urine antigen), atypical organism/viral serology (PCR sputum/BAL, complement fixation tests acutely, paired serology) and check for pneumococcal antigen in urine. Pleural fluid may be aspirated for culture. Consider bronchoscopy and bronchoalveolar lavage if patient is immunocompromised or on ITU.
+
+Severity ‘CURB-65’ is a simple, validated scoring system.⁶, ⁷ 1 point for each of: Confusion (abbreviated mental test ≤8); Urea >7mmol/L; Respiratory rate ≥30/min; BP <90 systolic and/or 60mmHg diastolic); age ≥65. 0–1 home treatment possible; 2 hospital therapy; ≥3 severe pneumonia indicates mortality 15–40%—consider ITU. It may ‘underscore’ the young—use clinical judgement. Other features increasing the risk of death are: co-existing disease; bilateral/multilobar involvement; PaO2 <8kPa/SaO2 <92%.
+
+Management Emergency treatment: p826. Antibiotics (p161): orally if not severe and not vomiting; severe give by IV. Oxygen: keep PaO2 >8.0 and/or saturation ≥94%. IV fluids (anorexia, dehydration, shock) and VTE prophylaxis. Analgesia if pleurisy—eg paracetamol 1g/6h. Consider ITU if shock, hypercapnia, or uncorrected hypoxia. If failure to improve, or CRP remains high, repeat CXR and look for progression/complications. Follow-up: at 6 weeks (±CXR).
+
+Complications (p164) Pleural effusion, empyema, lung abscess, respiratory failure, septicaemia, brain abscess, pericarditis, myocarditis, cholestatic jaundice. Repeat CRP and CXR in patients not progressing satisfactorily.
+
+Pneumococcal vaccine (eg 23-valent Pneumovax II®, 0.5mL SC) At-risk groups:
+
+• ≥65yrs old
+• Chronic heart, liver (eg cirrhosis), renal (eg renal failure, nephrosis*, post-transplant*) or lung conditions
+• Diabetes mellitus
+• Immunosuppression, eg spleen function↓ (eg splenectomy, asplenia*, sickle cell* or coeliac disease), AIDS, or on chemotherapy or prednisolone >20mg/d.
+
+CI: pregnancy, lactation, temperature↑. (* = increased risk of fatal pneumococcal infection (above), revaccinate after 6yrs.) Children: OHCS p151.

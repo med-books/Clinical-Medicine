@@ -1,0 +1,251 @@
+PDF PAGE 1 — PRINTED PAGE 161
+
+Empirical treatment of pneumonia (check local policy)⁵
+
+Clinical setting | Organisms | Antibiotic (further dosage details: p378 & p379)
+
+Community-acquired
+
+Mild, not previously treated
+Organisms: Streptococcus pneumoniae; Haemophilus influenzae.
+Antibiotic: Oral amoxicillin 500mg–1g/8h or clarithromycin 500mg/12h or doxycycline 200mg loading then 100mg/day.
+
+Moderate
+Organisms: Streptococcus pneumoniae; Haemophilus influenzae; Mycoplasma pneumoniae.
+Antibiotic: Oral amoxicillin 500mg–1g/8h + clarithromycin 500mg/12h or doxycycline 200mg loading then 100mg/12h. If IV required: amoxicillin 500mg/8h + clarithromycin 500mg/12h.
+
+Severe
+Organisms: As above.
+Antibiotic: Co-amoxiclav 1.2g/8h IV or cephalosporin IV (eg cefuroxime 1.5g/8h IV) AND clarithromycin 500mg/12h IV. Add flucloxacillin ± rifampicin if staph suspected; vancomycin (or teicoplanin) if MRSA suspected. Treat for 10d (14–21d if staph, legionella, or Gram –ve enteric bacteria suspected).
+
+Organism: Panton-Valentine Leukocidin-producing Staph. aureus (PVL-SA).
+Antibiotic: Seek urgent help. Consider adding IV linezolid, clindamycin, and rifampicin.
+
+Atypical
+
+Legionella pneumophilia: Fluoroquinolone combined with clarithromycin, or rifampicin, if severe. See p162.
+Chlamydophila species: Tetracycline.
+Pneumocystis jiroveci: High-dose co-trimoxazole (p410–p411).
+
+Hospital-acquired
+Organisms: Gram negative bacilli; Pseudomonas; Anaerobes.
+Antibiotic: Aminoglycoside IV + antipseudomonal penicillin IV or 3rd gen. cephalosporin IV (p379).
+
+Aspiration
+Organisms: Streptococcus pneumoniae; Anaerobes.
+Antibiotic: Cephalosporin IV + metronidazole IV.
+
+Neutropenic patients
+Organisms: Gram positive cocci; Gram negative bacilli.
+Antibiotic: Aminoglycoside IV + antipseudomonal penicillin IV or 3rd gen. cephalosporin IV.
+Organism: Fungi (p168).
+Antibiotic: Consider antifungals after 48h.
+
+3rd gen = 3rd generation, eg cefotaxime, p379; gentamicin is an example of an aminoglycoside (p381).
+Ticarcillin is an example of an antipseudomonal penicillin.
+
+
+PDF PAGE 2 — PRINTED PAGE 162
+
+Specific pneumonias
+
+For antibiotic doses, see p378–382. TB: see p398.
+
+Pneumococcal pneumonia is the commonest bacterial pneumonia. It affects all ages, but is commoner in the elderly, alcoholics, post-splenectomy, immunosuppressed, and patients with chronic heart failure or pre-existing lung disease. Clinical features: fever, pleurisy, herpes labialis. CXR shows lobar consolidation. If mod/severe check for urinary antigen. Treatment: amoxicillin, benzylpenicillin, or cephalosporin.
+
+Staphylococcal pneumonia may complicate influenza infection or occur in the young, elderly, intravenous drug users, or patients with underlying disease, eg leukaemia, lymphoma, cystic fibrosis (CF). It causes a bilateral cavitating bronchopneumonia. Treatment: flucloxacillin ± rifampicin, MRSA: contact lab; consider vancomycin.
+
+Klebsiella pneumonia is rare. Occurs in elderly, diabetics and alcoholics. Causes a cavitating pneumonia, particularly of the upper lobes, often drug resistant. Treatment: cefotaxime or imipenem.
+
+Pseudomonas is a common pathogen in bronchiectasis and CF. It also causes hospital-acquired infections, particularly on ITU or after surgery. Treatment: antipseudomonal penicillin, ceftazidime, meropenem, or ciprofloxacin + aminoglycoside. Consider dual therapy to minimize resistance.
+
+Mycoplasma pneumoniae occurs in epidemics about every 4yrs. It presents insidiously with flu-like symptoms (headache, myalgia, arthralgia) followed by a dry cough. CXR: reticular-nodular shadowing or patchy consolidation often of 1 lower lobe, and worse than signs suggest. Diagnosis: PCR sputum or serology. Cold agglutinins may cause an autoimmune haemolytic anaemia. Complications: skin rash (erythema multiforme, fig 3, p564), Stevens–Johnson syndrome, meningoencephalitis or myelitis; Guillain–Barré syndrome. Treatment: clarithromycin (500mg/12h) or doxycycline (200mg loading then 100mg od) or a fluoroquinolone (eg ciprofloxacin or norfloxacin).
+
+Legionella pneumophilia colonizes water tanks kept at <60°C (eg hotel air-conditioning and hot water systems) causing outbreaks of Legionnaire’s disease. Flu-like symptoms (fever, malaise, myalgia) precede a dry cough and dyspnoea. Extra-pulmonary features include anorexia, D&V, hepatitis, renal failure, confusion, and coma. CXR shows bi-basal consolidation. Blood tests may show lymphopenia, hyponatraemia, and deranged LFTS. Urinalysis may show haematuria. Diagnosis: Legionella urine antigen/culture. Treatment: fluoroquinolone for 2–3wks or clarithromycin (p380). 10% mortality.
+
+Chlamydophila pneumoniae is the commonest chlamydial infection. Person-to-person spread occurs causing a biphasic illness: pharyngitis, hoarseness, otitis, followed by pneumonia. Diagnosis: Chlamydophila complement fixation test, PCR invasive samples.⁸ Treatment: doxycycline or clarithromycin.
+
+Chlamydiophila psittaci causes psittacosis, an ornithosis acquired from infected birds (typically parrots). Symptoms include headache, fever, dry cough, lethargy, arthralgia, anorexia, and D&V. Extra-pulmonary features are legion but rare, eg meningo-encephalitis, infective endocarditis, hepatitis, nephritis, rash, splenomegaly. CXR shows patchy consolidation. Diagnosis: Chlamydophila serology. Treatment: doxycycline or clarithromycin.
+
+Viral pneumonia. The commonest cause is influenza (p402 and BOX). Other viruses that can affect the lung are: measles, CMV, and varicella zoster.
+
+Pneumocystis pneumonia (PCP) causes pneumonia in the immunosuppressed (eg HIV). The organism responsible was previously called Pneumocystis carinii, and now called Pneumocystis jiroveci.⁹ It presents with a dry cough, exertional dyspnoea, ↓PaO₂, fever, bilateral crepitations. CXR may be normal or show bilateral perihilar interstitial shadowing. Diagnosis: visualization of the organism in induced sputum, bronchoalveolar lavage, or in a lung biopsy specimen. Drugs: high-dose co-trimoxazole (p410–p411), or pentamidine by slow IVI for 2–3 weeks (p411). Steroids are beneficial if severe hypoxaemia. Prophylaxis is indicated if the CD4 count is <200≈10⁶/L or after the 1st attack.¹⁰
+
+
+PDF PAGE 3 — PRINTED PAGE 163
+
+Avian influenza
+
+Avian-to-human transmission of the H5N1 strain of influenza A causes serious infection in humans with a ≥50% mortality, often from a rapidly progressive pneumonia. Human-to-human transmission is reported but is unusual. Oseltamivir can reduce morbidity from influenza A by 1–2 days (see p402; note that oseltamivir-resistant H5N1 has been reported).¹¹ A vaccine is available,¹² but the most likely cause of a pandemic is a new mutant developing between human and avian viruses (genetic reassortment, p403) which may require a different vaccine.
+
+Suspect avian flu if fever (>38°C) plus lower respiratory track signs or consolidation on CXR, or life-threatening infection, AND contact with poultry or others with similar symptoms.¹³ NB: D&V, abdominal pain, pleuritic pain, and bleeding from the nose and gums are reported to be an early feature in some patients.¹⁴
+
+Diagnosis: Viral culture ± reverse transcriptase-PCR with H5 & N1 specific primers.¹⁵
+
+Management: Get help. Contain the outbreak (use your pandemic preparedness plan¹, p403, in the UK, via your consultant in communicable disease control, CCDC). Ventilatory support + O₂ and antivirals may be needed. Nebulizers and high-air flow O₂ masks are implicated in nosocomial spread (use with meticulous precautions).¹⁴, ¹⁶
+
+Precautions for close contacts:
+Use appropriate hand hygiene, do not share utensils, avoid face-to-face contact with suspected or proven cases, wear high-efficiency masks and eye protection. Start empirical antiviral treatment and do diagnostic testing if fever (T° >38°C) and cough, shortness of breath, diarrhoea, or other systemic symptoms develop.
+
+In case of close contact or sharing a defined setting (household, extended family, hospital or other residential institution, or military service) with a patient with proven or suspected avian influenza A (H5N1) infection, monitor body temperature twice daily, check for symptoms for 7d after the last exposure, and start post-exposure prophylaxis with oseltamivir: 75mg once daily for 7–10d.¹⁷
+
+SARS¹⁸
+
+Severe acute respiratory syndrome (SARS) is caused by SARS-CoV virus—a coronavirus. Major features are persistent fever (>38°C), chills, rigors, myalgia, dry cough, headache, diarrhoea, and dyspnoea—with an abnormal CXR and WCC↓. Respiratory failure is the big complication; >50% need supplemental O₂; ~20% progress to acute respiratory distress syndrome requiring invasive ventilation.¹⁹
+
+Mortality is 1–50%, depending on age. Close contact with an index case, or travel to an area with known cases should raise suspicion. The mechanism of transmission of SARS-CoV is only by close contact with other patients.
+
+Management is supportive. No drugs have convincing efficacy (experts may advise on antivirals). Rapid diagnosis, early isolation, and good infection control measures are vital. Communicate with your consultant in infectious diseases.¹⁹
+
+¹ Therapeutic or prophylactic antivirals are said to be the most effective single intervention followed by vaccine and basic public health measures.²⁰ But oseltamivir resistance and unavailability of a suitable vaccine during the early stages of a pandemic make non-drug interventions all the more important.
+
+
+PDF PAGE 4 — PRINTED PAGE 164
+
+Complications of pneumonia
+
+Respiratory failure (See p180.) Type 1 respiratory failure (PaO₂ <8kPa) is relatively common. Treatment is with high-flow (60%) oxygen. Transfer the patient to ITU if hypoxia does not improve with O₂ therapy or PaCO₂ rises to >6kPa. Be careful with O₂ in COPD patients; check ABGs frequently, and consider elective ventilation if rising PaCO₂ or worsening acidosis. Aim to keep SaO₂ at 94–98%, PaO₂ ≥8kPa.
+
+Hypotension may be due to a combination of dehydration and vasodilatation due to sepsis. If systolic BP is <90mmHg, give an intravenous fluid challenge of 250mL colloid/crystalloid over 15min. If BP does not rise, consider a central line and give IV fluids to maintain the systolic BP >90mmHg. If systolic BP remains <90mmHg despite fluid therapy, request ITU assessment for inotropic support (adrenaline, noradrenaline).
+
+Atrial fibrillation (p124) is quite common, particularly in the elderly. It usually resolves with treatment of the pneumonia. β-blocker or digoxin may be required to slow the ventricular response rate in the short term.
+
+Pleural effusion. Inflammation of the pleura by adjacent pneumonia may cause fluid exudation into the pleural space. If this accumulates in the pleural space faster than it is reabsorbed, a pleural effusion develops. If this is small it may be of no consequence. If it becomes large and symptomatic, or infected (empyema), drainage is required (p184 & p780).
+
+Empyema is pus in the pleural space. It should be suspected if a patient with a resolving pneumonia develops a recurrent fever. Clinical features: CXR indicates a pleural effusion. The aspirated pleural fluid is typically yellow and turbid with a pH <7.2, glucose↓, and LDH↑. The empyema should be drained using a chest drain, inserted under radiological guidance. Adhesions and loculation can make this difficult.
+
+Lung abscess is a cavitating area of localized, suppurative infection within the lung (see fig 1).
+
+Causes: • Inadequately treated pneumonia • Aspiration (eg alcoholism, oesophageal obstruction, bulbar palsy) • Bronchial obstruction (tumour, foreign body) • Pulmonary infarction • Septic emboli (septicaemia, right heart endocarditis, IV drug use) • Subphrenic or hepatic abscess.
+
+Clinical features: Swinging fever; cough; purulent, foul-smelling sputum; pleuritic chest pain; haemoptysis; malaise; weight loss. Look for: finger clubbing; anaemia; crepitations. Empyema develops in 20–30%.
+
+Tests: Blood: FBC (anaemia, neutrophilia), ESR, CRP, blood cultures. Sputum microscopy, culture, and cytology. CXR: walled cavity, often with a fluid level. Consider CT scan to exclude obstruction, and bronchoscopy to obtain diagnostic specimens.
+
+Treatment: Antibiotics as indicated by sensitivities; continue until healed (4–6 wks). Postural drainage. Repeated aspiration, antibiotic instillation, or surgical excision may be required.
+
+Septicaemia may occur as a result of bacterial spread from the lung parenchyma into the bloodstream. This may cause metastatic infection, eg infective endocarditis, meningitis. Treatment with IV antibiotic according to sensitivities.
+
+Pericarditis and myocarditis may also complicate pneumonia.
+
+Jaundice. This is usually cholestatic, and may be due to sepsis or secondary to antibiotic therapy (particularly flucloxacillin and co-amoxiclav).
+
+
+PDF PAGE 5 — PRINTED PAGE 165
+
+Fig 1. PA chest radiograph showing multiple rounded ring lesions of differing sizes in the right lower zone, at the right apex and in the left lower zone. The lesions are largest in the right lower zone, where they can be seen to contain air-fluid levels, typical appearance of infection in a pneumatocele (=air cyst) or cavitating lesion. A moderate right-sided hydropneumothorax can also be seen, suggesting that one of these lesions may have ruptured into the pleural cavity. The patient also has a right subclavian central venous catheter for the administration of antibiotics. The diagnosis in this case was that of multiple pulmonary abscesses in a patient who was an intravenous drug user.
+
+Image courtesy of Derby Hospitals NHS Foundation Trust Radiology Department.
+
+
+PDF PAGE 6 — PRINTED PAGE 166
+
+Bronchiectasis²¹
+
+Pathology: Chronic infection of the bronchi and bronchioles leading to permanent dilatation of these airways. Main organisms: H. influenzae; Strep. pneumoniae; Staph. aureus; Pseudomonas aeruginosa.
+
+Causes. Congenital: cystic fibrosis (CF); Young’s syndrome; primary ciliary dyskinesia; Kartagener’s syndrome (OHCS p646). Post-infection: measles; pertussis; bronchiolitis; pneumonia; TB; HIV. Other: bronchial obstruction (tumour, foreign body); allergic bronchopulmonary aspergillosis (ABPA, p168); hypogammaglobulinaemia; rheumatoid arthritis; ulcerative colitis; idiopathic.
+
+Clinical features. Symptoms: persistent cough; copious purulent sputum; intermittent haemoptysis. Signs: finger clubbing; coarse inspiratory crepitations; wheeze (asthma, COPD, ABPA). Complications: pneumonia, pleural effusion; pneumothorax; haemoptysis; cerebral abscess; amyloidosis.
+
+Tests. Sputum culture. CXR: cystic shadows, thickened bronchial walls (tramline and ring shadows); see fig 1. HRCT chest: (p158) to assess extent and distribution of disease. Spirometry often shows an obstructive pattern; reversibility should be assessed. Bronchoscopy to locate site of haemoptysis, exclude obstruction and obtain samples for culture. Other tests: serum immunoglobulins; CF sweat test; Aspergillus precipitins or skin-prick test.
+
+Management. • Postural drainage should be performed twice daily. Chest physiotherapy may aid sputum expectoration and mucous drainage. • Antibiotics should be prescribed according to bacterial sensitivities. Patients known to culture Pseudomonas will require either oral ciprofloxacin or IV antibiotics. If ≥3 exacerbations a year consider long-term antibiotics. • Bronchodilators (eg nebulized salbutamol) may be useful in patients with asthma, COPD, CF, ABPA (p168). • Corticosteroids (eg prednisolone) for ABPA. • Surgery may be indicated in localized disease or to control severe haemoptysis.
+
+Cystic fibrosis (CF) — See OHCS (Paediatrics, p162)
+
+One of the commonest life-threatening autosomal recessive conditions (1:2000 live births) affecting Caucasians. Caused by mutations in the CF transmembrane conductance regulator (CFTR) gene on chromosome 7 (>800 mutations have now been identified). This is a Cl⁻ channel, and the defect leads to a combination of defective chloride secretion and increased sodium absorption across airway epithelium. The changes in the composition of airway surface liquid predispose the lung to chronic pulmonary infections and bronchiectasis.
+
+Clinical features. Neonate: Failure to thrive; meconium ileus; rectal prolapse. Children and young adults: Respiratory: cough; wheeze; recurrent infections; bronchiectasis; pneumothorax; haemoptysis; respiratory failure; cor pulmonale. Gastrointestinal: pancreatic insufficiency (diabetes mellitus, steatorrhoea); distal intestinal obstruction syndrome (meconium ileus equivalent); gallstones; cirrhosis. Other: male infertility; osteoporosis; arthritis; vasculitis (p558); nasal polyps; sinusitis; and hypertrophic pulmonary osteoarthropathy (HPOA). Signs: cyanosis; finger clubbing; bilateral coarse crackles.
+
+Diagnosis. Sweat test: sweat sodium and chloride >60mmol/L; chloride usually > sodium. Genetics: screening for known common CF mutations should be considered. Faecal elastase is a simple and useful screening test for exocrine pancreatic dysfunction.
+
+Tests. Blood: FBC, U&E, LFT; clotting; vitamin A, D, E levels; annual glucose tolerance test (p198). Bacteriology: cough swab, sputum culture. Radiology: CXR; hyperinflation; bronchiectasis. Abdominal ultrasound: fatty liver; cirrhosis; chronic pancreatitis. Spirometry: obstructive defect. Aspergillus serology/skin test (20% develop ABPA, p168). Biochemistry: faecal fat analysis.
+
+
+PDF PAGE 7 — PRINTED PAGE 167
+
+Fig 1. PA chest radiograph showing marked abnormal dilatation of the airways throughout the right upper lobe, along with similar changes to a lesser degree throughout the rest of the lung (most notably in the periphery of the left upper zone). Appearances are that of bronchiectasis, which in this case was congenital. The fine background reticular pattern in the lungs suggests that there may also be some interstitial lung disease present.
+
+Image courtesy of Nottingham University Hospitals NHS Trust Radiology Department.
+
+Management of cystic fibrosis
+
+Patients with cystic fibrosis are best managed by a multidisciplinary team, eg physician, GP, physiotherapist, specialist nurse, and dietician, with attention to psychosocial as well as physical wellbeing. Gene therapy (transfer of CFTR gene using liposome or adenovirus vectors) is not yet possible.
+
+Chest: Physiotherapy regularly (postural drainage, active cycle breathing techniques or forced expiratory techniques). Antibiotics are given for acute infective exacerbations and prophylactically (PO or nebulized). Mucolytics may be useful (eg DNase, ie Dornase alfa, 2.5mg daily nebulized, OHCS p163). Bronchodilators.
+
+Gastrointestinal: Pancreatic enzyme replacement; fat soluble vitamin supplements (A, D, E, K); ursodeoxycholic acid for impaired liver function; cirrhosis may require liver transplantation.
+
+Other: Treatment of CF-related diabetes; screening for and treatment of osteoporosis; treatment of arthritis, sinusitis, and vasculitis; fertility and genetic counselling.
+
+Advanced lung disease: Oxygen, diuretics (cor pulmonale); non-invasive ventilation; lung or heart/lung transplantation.
+
+Prognosis: Median survival is now ~40yrs in the UK.
+
+
+PDF PAGE 8 — PRINTED PAGE 168
+
+Fungi and the lung
+
+Aspergillus. This group of fungi affects the lung in 5 ways:
+
+1 Asthma: Type I hypersensitivity (atopic) reaction to fungal spores (p172).
+
+2 Allergic bronchopulmonary aspergillosis (ABPA): Results from type I and III hypersensitivity reactions to Aspergillus fumigatus. Affects 1–% of asthmatics, 2–25% of CF patients.²² Early on, the allergic response causes bronchoconstriction, but as the inflammation persists, permanent damage occurs, causing bronchiectasis (fig 1). Symptoms: wheeze, cough, sputum (plugs of mucus containing fungal hyphae, see p440), dyspnoea, and ‘recurrent pneumonia’. Investigations: CXR (transient segmental collapse or consolidation, bronchiectasis); Aspergillus in sputum; positive Aspergillus skin test and/or Aspergillus-specific IgE RAST (radioallergosorbent test); positive serum precipitins; eosinophilia; raised serum IgE. Treatment: prednisolone 30–40mg/24h PO for acute attacks; maintenance dose 5–10mg/d. Sometimes itraconazole is used in combination with corticosteroids. Bronchodilators for asthma. Sometimes bronchoscopic aspiration of mucous plugs is needed.
+
+3 Aspergilloma (mycetoma): A fungus ball within a pre-existing cavity (often caused by TB or sarcoidosis). It is usually asymptomatic but may cause cough, haemoptysis (may be torrential), lethargy ± weight loss. Investigations: CXR (round opacity within a cavity, usually apical); sputum culture; strongly positive serum precipitins; Aspergillus skin test (30% +ve). Treatment (only if symptomatic): consider surgical excision for solitary symptomatic lesions or severe haemoptysis. Oral itraconazole and other antifungals have been tried with limited success. Local instillation of amphotericin paste under CT guidance yields partial success in carefully selected patients, eg in massive haemoptysis.
+
+4 Invasive aspergillosis: Risk factors:²³ immunocompromise, eg HIV, leukaemia, burns, Wegener’s (p728), and SLE, or after broad-spectrum antibiotic therapy. Investigations: sputum culture; BAL; biopsy; serum precipitins; CXR (consolidation, abscess). Early chest CT and serial serum measurements of galactomannan (an Aspergillus antigen) may be helpful. Diagnosis may only be made at lung biopsy or autopsy. Treatment: voriconazole is superior to IV amphotericin.²⁴ Alternatives: IV miconazole or ketoconazole (less effective). Prognosis: 30% mortality.
+
+5 Extrinsic allergic alveolitis (EAA) may be caused by sensitivity to Aspergillus clavatus (‘malt worker’s lung’). Clinical features and treatment are as for other causes of EAA (p188). Diagnosis is based on a history of exposure and presence of serum precipitins to A. clavatus. Pulmonary fibrosis may occur if untreated.
+
+Other fungal infections. Candida and Cryptococcus may cause pneumonia in the immunosuppressed (see p440).
+
+
+PDF PAGE 9 — PRINTED PAGE 169
+
+Text in diagram:
+Aspergilloma within pre-existing cavity
+Infection
+Infarction
+Malignant
+
+Progression of allergic bronchopulmonary aspergillosis
+Bronchoconstriction and transient lung shadow
+Upper lobe fibrosis
+Proximal bronchiectasis
+Mucoid impaction and lobar collapse
+
+Fig 1. Aspergillosis.
+
+Using amphotericin B
+
+Test dose: 1mg in 20mL 5% dextrose IV over 20–30min. Observe closely for the next ½h for signs of anaphylaxis (shock, swelling, wheeze, etc.). There are various formulations. Consult BNF. Do not give any other drug in the same IVI. SE: anaphylaxis; serious nephrotoxicity; fever; rash; anorexia; nausea; D&V; headache; myalgia; arthralgia; anaemia; ↓K⁺; ↓Mg²⁺; hepatotoxicity; arrhythmias; hearing loss; diplopia; seizures; neuropathy; phlebitis. Monitor U&E daily. AmBisome® (liposomal amphotericin) has fewer SEs, but is expensive; it is indicated in systemic or deep mycoses where nephrotoxicity precludes conventional amphotericin; IV initial test dose: 1mg over 10min, then 3mg/kg/d (max 5mg/kg/d IVI).²⁵ Alternatives: Abelcet® and Amphocil®.
+
+
+PDF PAGE 10 — PRINTED PAGE 170
+
+Lung tumours²⁶
+
+Carcinoma of the bronchus. Accounts for ~19% of all cancers and 27% of cancer deaths (40,000 cases/yr in UK). Incidence is increasing in women. Only 5% ‘cured’.
+
+Risk factors: Cigarette smoking is the major risk factor. Others: asbestos, chromium, arsenic, iron oxides, and radiation (radon gas).
+
+Histology: Squamous (35%); adenocarcinoma (27%); small (oat) cell (20%); large cell (10%); alveolar cell carcinoma (rare, <1%). Clinically the most important division is between small cell (SCLC) and non-small cell (NSCLC).
+
+Symptoms: Cough (80%); haemoptysis (70%); dyspnoea (60%); chest pain (40%); recurrent or slowly resolving pneumonia; lethargy, anorexia; weight loss. Signs: Cachexia; anaemia; clubbing; HPOA (hypertrophic pulmonary osteoarthropathy, causing wrist pain); supraclavicular or axillary nodes. Chest signs: none, or: consolidation; collapse; pleural effusion. Metastases: bone tenderness; hepatomegaly; confusion; fits; focal CNS signs; cerebellar syndrome; proximal myopathy; peripheral neuropathy.
+
+Complications: Local: recurrent laryngeal nerve palsy; phrenic nerve palsy; SVC obstruction; Horner’s syndrome (Pancoast’s tumour); rib erosion; pericarditis; AF. Metastatic: brain; bone (bone pain, anaemia, ↑Ca²⁺); liver; adrenals (Addison’s). Endocrine: ectopic hormone secretion, eg SIADH (↓Na⁺ and ↑ADH, p678) and ACTH (Cushing’s) by small cell tumours; PTH (↑Ca²⁺) by squamous cell tumours. Non-metastatic neurological: confusion; fits; cerebellar syndrome; proximal myopathy; neuropathy; polymyositis; Lambert–Eaton syndrome (p516). Other: clubbing, HPOA, dermatomyositis; acanthosis nigricans (p565, fig 6); thrombophlebitis migrans (p564).
+
+Tests: (see BOX 1, fig 1) Cytology: sputum and pleural fluid (send at least 20mL). CXR: peripheral nodule; hilar enlargement; consolidation; lung collapse; pleural effusion; bony secondaries. Peripheral lesions and superficial lymph nodes may be amenable to percutaneous fine needle aspiration or biopsy. CT to stage the tumour (BOX 2) and guide bronchoscopy. Bronchoscopy: to give histology and assess operability, ± endobronchial ultrasound for assessment and biopsy. ¹⁸F-deoxyglucose PET or PET/CT scan to help in staging. Radionuclide bone scan: if suspected metastases. Lung function tests: help assess suitability for lobectomy.
+
+Treatment: Non-small cell tumours: Excision is the treatment of choice for peripheral tumours, with no metastatic spread: stage I/II (~25%). Curative radiotherapy is an alternative if respiratory reserve is poor. Chemotherapy ± radiotherapy for more advanced disease. Regimens may be platinum-based, eg with monoclonal antibodies targeting the epidermal growth factor receptor (cetuximab). Get specialist help. Small cell tumours are nearly always disseminated at presentation. They may respond to chemotherapy but invariably relapse (cyclophosphamide + doxorubicin + vincristine + etoposide; or cisplatin ± radiotherapy if limited disease).
+
+Palliation: Radiotherapy is used for bronchial obstruction, SVC obstruction, haemoptysis, bone pain, and cerebral metastases. SVC stent + radiotherapy and dexamethasone for SVC obstruction. Endobronchial therapy: tracheal stenting, cryotherapy, laser, brachytherapy (a radioactive source is placed close to the tumour). Pleural drainage/pleurodesis for symptomatic pleural effusions. Drugs: analgesia; steroids; antiemetics; cough linctus (codeine); bronchodilators; antidepressants.
+
+Prognosis: Non-small cell: 50% 2yr survival without spread; 10% with spread. Small cell: median survival is 3 months if untreated; 1–1½yrs if treated.
+
+Prevention: Quit smoking (p87). Prevent occupational exposure to carcinogens.
+
+Other lung tumours. Bronchial adenoma: Rare, slow-growing. 90% are carcinoid tumours; 10% cylindromas. Surgery. Hamartoma: Rare, benign; CT: lobulated mass ± flecks of calcification; ?excise to exclude malignancy. Mesothelioma (p192).
