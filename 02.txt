@@ -1,0 +1,295 @@
+11
+Psychiatry on medical and surgical wards
+
+✦ Psychopathology is common in colleagues, patients, and relatives. ✦ Seek help for your own problems. Find a sympathetic GP and register with him or her. You are not the best person to plan your assessment, treatment, and referral.
+
+Assessing mental state ‘Move gently through her thoughts, as one might explore a new garden’. Ian McEwan, Atonement. What is in bloom now? Where do those paths lead? What is under that stone? Focus on: Appearance (dress, cleanliness, physical condition); behaviour (eye contact, rapport, anxious? suspicious?); speech (volume, rate & tone); mood (subjective & objective); perception (hallucinations); thought form & content (formal thought disorder? delusions? obsessions? plan to harm self/others?); cognition (concentration, orientation, memory). Note insight (are his experiences the result of illness?). Non-verbal behaviour often gives more valid clues than words, OHCS p324.
+
+Depression This is common, and often ignored, at great cost to wellbeing. Thinking “I would be depressed in his shoes” may sap our will to help, and as biological features (early waking, ↓appetite, ↓weight, loss of interest in sex/hobbies) are common on all wards, we may not realize just how bad things have got. The central clinical features of depression can be assessed by asking:⁴¹ “Have you been bothered by feeling down, depressed, or hopeless in the last month?” If so, “Have you been bothered by lack of interest or pleasure in doing things?” If “yes”, depression is likely. There may also be guilt and feelings of worthlessness. ✦ Don’t think it’s not your job to treat depression. It is as important as pain. Try to arrange activities to boost the patient’s morale and confidence. Share your thoughts with other team members, as well as relatives, if the patient wishes. Among these, your patient may find a kindred spirit who can give insight and support. ✦ If in doubt, try an antidepressant. For SSRIs (eg citalopram, 20mg/24h), see OHCS p340. Cognitive interventions are just as important as drugs (OHCS p370), so liaise with the patient’s GP pre-discharge.
+
+The violent patient Recognize early warning signs: visible distress, tachypnoea, clenched fists, shouting, chanting, restlessness, repetitive movements, pacing, gesticulations. Your own intuition may be helpful here. ✦ At the first hint of violence, get help. If alone, make sure you are nearer the door than the patient.
+
+• Do not be alone with the patient; summon security or the police if needed.
+• Try calming and talking with the patient. Do not touch him. Use your body language to reassure (sitting back, open palms, attentive).
+• Get his consent; if unforthcoming, emergency treatment can still be given to save life, or serious deterioration (under common law ‘necessity’ in England): You are acting against your patient’s wishes but in order to adequately carry out your duty of care. Enlist the help of nurses who know the patient.
+• Use minimum force to achieve his welfare (but this may entail 6 strong men).
+
+Causes: Anger (long waiting times 46%, dissatisfaction with treatment 15%, disagreement with the physician 10%),⁴² alcohol/alcohol withdrawal (a common cause of problems on the ward; p282), drugs (recreational; prescribed), hypoglycaemia, delirium (p488), psychosis, psychopathy. Check blood glucose. Before further tests, haloperidol may be needed: 2–10mg IM (allow 30mins for effect; max. 18mg/24h; monitor pulse, temp., and BP every 15min for 1h then every 30mins until ambulatory).
+
+After a violent event: Attend to your own and others’ wounds (get help as needed); report the event. Flashbacks, depression, insomnia, and need for time off are common.⁴³
+
+Capacity If a rational adult refuses vital treatment, it may be as well to respect this decision, provided the patient has ‘capacity’. A person lacks capacity if they are unable to: • Make a decision because of a permanent or temporary impairment of, or disturbance in, the functioning of the mind, and are unable to: (≥1 of) • Understand the information relevant to the decision • Retain that information long enough to make a decision • Weigh up the information to make a decision, or • Communicate the decision. Capacity is decision and time specific and is rarely all or nothing, so don’t hesitate to get the opinion of others. See p571 for the principles of capacity.
+
+Mental Health Acts Familiarize yourself with local procedures and laws pertaining to your country before your period of duty starts (OHCS p402).
+
+
+12
+The elderly patient in hospital
+
+✦ Ageing reflects the cumulative effects of stressors (eg free radicals) and mechanisms for dealing with them. For most of human history, life expectancy was <40yrs. An ageing population is a sign of successful social and economic policies.⁴⁴
+
+Healthy ageing Health isn’t just ‘complete mental and physical wellbeing’ (WHO) but also ‘a process of adaptation, to changing environments, to growing up and ageing, to healing when damaged, to suffering, and death. Health embraces the future so includes anguish and the inner resources to live with it.’ Ivan Illich 1974, Medical Nemesis
+
+So healthy ageing is not a contradiction. ✦ Contrary to stereotype, most old people are fit and at the happiest stage in their lives.¹⁴⁵ 80% of those over 85yrs live at home; 70% can manage stairs. Any deterioration in an elderly patient is from treatable disease until proved otherwise. Find the cause; don’t think: this is simply ageing. Old age is associated with disease but doesn’t cause it per se.⁴⁶ Do not restrict treatment because of age—age alone is a poor predictor of outcome.⁴⁷
+
+Differences of emphasis in the approach to old people⁴⁸
+
+1 Multiple pathology: Several diseases may coincide (eg cataract + arthritis = falls).
+2 Multiple causes: One problem may have several causes. Treating each alone may do little good; treating all may be of great benefit.⁴⁹
+3 Non-specific presentations: The ‘geriatric giants’⁵⁰ of incontinence (p650);⁵¹ immobility; instability (falls); and dementia/confusion (p488) are common and any disease may present with these. Typical signs and symptoms may be absent (eg MI without chest pain; pneumonia, but no cough, fever, or sputum).
+4 Rapid worsening if treatment is delayed: Complications are common.
+5 More time is required for recovery: There is less ‘physiological reserve’.
+6 Impaired metabolism and excretion of drugs: ↓ drug doses may need lowering.
+7 Rehabilitation: Helps maximize independence, eg improving mobility and balance.
+8 Social factors: These are central in aiding recovery and return to home.
+
+Special points Take a biopsychosocial approach (p9)⁵² (look for and manage interactions between physical, psychological and social aspects of a person’s life).
+
+• Drug concordance (p3): How many different tablets can he cope with? Probably not many more than 2. So which are the most important drugs? If difficulty in managing medicines, consider prescribing blister packs.
+• Social network: Are family and friends nearby? Do they visit regularly?
+• Care details: Are carers needed? Can meals be delivered? Are District nurses involved?
+• Make a holistic care plan. Include nutrition. If food is dumped beside a blind man and no one helps cut it up, he may starve. A passing doctor may arrange a CT ‘for cachexia’, when what he needs is food and cataract surgery.
+
+Discharge planning ✦ Start planning discharge from day 1. A very common question on ward rounds is: “Will this patient get on OK at home?” In answering this, take into account: • Does the patient live alone? • Does any carer have support? • Is your patient in fact a carer for someone even more frail? • Is the accommodation suitable? Stairs? Toilet on the same floor? (If not, can he transfer from chair to commode?) • Is the family supportive—in practice as well as in theory? • Are social services and community services well integrated? Proper case management programmes really can help and save money (~20%).⁵³
+
+UK NHS national service framework (NSF) for old age: 8 care-standards
+
+Person-centred care: Enabling older people to make choices about their own care.
+Intermediate care: Promoting independence by providing intermediate care.
+Hospital care: Delivering specialist care by staff who have the right set of skills.
+Rooting out age discrimination: Providing services regardless of age.
+Stroke: Treatment and rehabilitation of stroke patients by a specialist service.
+Falls: Falls and fracture prevention through a specialist falls service.
+Promotion of mental health: Ensuring effective diagnosis, treatment & support.
+Promotion of health and active life in older age.
+
+1 A big study (n=28,000) found the odds of being happy increased 5% with each decade. Contentment entails being socially active and accepting: “It’s fine I was a schoolteacher, not a Nobel prize winner.”
+
+
+13
+Solving diagnostic puzzles
+
+Penny-dropping moments (PDMs) All pleasures are sensory—apart from those to be had by doing crosswords and diagnostics: both can give us delicious penny-dropping moments which come from combining logic with intuition (PDMs, fig 1, p672). With over 14,000 diseases to choose from,⁵⁴ finding the diagnosis is a challenge (often thwarted by unconscious forces, see BOX). The process of how we diagnose receives little attention—it is assumed (wrongly) to entail collating information, which is then forced through a surgical sieve,¹ which somehow leaves the correct diagnosis clinging to its sides.
+
+Diagnosing by recognition For students, this is the most irritating method. You spend an hour asking all the wrong questions, and in waltzes a doctor who names the disease and sorts it out before you have even finished taking the pulse. This doctor has simply recognized the illness like he recognizes an old friend (or enemy).
+
+Diagnosing by probability Over our clinical lives we unconsciously build up a personal database of diagnoses and outcomes, and associated pitfalls. We unconsciously run each new ‘case’ through this continuously developing probabilistic algorithm—eventually with amazing speed and effortlessness.
+
+Diagnosing by reasoning Like Sherlock Holmes, we must exclude each differential diagnosis, then, whatever is left, however unlikely, must be the culprit. This process presupposes that your differential does include the culprit, and that we have methods for absolutely excluding diseases. All tests are statistical rather than absolute, which is why this method is, at best, fictional.
+
+Diagnosing by watching and waiting Some doctors need to know immediately and definitively what the diagnosis is, while others can tolerate more uncertainty. The dangers and expense of exhaustive tests can be obviated by the skilful use of time.
+
+Diagnosing by selective doubting Traditionally, patients are ‘unreliable’ and signs are objective, and tests virtually perfect. When diagnosis is difficult, try inverting this hierarchy. You will soon realize there are no hard signs or perfect tests. But the game of medicine is unplayable if you doubt everything: so doubt selectively.
+
+Diagnosis by iteration and reiteration A brief history suggests looking for a few signs, which leads to further questions and a few tests. The process of taking a history never ends on this view, and as the process reiterates, various diagnostic possibilities crop up, and receive more or less confirmation. For example, when assessing a patient with atrial fibrillation (p124) you notice finger clubbing and make a note to do a chest x-ray for signs of cancer. This leads you to ask about smoking, and then alcohol, which elicits excessive drinking due to recent redundancy.
+
+Thinking about thinking ⁵⁵–⁵⁷
+
+The rapid decision-making that is often required of doctors can be aided by heuristics—rules for cognitive shortcuts to quick decisions (conscious or unconscious) which are made without full information or analysis. Understanding how we use heuristics (ie by considering how a decision is made) can help us make effective choices, but there are pitfalls. Failed heuristics (biases) interfere with judgement and can lead to diagnostic error. Important examples include:
+
+Anchoring: A significant feature in the history is ‘anchored’ onto too early in the diagnostic process and is not adjusted for in light of later information. Adjusting probability by incorporating new information can help you become an intuitive thinker. Anchoring can be compounded by confirmation bias—the tendency to look for, notice and remember information that fits with pre-existing expectations.
+
+Availability: This explains our tendency to judge something more likely if it readily comes to mind. A recent experience with a disease increases the likelihood of it being diagnosed—problematic if the disease is rare, or has not been seen for a while.
+
+Representativeness: If diagnosis is driven by the extent to which a patient resembles a classic case of a disease, atypical variants will tend to be missed.
+
+1 When your mind goes blank, calm yourself by reciting the surgical sieve: The heart, the lung, the blood, the guts / The liver kidney spleen / The brain, the bones, the skin, the nodes / The bits that’s in between.
+
+
+14
+On being busy: Corrigan’s secret door
+
+“I work much better in chaos.” Francis Bacon⁵⁸ Chaos is not always an enemy: certainly there is no shortage of it in hospitals, consulting rooms, and other battle-grounds. Can we prepare ourselves to use chaos well? Being forewarned allows us to be forearmed, enabling us to adapt to being busy, or at least to wink at each other as we slide down the cascade of long hours → excessive paperwork → too few beds → effort–reward imbalance → compromised care from too few resources → trouble with superiors → difficult patients → too many deaths⁵⁹ → failure to reconcile personal and family life with professional roles.⁶⁰ Logistic regression shows that our consequent problems are predicted by 5 stressors: 1 Lack of recognition of own contribution by others. 2 Too much responsibility. 3 Difficulties keeping up to date. 4 Making the right decision alone. 5 Effects of stress on personal/family life.⁶¹
+
+We may think that it is modern medicine that makes us ever busier, but doctors have always been busy. Sir James Paget, for example, would regularly see over 60 patients each day, sometimes travelling many miles, on his horse, to their bedsides. Sir Dominic Corrigan was so busy 180 years ago that he had a secret door made in his consulting room to escape the ever-growing queue of eager patients.⁶²
+
+We are all familiar with the phenomenon of being hopelessly over-stretched, and of wanting Corrigan’s secret door. Competing, urgent, and simultaneous demands make carrying out any task all but impossible: the junior doctor is trying to gain IV access on a shocked patient when his ‘bleep’ sounds. On his way to the phone a patient is falling out of bed, being held in, apparently, only by his visibly lengthening catheter (which had taken the doctor an hour to insert). He knows he should stop to help but, instead, as he picks up the phone, he starts to tell Sister about “this man dangling from his catheter” (knowing in his heart that the worst will have already happened). But he is interrupted by a thud coming from the bed of the lady who has just had a below knee amputation for non-healing leg ulcers: however, it is not her, but her visiting husband who has collapsed. In despair, he turns to the nurse and groans: “There must be some way out of here!” At times like this we all need Corrigan to take us by the shadow of our hand, and walk with us through a metaphorical secret door into a calm inner world. To enable this to happen, make things as easy as possible for yourself—as follows.
+
+First, however lonely you feel, you are not usually alone. Do not pride yourself on not asking for help. If a decision is a hard one, share it with a colleague. Second, take any chance you get to sit down and rest. Have a cup of coffee with other members of staff, or with a friendly patient (patients are sources of renewal, not just devourers of your energies). Third, do not miss meals. If there is no time to go to the canteen, ensure that food is put aside for you to eat when you can: hard work and sleeplessness are twice as bad when you are hungry. Fourth, avoid making work for yourself. It is too easy for junior doctors, trapped in their image of excessive work and blackmailed by misplaced guilt, to remain on the wards reclerking patients, rewriting notes, or rechecking results at an hour when the priority should be caring for themselves. Fifth, when a bad part of the rota is looming, plan a good time for when you are off duty, to look forward to during the long nights.
+
+However busy the ‘on take’, your period of duty will end. For you, as for Macbeth:
+
+Come what come may,
+time and the hour runs through the roughest day.
+
+Riding the wave In Macbeth, toil and trouble go hand in hand, but sometimes we work best when we are busy. This is recognized in the aphorism that if you want a job done quickly, give it to a busy (wo)man. Observe your colleagues and yourself during a busy day. Sometimes our energy achieves nothing but our own inundation. At other times, by jettisoning everything non-essential, we get airborne and accomplish marvellous feats. As with any sport, we have to break into a sweat before we can get into the zone, where every action meets its mark.
+
+But note that what keeps us riding the wave of a busy day is not what we jettison but what we retain: humour, courtesy, a recognition of the work of others, and an ability to twinkle. A smile causes no delays, and reaches far beyond our lips.
+
+
+15
+Health and medical ethics
+
+In our public medical personas, we often act as though morality consisted only in following society’s conventions: we do this not so much out of laziness but because we recognize that it is better that the public think of doctors as old-fashioned or stupid, than that they should think us evil. But in the silences of our consultations, when it is we ourselves who are under the microscope, then, wriggle as we may, we cannot escape our destiny, which is to lead as often as to follow, in the sphere of ethics. To do this, we need to return to first principles, and not go with the flow of society’s expectations. To give us courage in this enterprise, we can recall the aviator’s and the seagull’s law: it is only by facing the prevailing wind that we can become airborne, and achieve a new vantage point from which to survey our world.
+
+Our analysis starts with our aim: to do good by making people healthy. Good¹ is the most general term of commendation, and entails four cardinal duties:
+
+1 Not doing harm. We owe this duty to all people, not just our patients.⁶³
+2 Doing good by positive actions. We particularly owe this to our patients.
+3 Promoting justice—ie distributing scarce resources fairly (p10) and respecting rights: legal rights, rights to confidentiality, rights to be informed, to be offered all the options, and to be told the truth.
+4 Promoting autonomy. This is not universally recognized; in some cultures facing starvation, for example, it may be irrelevant, or even be considered subversive.
+
+Health entails being sound in body and mind, and having powers of growth, development, healing, and regeneration. How many people have you made healthy (or at least healthier) today? And in achieving this, how many cardinal duties have you ignored? We cannot spend long on the wards or in our surgeries trying to ‘make people healthy’ before we have breached every cardinal duty—particularly (3) and (4). Does it matter? What is the point of having principles if they are regularly ignored? The point of having them is to provide a context for our negotiations with patients to form, where possible, a beneficial synthesis.
+
+Synthesis When we must act in the face of two conflicting duties, one is not a duty. How do we tell which one? Trying to find out involves getting to know our patient.
+
+• Are the patient’s wishes being complied with?
+• What do your colleagues think? What do the relatives think? Have they his or her best interests at heart? Ask the patient’s permission first.
+• Is it desirable that the reason for an action be universalizable? (That is, if I say this person is too old for such-and-such an operation, am I happy to make this a general rule for everyone?—Kant’s ‘law’.)²
+• If an investigative journalist were to sit on a sulcus of mine, having full knowledge of my thoughts and actions, would she be bored or would she be composing vitriol for tomorrow’s newspapers? If so, can I answer her, point for point? Am I happy with my answers? Or are they merely tactical devices?
+• What would a patient’s representative think, eg the elected chairman of a patient’s participation group (OHCS p496)? These opinions are valid and readily available (if a local group exists) and they can stop decision-making from being too medicalized.
+
+Red flags on your wigwam For each patient use a check-list to avoid skating over ethical issues. If a red flag pertains, ethical aspects are likely to be very important.
+
+Wishes of the patient are unknown (find out if a living will is in existence).
+Issues regarding confidentiality/disclosure (eg HIV+ve but partner unaware).
+Goals of care: are these confused and contradictory in any way?
+Wants to discharge himself against advice. Is he fully informed and competent?
+Arguments among relatives as how best to proceed: have you listened to all sides?
+Money problems relating to cost of care or earnings lost through illness.⁶⁴
+
+1 Don’t think of good and evil as forever opposite; good can come out of evil, and vice versa: this fundamental mix-up explains why we learn more from our dissolute patients than we do from saints.⁶⁵
+2 There are problems with universalizability: only intuition can suggest how to resolve conflicts between competing universalizable principles. Also, there is a sense in which all ethical dilemmas are unique, so no moral rules are possible or required—so they cannot be universal (Sartre, Nietzsche).⁶⁶
+
+
+16
+Troubled, troubling, and troublesome patients
+
+“Unless both the doctor and the patient become a problem to each other, no solution is found.” Jung’s aphorism⁶⁷ is untrue for half our waking lives: for an anaesthetist there is no need for the patient to become a problem in order for the anaesthetic to work. But, as with all the best aphorisms, being untrue is the least of the problems they cause us. Great aphorisms signify because they unsettle. Our settled and smug satisfaction at finishing a period of duty without any problems is so often a sign of failure. We have kept the chaos at bay, whereas, if we were greater men or women, we would have embraced it. Half our waking professional lives we spend as if asleep, on automatic, following protocols or guidelines to some trite destination—or else we are dreaming of what we could do if we had more time, proper resources, and perhaps a different set of colleagues. But if we had Jung in our pockets he would be shaking us awake, derailing our guidelines, and saluting our attempts to risk genuine interactions with our patients, however much of a mess we make of it, and however much pain we cause and receive. (Pain, after all, is the inevitable companion to lives led authentically.)¹ To the unreflective doctor, and to all average minds, this interaction is anathema, to be avoided at all costs, because it leads us away from anaesthesia, to the unpredictable, and to destinations that are unknown.
+
+After proposing that ‘deep Thinking’ can only be attained by someone capable of ‘deep Feeling’, Samuel Taylor Coleridge, in 1801, went on to calculate on the back of a jocular envelope that ‘the Souls of 500 Sir Isaac Newtons would go to the making up of a Shakespeare or a Milton…Mind in his system is always passive…and there is ground for suspicion that any system built on the passiveness of the mind must be a false system”.⁶⁸ Newtonian models of the consultation in which the doctor remains unmoved are all tainted by this falsity. So when you find yourself being irritated, moved, or provoked by your patient, be half-glad, because these feelings welcome you to Shakespeare’s and Coleridge’s world where the imagination (p315) is the Prime Mover in the task of bringing about change in our patients.
+
+So, every so often, be pleased with your difficult patients: those who question you, those who do not respond to your treatments, or who complain when these treatments do work. Often, it will seem that whatever you say is wrong, misunderstood, misquoted, and mangled by the mind you are confronting, perhaps because of fear, loneliness, or past experiences that you can only guess at. If this is happening, shut up—but don’t give up. Stick with your patient. Listen to what he or she is saying and not saying. And when you have understood your patient a bit more, negotiate, cajole, and even argue—but don’t bully or blackmail (“If you do not let your son have the operation he needs, I’ll tell him just what sort of a mother you are...”). When you find yourself turning to walk away from your patient, turn back and say “This is not going very well, is it? Can we start again?” Don’t hesitate to call in your colleagues’ help: not to win by force of numbers, but to see if a different approach might bear fruit. By this process, and by addressing the psychosomatic factors perpetuating your patient’s illnesses, you and your patient may grow in stature. You may even end up with a truly satisfied patient. And a satisfied patient is worth a thousand protocols.
+
+We all seek the reason for our own existence, and as we sit beside troubled, troubling, and troublesome patients we may dimly comprehend part of the reason, albeit in the background of our minds—even if, in the foreground, we are wondering why on earth this difficult patient has to exist, especially now when we are so busy and so stressed. The patient is likely to have their own unspoken metaphysical questions, for which you can be the midwife: “Why me?” “Why now?” Don’t strangle these questions at birth: give them space to breathe, and who knows?
+
+1 “Some say that the world is a vale of tears. I say it is a place of soul making”—John Keats, the first medical student to formulate these ideas about pain. They did not do him much good, as he died shortly after uttering them. But his ideas can do us good. Perhaps if each day we try at least once for authentic interactions with a patient, unencumbered by professionalism, research interests, defensive medicine, a wish to show off to our peers, or a wish to get through the day without fuss.
+
+
+17
+Medicine, art, and the humanities
+
+If only we could live long enough to suffer from every disease, then we doctors could be of real service to our patients. There would be no need for medical humanities, as we would understand angina from the inside, and the fire of zoster’s pain would no longer mystify us. We could die a thousand deaths for our patients. But still death would be untamed, and our self-anecdotal knowledge of disease would be irrelevant to patients from foreign lands. All patients inhabit foreign lands, and even our own hearts are alien to us unless melted by narrative streams. It is only through the humanities that, prude or peasant, prince or prostitute, we can extend our horizons and universalize anecdotal experience, so that nothing human is foreign to us.
+
+Doctors’ and artists’ methodologies overlap, as we both create new realities: artists do this by bewitchment and by suspending reality. Doctors do it by listening and suspending judgement. A patient of ours had been trapped in an abusive marriage for 52 years. She had tried telling one other person, who had not believed her. The relief of being believed and listened to shone through her tears, as we collaborated over plans to bring change to her life. It is good to aim to listen to our patients with as rapt attention as we display when reading a good book. While reading, there is no point in dissembling. We confront our subject with a steady eye because we believe that, while reading to ourselves, we cannot be judged. Then, suddenly, when we are at our most open and defenceless, literature takes us by the throat, and that eye, which was so steady and confident a few minutes ago, is now misting over, or our heart is missing a beat, or our skin is covered in a goose-flesh more immediate than ever a Siberian winter produced. As the decades go by, not much in our mundane world sends shivers down our spines, but the power of art to do this ever grows, and sensitizes us to our patients’ narratives, and shows us there are many valid routes to knowledge other than the strictly objective.
+
+The reason for the ascendancy of art over science is simple. We scientists, when we are not adopting our listening role, are only interested in explaining reality. Artists are good at explaining reality too: but they also create it. Our most powerful impressions are produced in our minds not by simple sensations but by the association of ideas. It is a pre-eminent feature of the human mind that it revels in seeing something as, or through, something else: life refracted through experience, light refracted through jewels, or a walk through the woods transmuted into a Pastoral Symphony. Ours is a world of metaphor, fantasy, and deceit.
+
+What has all this to do with the day-to-day practice of medicine? The answer lies in the word ‘defenceless’ above. When we read alone and for pleasure, our defences are down—and we hide nothing from the great characters of fiction. In our consulting rooms, and on the ward, we so often do our best to hide everything beneath our avuncular bedside manner. So often, a professional detachment is all that is left after all those years inured to the foibles, fallacies, and frictions of our patients’ tragic lives. It is at the point where art and medicine collide that doctors can re-attach themselves to the human race and re-feel those emotions that motivate or terrify our patients. We all have an Achilles heel: that part of our inner self which was not rendered invulnerable when we were dipped in the waters of our first disillusion. Art and literature may enable this Achilles heel to be the means of our survival as thinking and feeling human beings.
+
+If it is true that all the great novels, songs, and drama defy any single interpretation it is all the more true for the patient sitting in front of us. If we are not getting very far it is because we are using light when we could be using shade—or harmony in place of disharmony, or we are only offering a monologue when what we should be risking is dialogue—and the forging of new meanings.
+
+The American approach is to create Professors of Literature-in-Medicine and to conjure with concepts such as the patient as text, and most American medical schools do courses in literature in an attempt to inculcate ethical reasoning and speculation. Here, we simply intend to demonstrate, albeit imperfectly, in our writings and in our practice of medicine, that every contact with patients has an ethical and artistic dimension, as well as a technical one.
+
+
+18
+2 History and examination
+
+Contents
+
+Taking a history 20
+Functional enquiry 22
+Physical examination 24
+Symptoms 26
+Signs 28
+Examination of the hands 30–32
+
+Cardiovascular system:
+History 34
+Examination 36–38
+The JVP 40
+Pulses 40
+The heart sounds 42
+Cardiac murmurs 44
+Peripheral vascular examination 46
+Arterial and venous 47
+
+Respiratory system:
+History 48
+Examination 50–52
+Important presentations 54
+
+Gastrointestinal system:
+History 56
+Gastrointestinal symptoms 58
+Examination of the abdomen 60
+The gastrointestinal system: examination 62
+
+Genitourinary system:
+History 64
+
+The breast:
+History 66
+Examination 67
+
+The thyroid:
+Examination 68
+
+Neurological system:
+History 70
+Neurological examination of the upper limb 72
+Neurological examination of the lower limb 74
+Cranial nerve examination 76
+Cranial nerve lesions of the eye 78
+Speech and higher mental function 80
+Psychiatric assessment 82
+Method and order for routine examination 84
+The TYM (Test Your Memory) test 85
+
+Fig 1. William Osler (1849-1919) was a great medical educationalist who loved practical jokes. He introduced many novelties to the classroom, including, on one occasion, a gaggle of geese. We can all identify with his geese, because these birds show exceptional learning ability and resilience.
+
+Osler did not agree with gavage, a method whereby geese (and medical students) are forcibly stuffed by funnel to fatten them for the delight of gluttons. We are too familiar with the 3 Rs of medical education: Ram→Remember→Regurgitate, a sequence that turns once-bright medical students into tearful wrecks. Luckily in the realm of History & Examination we can flee the library and alight at the bedside, bearing in mind another of Osler’s aphorisms: “He who studies medicine without books sails an uncharted sea, but he who studies medicine without patients does not go to sea at all.”
+
+Other relevant pages: acute abdomen (p608); lumps (p596–p606); hernias (p614–p616); varicose veins (p660); urine (p286); peripheral nerves (p456); dermatomes (p458). In OHCS: Vaginal examination (OHCS p242); abdominal examination in pregnancy (OHCS p40); the history and examination in children and neonates (OHCS p100–p102); examination of the eye (OHCS p412); visual acuity (OHCS p414); eye movements (OHCS p422); ear, nose, and throat examination (OHCS p536); skin examination (OHCS p584); examination of joints—see the contents page to Orthopaedics and trauma (OHCS p656).
+
+A number of images are taken from the Oxford Handbook of Clinical Examination and Practical Skills (OHCEPS), which gives an even more detailed account of this subject. Our thanks to Dr James Thomas and Dr Tanya Monaghan for their kind permission. We thank Junior Reader Shahzad Arain for his contribution.
+
+
+19
+Advice and experience
+
+1 The way to learn physical signs is at the bedside, with guidance from a senior doctor or an experienced colleague. This chapter is not a substitute for this process: it is simply an aide-mémoire both on the wards and when preparing for exams.
+
+2 We ask questions to get information to help with differential diagnosis. But we also ask questions to find out about the lives our patients live so that we can respect them as individuals. The patient is likely to notice and reciprocate this respect, and the rapport that you build with your patient in this way is a key component to diagnosing and managing their disease.
+
+3 Patients (and diseases) rarely read the textbook, so don’t be surprised that some symptoms are ambiguous, and others are meaningless. Get good at recognizing patterns, but not so good that you create them when none is there. We all fall into this trap!
+
+4 Signs can be easy to detect, or subtle. Some will be found by all the new medical students, others require experienced ears or eyes. Remember, you can be a fine doctor without being able to elicit every sign.¹ However, finding signs and putting together the clues they give us to find a diagnosis is one of the best parts of being a doctor. It is also essential that we learn those signs that highlight diseases we should never miss. However, in an exam, if you cannot find a sign, never be tempted to make up something you think should be there. If the examiner is pushing you to describe something you cannot see, be honest and admit you cannot see it. Learning is a lifelong process, and nobody becomes a consultant overnight.
+
+Handover and advice
+
+With increasing targets, shift patterns and the move towards more and more specialist services, patients can be bounced around from team to team many times during their admission. The Royal College of Physicians in the UK has recognized this and produced guidance on how best to approach handover.¹
+
+Both written and verbal communications are key to effective handover; although a written note explaining who is unwell, what the plan is, and who to call if things deteriorate is essential, nothing substitutes for face to face handover. Discussion of patients is important for safety as well as learning and good practice. Make a point of handing over weekend and evening plans, and patients you are worried about. Take advantage of the experience and knowledge of the person you are handing over to. Can they offer advice on what you could have done differently?
+
+Make sure senior colleagues know who is unwell and who you would like help with. Senior doctors would far rather see someone before they deteriorate, putting together an action plan for what to do next, than be called to an acutely unwell patient who may need escalation to ICU when a few early interventions could have prevented deterioration. There is no shame in asking for help, but remember you should do what you can first; never call without knowing your patient or having examined them. See p23 for key things to know before calling for advice. Ultimately we are all there for the patient, so if they are deteriorating despite your best efforts, call for advice.
+
+1 http://www.rcplondon.ac.uk/resources/acute-care-toolkit-1-handover
+
+
+20
+Taking a history
+
+Taking (or receiving) histories is what most of us spend most of our professional life doing, and it is worth doing well. A good history is the biggest step towards correct diagnosis. Try to put the patient at ease: a good rapport may relieve distress. Introduce yourself and check whether the patient is comfortable. Be conversational rather than interrogative in tone. Start with open questions, allow the patient to tell their story, but if they stray off topic, try to gently steer them back towards the important points.
+
+Presenting complaint (PC) Open questions: “Why have you come to see me today?” Record the patient’s own words rather than medical terms.
+
+History of presenting complaint (HPC) When did it start? What was the first thing noticed? Progress since then. Ever had it before? ‘SOCRATES’ questions: site; onset (gradual, sudden); character; radiation; associations (eg nausea, sweating); timing of pain/duration; exacerbating and alleviating factors; severity (eg scale of 1–10, compared with worst ever previous pain). Direct questioning (to narrow list of possible diagnoses). Specific or ‘closed’ questions about the differential diagnoses you have in mind (+risk factors, eg travel—p388) and a review of the relevant system.
+
+Past medical history (PMH) Ever in hospital? Illnesses? Operations? Ask specifically about MIJTHREADS: MI, jaundice, TB, high BP, rheumatic fever, epilepsy, asthma, diabetes, stroke, anaesthetic problems.
+
+Drug history (DH) Any tablets, injections, ‘over-the-counter’ drugs, herbal remedies, oral contraceptives? Ask about allergies and what the patient experienced, eg may be an intolerance (nausea, diarrhoea), or may have been a minor reaction of sensitization (eg rash and wheeze) before full-blown anaphylaxis.
+
+Social history (SH) Probe without prying. “Who else is there at home?” Job. Marital status. Spouse’s job and health. Housing—any stairs at home? Who visits—relatives, neighbours, GP, nurse? Are there any dependents at home? Mobility—any walking aids needed? Who does the cooking and shopping? What can the patient not do because of the illness?
+
+The social history is all too often seen as a dispensable adjunct, eg while the patient is being rushed to theatre, but vital clues may be missed about the quality of life and it is too late to ask when the surgeon’s hand is deep in the belly and they are wondering how radical a procedure to perform. It is worth asking a few searching questions of the GP if they are calling to arrange admission. They may have known the patient and/or family for decades. He or she may even hold a ‘living will’ or advance directive to reveal your patient’s wishes if they cannot speak for themselves.
+
+As part of the social history, tactfully ask about alcohol, tobacco & recreational drugs. How much? How long? When stopped? The CAGE questionnaire is useful as a screening test for alcoholism (p282). Quantify smoking in terms of pack-years: 20 cigarettes/day for 1 year equals 1 pack-year. We all like to present ourselves well, so be inclined to double stated quantities (Holt’s ‘law’).
+
+Family history (FH) Areas of the family history may need detailed questioning, eg to determine if there is a significant family history of heart disease you need to ask about the health of the patient’s grandfathers and male siblings, smoking, tendency to hypertension, hyperlipidaemia, and claudication before they were 60 years old, as well as ascertaining the cause of death. Ask about TB, diabetes, and other relevant diseases. Draw a family tree (see BOX). ✦ Be tactful when asking about a family history of malignancy.
+
+Functional enquiry (p22) helps uncover undeclared symptoms. Some of this may already have been incorporated into the history.
+
+✦ Always enquire if your patient has any ideas of what the problem might be, if he/she has any particular concerns or expectations, and give him/her an opportunity to ask you questions or tell you anything you may have missed.
+
+✦ Don’t hesitate to review the history later: recollections change (as you will find, often on the post-take ward round when the Consultant is asking the questions!).

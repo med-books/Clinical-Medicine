@@ -1,0 +1,456 @@
+PAGE 31
+
+1 Skin and nails
+
+On the dorsum, look for the same skin changes as the palm, plus tendon xanthomata, plaques and joint replacement scars, and examine the nails for:
+• Pitting and onycholysis (p32)
+• Clubbing (p33)
+• Nail fold infarcts and splinter haemorrhages
+• Other lesions, e.g. Beau's lines (fig 1, p32), koilonychia, leuconychia
+
+2 Joints and muscles
+
+Again, look for muscle wasting, particularly of the dorsal interossei. Examine the joints for characteristic deformities:
+• Swan-neck (flexed DIP, hyperextended PIP—fig 2, p540)
+• Boutonnière (hyperextended DIP, flexed PIP)
+• Heberden's nodes (DIP joints, p32)
+• Bouchard's nodes (PIP joints)
+
+Move and feel
+
+By this point, you should know the likely diagnosis, so assess neurological function looking at power, function and sensation:
+
+• Wrist and forearm: Extension (prayer position) and flexion (reverse prayer), supination and pronation. Look at the elbows.
+• Small muscles: Pincer grip, power grip (squeeze my two fingers), abduction of the thumb, abduction (spread your fingers) and adduction (grip this piece of paper between your fingers) of the fingers. NB Froment's sign = flexion of the thumb during grip as ulnar nerve lesion prevents adduction (p456).
+• Function: Write a sentence, undo a button, pick up a coin.
+• Sensation: Test little finger (ulnar), index finger (median) and anatomical snuff-box (radial) using light touch/pinprick.
+
+When you have clinched the diagnosis and functional status, examine each joint, palpating for tenderness, effusions and crepitus. Test sensation (see p73) and examine the elbows. Consider examination of upper limbs and face.
+
+Top tips
+
+• Cross your fingers before the patient grips them, it hurts less!
+• Don't forget to palpate the radial pulse.
+• Don't forget to look at the elbows for plaques of psoriasis and rheumatoid nodules.
+
+
+PAGE 32
+
+Examination of the hands: 2
+
+The hands can give you a wealth of information about a patient, even without needing to examine them directly. Shaking hands can tell you about thyroid disease (warm, sweaty, tremor), anxiety (cold, sweaty), and neurological disease (myotonic dystrophy patients have difficulty relaxing their grip, a weak grip may suggest muscle wasting or peripheral neuropathy), but remember that some patients are not comfortable with physical contact; be guided by your patient. Looking at the nails and skin can give information about systemic disease:
+
+Nail abnormalities
+
+• Koilonychia (spoon-shaped nails) suggests iron deficiency, haemochromatosis, infection (e.g. fungal), endocrine disorders (e.g. acromegaly, hypothyroidism), or malnutrition.
+• Onycholysis (detachment of the nail from the nail-bed) is seen with hyperthyroidism, fungal infection, and psoriasis (fig 2, p553).
+• Beau’s lines (fig 1) are transverse furrows from temporary arrest of nail growth at times of biological stress: severe infection, e.g. malaria, typhus, rheumatic fever, Kawasaki disease, myocardial infarction, chemotherapy, trauma, high-altitude climbing, and deep sea diving.¹¹ As nails grow at ~0.1mm/d, the furrow’s distance from the cuticle allows dating of the stress.
+
+Fig 1. Beau’s lines, here due to chemotherapy, a new line is seen with each cycle. See p529.
+
+• Mees’ lines are single white transverse bands classically seen in arsenic poisoning but also in chronic kidney disease and carbon monoxide poisoning amongst others.
+• Muehrcke’s lines are paired white parallel transverse bands (without furrowing of the nail itself, distinguishing them from Beau's lines)¹² seen, e.g., in chronic hypoalbuminaemia, Hodgkin's disease, pellagra (p278), chronic kidney disease.
+• Terry’s nails: Proximal portion of nail is white/pink, nail tip is red/brown (causes include cirrhosis, chronic kidney disease, congestive cardiac failure).
+• Pitting is seen in psoriasis and alopecia areata.
+• Splinter haemorrhages are fine longitudinal haemorrhagic streaks (under the nails), which in the febrile patient may suggest infective endocarditis. They may be microemboli, or be normal—being caused, by, for example, gardening.
+• Nail-fold infarcts are embolic phenomena characteristically seen in vasculitic disorders (OHCS, p414).
+• Clubbing of the nails occurs with many disorders (p33). There is an exaggerated longitudinal curvature and loss of the angle between nail and nail fold (i.e. no dip). Also the nail feels ‘boggy’. The cause is unknown but may be due to increased blood flow through multiple arteriovenous shunts in the distal phalanges.
+• Chronic paronychia is a chronic infection of the nail-fold and presents as a painful swollen nail with intermittent discharge.
+
+Skin changes
+
+• Palmar erythema is associated with cirrhosis and other conditions (see BOX 2).
+• Pallor of the palmar creases suggests anaemia.
+• Pigmentation of the palmar creases is normal in people of African-Caribbean or Asian origin but is also seen in Addison’s disease and Nelson’s syndrome (increased ACTH after removal of the adrenal glands in Cushing’s disease).¹³
+• Gottron’s papules (purple rash on the knuckles) with dilated end-capillary loops at the nail fold suggests dermatomyositis (p554).
+
+Nodules and contractures
+
+• Dupuytren’s contracture (fibrosis and contracture of palmar fascia, p712) is seen in liver disease, trauma, epilepsy, and ageing.¹⁴
+• Look for Heberden’s (DIP) fig 2 and Bouchard’s (PIP) ‘nodes’—osteophytes (bone over-growth at a joint) seen with osteoarthritis.
+
+Fig 2. Heberden’s node.
+
+
+PAGE 33
+
+Clubbing
+
+Fingernails (± toenails) have increased curvature in all directions and loss of the angle between nail and nail fold (figs 3, 4). The nail fold feels boggy. The exact mechanism of clubbing is unclear; however, the platelet theory, developed in 1987,¹⁵ has increasing evidence behind it. Megakaryocytes are normally fragmented into platelets in the lungs, and the original theory was that any disruption to normal pulmonary circulation (inflammation, cancer, cardiac right-to-left shunting) would allow large megakaryocytes into the systemic circulation. They become lodged in the capillaries of the fingers and toes, releasing platelet-derived growth factor and vascular endothelial growth factor,¹⁶ both of which lead to tissue growth, vascular permeability (leading to the ‘boggy’ oedematous feel) and recruitment of inflammatory cells. This theory has been supported by necropsy evidence showing platelet microthrombi in clubbed fingers, and high levels of PDGF and VEGF in patients with hypertrophic osteoarthropathy,¹⁷ and hypoxia may increase levels. However, this does not explain all of the changes, particularly in patients with unilateral clubbing, usually seen in neurological disorders. The jury is still out on the true pathogenesis.
+
+Causes
+
+Thoracic:
+• Bronchial cancer (clubbing is twice as common in women); usually not small cell cancer¹⁸
+• Chronic lung suppuration:
+  • empyema, abscess
+  • bronchiectasis
+  • cystic fibrosis
+• Fibrosing alveolitis
+• Mesothelioma
+• TB
+
+GI:
+• Inflammatory bowel disease (especially Crohn’s)
+• Cirrhosis
+• GI lymphoma
+• Malabsorption, e.g. coeliac
+
+Cardiovascular:
+• Cyanotic congenital heart disease
+• Endocarditis
+• Atrial myxoma
+• Aneurysms
+• Infected grafts
+
+Rare:
+• Familial
+• Thyroid acropachy (p564)
+
+Unilateral clubbing:
+• Hemiplegia
+• Vascular lesions, e.g. upper-limb artery aneurysm, Takayasu's arteritis, brachial arteriovenous malformations (including iatrogenic—haemodialysis fistulas)
+
+Fig 3. Finger clubbing.
+Fig 4. Testing for finger clubbing.
+
+Palmar erythema
+
+Causes: ‘High output’ states: Pregnancy, hyperthyroidism, rheumatoid arthritis, polycythaemia; also chronic liver disease—via decreased inactivation of vasoactive endotoxins by the liver. Also chemotherapy-induced palmar/plantar erythrodysaesthesia.¹⁹
+
+
+PAGE 34
+
+The cardiovascular system: history
+
+History (see also p88). Ask about age, occupation, hobbies, sport, exercise and ethnic origin.
+
+Presenting symptoms — Direct questions
+
+Chest pain (see p88–9 and p798)
+
+Site? Central?
+Onset? (sudden? What was the patient doing?)
+Character? Ask patient to describe pain (crushing? heavy?)
+Radiation? Ask specifically if moves to arm, neck or jaw?
+Associations? Ask specifically about shortness of breath, nausea, sweating.
+Timing? Duration?
+Exacerbating and alleviating factors? Worse with respiration or movement (less likely to be angina)? Relieved by GTN? Worse on inspiration and better when sitting forwards (pericarditis)?
+Severity: out of 10?
+Also ask if patient is known to have angina or chest pain in the past; better/worse/same as usual pain; is it more frequent? Decreasing exercise tolerance?
+NB: ‘heartburn’ more likely if ‘burning’, onset after eating/drinking, worse lying flat, or associated with dysphagia.
+
+Palpitations (see BOX 1 & 2)
+
+‘Ever aware of your own heartbeat’? When and how did it start/stop? Duration? Onset sudden/gradual? Associated with blackout (how long)? Fast/slow? Regular/irregular? Ask patient to tap out the rhythm. Related to eating/drinking (especially coffee, tea, wine, or chocolate)?
+
+Dyspnoea (see BOX 3, p52, and p796)
+
+Duration? At rest? On exertion? Determine exercise tolerance (and any other reason for limitation, e.g. arthritis). NYHA classification (p131)? Worse when lying flat, how many pillows does the patient sleep with (orthopnoea)? Does the patient ever wake up in the night gasping for breath (paroxysmal nocturnal dyspnoea), and how often? Any ankle swelling?
+
+Dizziness/blackouts (see BOX 3 and p464–7)
+
+Did patient lose consciousness, and for how long (short duration suggests cardiac while longer duration suggests a neurological cause)? Any warning (pre-syncope)? What was patient doing at the time? Sudden/gradual? Associated symptoms? Any residual symptoms? How long did it take for patient to return to ‘normal’? Any tongue biting (p464–5), seizure, incontinence? Witnessed?
+
+Claudication
+
+SOCRATES? Specifically foot/calf/thigh/buttock? Quantify ‘claudication distance’, i.e. how long can patient walk before onset of pain? Rest pain?
+
+(Screen for presenting symptoms before proceeding to past history.)
+
+Past history
+
+Ask specifically about: angina, any previous heart attack or stroke, rheumatic fever, diabetes, hypertension, hypercholesterolaemia, previous tests/procedures (ECG, angiograms, angioplasty/stents, echocardiogram, cardiac scintigraphy, coronary artery bypass grafts (CABG)).
+
+Ischaemic heart disease risk factors:
+• Smoking
+• Diabetes mellitus/raised BMI
+• Family history (1st-degree relative <60yrs)
+• Hypertension old with IHD
+• Hyperlipidaemia
+• Renal disease
+• Deprivation
+
+Drug history
+
+Particularly note aspirin/GTN/β-blocker/diuretic/ACE-i/digoxin/statin use.
+
+Family history
+
+Enquire specifically if any 1st-degree relatives having cardiovascular events (especially if <60yrs).
+
+Social history
+
+Smoking, impact of symptoms on daily life.
+
+
+PAGE 35
+
+Palpitations
+
+An awareness of the heartbeat. Have the patient tap out the rate and rhythm of the palpitations.
+
+• Irregular fast palpitations are likely to be paroxysmal AF, or atrial flutter with variable block.
+• Regular fast palpitations may reflect paroxysmal supraventricular tachycardia (SVT) or ventricular tachycardia (VT).
+• Dropped or missed beats related to rest, recumbency, or eating are likely to be atrial or ventricular ectopics.
+• Regular pounding may be due to anxiety.
+• Slow palpitations are likely to be due to drugs such as β-blockers, or bigeminus (fig 1, p122).
+
+Ask about associated chest pain, dyspnoea, and faints, suggesting haemodynamic compromise. Ask when it occurs: anxious people may be aware of their own heartbeat at night. Reassurance is vital and can often be therapeutic. Check a TSH and consider a 24h ECG (Holter monitor, p102). An event recorder, if available, is better than 24h ECGs, which miss some attacks.
+
+Palpitations, Russian roulette, loose blood, and hypochondriasis
+
+At night on my pillow the syncopated stagger
+Of the pulse in my ear. Russian roulette:
+Every heartbeat a fresh throw of the dice . . .
+Hypochondria walked, holding my arm
+Like a nurse, her fingers over my pulse . . .
+The sudden lapping at my throat of loose blood.
+Ted Hughes, Birthday Letters.
+Faber & Faber, by kind permission.
+
+Dizziness
+
+Dizziness is a loose term, so try to clarify if your patient means:
+
+• Vertigo (p466), the illusion of rotation of either the patient or their surroundings ± difficulty walking/standing, patients may fall over.
+• Imbalance, a difficulty in walking straight but without vertigo, from peripheral nerve, posterior column, cerebellar, or other central pathway failure.
+• Faintness, i.e. ‘light-headedness’, seen in anaemia, decreased BP, postural hypotension, hypoglycaemia, carotid sinus hypersensitivity, and epilepsy.
+
+
+PAGE 36
+
+The cardiovascular system: examination
+
+As with any examination routine, begin by introducing yourself, obtaining consent to examine the patient and position them appropriately: for the cardiovascular system, lying on a bed but sitting up at 45°. Expose them to the waist (for female patients, delay this until examining the praecordium). Explain what you are doing throughout.
+
+1 General inspection
+
+• Assess general state (ill/well).
+• Look for clues (oxygen, GTN spray).
+• Colour (pale, cyanosed, flushed).
+• Short of breath?
+• Scars on chest wall?
+
+2 Hands
+
+• Temperature: capillary refill time.
+• Inspect:
+  Skin: tobacco staining, peripheral cyanosis, tendon xanthomata, Janeway lesions, Osler's nodes (signs of infective endocarditis).
+  Nails: clubbing, splinter haemorrhages, nailbed pulsation (Quincke's sign of aortic regurgitation).
+
+3 Radial and brachial pulses
+
+• Radial: rate, rhythm; radio–radial delay (palpate pulse bilaterally simultaneously), radiofemoral delay (palpate ipsilateral pulses simultaneously), collapsing pulse (hold pulse with fingers of one hand, wrap the fingers of other hand around forearm, check “any pain in arm/shoulder?”, lift arm up straight; collapsing pulse, felt as ‘waterhammer’ pulsation in forearm).
+• Brachial: (just medial to tendonous insertion of biceps). Waveform character.
+
+4 Blood pressure
+
+• Hyper or hypotensive?
+• Pulse pressure (wide = aortic regurgitation, narrow = aortic stenosis).
+
+5 Neck
+
+• JVP: ask patient to turn head to the left and look at the supraclavicular fossa (see fig 1 and p40). Comment on the height of the JVP and waveform. Press on the abdomen to check the abdomino-jugular reflex.
+• Carotid pulse: inspect (visible carotid = Corrigan's sign of aortic regurgitation), and palpate volume and character on one side then the other.
+
+Fig 1. The JVP.
+
+A = Aortic
+P = Pulmonary
+T = Tricuspid
+M = Mitral
+
+Fig 3. Pitting oedema, apply firm pressure for a few seconds.
+
+
+PAGE 37
+
+6 Face
+
+• Colour: pale, flushed, central cyanosis.
+• Features: corneal arcus (fig 2), xanthelasma.
+• Pallor of the conjunctiva (anaemia).
+• Malar flush (mitral stenosis).
+• Dental hygiene.
+
+Fig 2. Corneal arcus.
+
+7 The praecordium
+
+Inspect
+
+• Scars: midline sternotomy, lateral thoracotomy (mitral stenosis valvotomy).
+
+Palpate
+
+• Apex beat (lowermost lateral pulsation): usually 5th intercostal space in mid-clavicular line; measure position by counting intercostal spaces (sternal notch = 2nd intercostal space). Undisplaced/displaced? Character: impalpable (?dextrocardia/COPD), tapping (palpable S1), double impulse, sustained/strong. Count rate if pulse irregular (AF, p124).
+• Heaves and thrills: place the heel of the hand flat on chest to left then right of sternum. Heave: sustained, thrusting usually felt at left sternal edge (= right ventricular enlargement). Thrill: palpable murmur felt as a vibration beneath your hand.
+
+Auscultate (palpate carotid pulse at the same time)
+
+• Apex (mitral area): Listen with bell and diaphragm. Identify 1st and 2nd heart sounds: are they normal? Listen for added sounds (p42) and murmurs (p44); with the diaphragm listen for a pansystolic murmur radiating to the axilla—mitral regurgitation.
+• At apex with bell, ask the patient to “Roll over onto your left side, breathe out, and hold it there” (a rumbling mid-diastolic murmur—mitral stenosis).
+• Lower left sternal edge (tricuspid area) and pulmonary area (left of manubrium in the 2nd intercostal space): if suspect right-sided murmur, listen with patient’s breath held in inspiration.
+• Right of manubrium in 2nd intercostal space (aortic area) ejection systolic murmur radiating to the carotids—aortic stenosis.
+• Sit the patient up and listen at the lower left sternal edge with patient held in expiration (early diastolic murmur: aortic regurgitation?).
+
+8 To complete the examination
+
+• Palpate for sacral and ankle oedema (Fig 3).
+• Auscultate the lung bases for inspiratory crackles.
+• Examine the abdomen for a pulsatile liver and aortic aneurysm.
+• Check peripheral pulses, observation chart for temperature and O₂ sats, dip urine, perform fundoscopy.
+
+Top tips
+
+The hand can be used as a manometer to estimate JVP/CVP if you cannot see the neck properly (e.g. central line in situ). Hold the hand palm down below the level of the heart until the veins dilate (patient must be warm!), then lift slowly, keeping the arm horizontal. The veins should empty as the hand is raised. Empty veins below the level of the heart suggests a low CVP, if they remain full it suggests a normal/high CVP.
+
+
+PAGE 38
+
+The cardiovascular system: examination
+
+General inspection
+
+Ill or well? In pain? Dyspnoeic? Are they pale, cold, and clammy? Can you hear the click of a prosthetic valve? Inspect for scars: median sternotomy (CABG; valve replacement; congenital heart disease). Inspect for any pacemakers. Look around the bed for oxygen and GTN spray.
+
+Hands
+
+Finger clubbing occurs in congenital cyanotic heart disease and endocarditis. Splinter haemorrhages, Osler’s nodes (tender nodules, e.g. in finger pulps) and Janeway lesions (red macules on palms, fig 3, p145) are signs of infective endocarditis. If found, examine the fundi for Roth’s spots (retinal infarcts, p386, fig 1). Are there nail fold infarcts (vasculitis, p558) or nailbed capillary pulsation (Quincke’s sign in aortic regurgitation)? Is there arachnodactyly (Marfan’s) or polydactyly (ASD)? Are there tendon xanthomata (fig 3, p36; hyperlipidaemia)?
+
+Pulse
+
+See p42. Feel for radio-femoral delay (coarctation of the aorta) and radio-radial delay (e.g. from aortic arch aneurysm).
+
+Blood pressure (see BOX)
+
+Systolic BP is the pressure at which the pulse is first heard as on cuff deflation (Korotkov sounds); the diastolic is when the heart sounds disappear or become muffled (e.g. in the young). The pulse pressure is the difference between systolic and diastolic pressures. It is narrow in aortic stenosis and hypovolaemia, and wide in aortic regurgitation and septic shock. Defining hypertension is problematic: see p132. Examine the fundi for hypertensive changes (p133). Shock may occur if systolic <90mmHg (p804). Postural hypotension is defined as a drop in systolic >20mmHg or diastolic >10mmHg on standing (see BOX).
+
+Face
+
+Is there corneal arcus (fig 2, p37) or xanthelasma (fig 1, p705, signifying dyslipidaemia, p704)? Is there a malar flush (mitral stenosis, low cardiac output)? Are there signs of Graves’ disease, e.g. bulging eyes (exophthalmos) or goitre—p210)? Is the face dysmorphic, e.g. Down’s syndrome, Marfan’s syndrome (p720)—or Turner’s, Noonan’s, or William's syndromes (p143)?
+
+Carotid pulse (p40) and jugular venous pressure (p41).
+
+Praecordium
+
+Palpate the apex beat. Normal position: 5th intercostal space in the mid-clavicular line. Is it displaced laterally? Is it abnormal in nature: heaving (caused by outflow obstruction, e.g. aortic stenosis or systemic hypertension), thrusting (caused by volume overload, e.g. mitral or aortic incompetence), tapping (mitral stenosis, essentially a palpable 1st heart sound), diffuse (LV failure, dilated cardiomyopathy) or double impulse (H(O)CM, p146)? Is there dextrocardia? Feel for left parasternal heave (RV enlargement, e.g. in pulmonary stenosis, cor pulmonale, ASD) or thrills (transmitted murmurs).
+
+Auscultating the heart
+
+Also auscultate for bruits over the carotids and elsewhere, particularly if there is inequality between pulses or absence of a pulse. Causes: atherosclerosis (elderly), vasculitis (young, p558).
+
+Lungs
+
+Examine the bases for creps & pleural effusions, indicative of cardiac failure.
+
+Oedema
+
+Examine the ankles, legs, sacrum, and torso for pitting oedema. (You may prefer to examine ankles whilst standing at the foot of the bed as it is a good early clue that there may be further pathology to be found.)
+
+Abdomen
+
+Hepatomegaly and ascites in right-sided heart failure; pulsatile hepatomegaly with tricuspid regurgitation; splenomegaly with infective endocarditis.
+
+Fundoscopy
+
+Roth spots (infective endocarditis).
+
+Urine dipstick
+
+Haematuria.
+
+Presenting your findings:
+
+i. Signs of heart failure?
+ii. Clinical evidence of infective endocarditis?
+iii. Sinus/abnormal rhythm?
+iv. Heart sounds normal, abnormal or additional?
+v. Murmurs?
+
+
+PAGE 39
+
+An unusual BP measurement
+
+Don’t interpret a BP value in isolation (p132). We cannot diagnose hypertension (or hypotension) on one BP reading. Take into account pain, the ‘white coat’ effect, and equipment used.²⁰ Getting cuff size right is vital, as too small will give too high a reading, and too large will give a low reading. Optimal cuff width is 40% of the arm circumference. If you suspect a BP reading to be anomalous, check the equipment and review the observation chart for previous readings and other vital signs. Consider taking a manual reading with a different set yourself.
+
+Often a quiet chat will bring the BP down (yours and your patient’s: keep your ears open, and the patient may reveal some new tangential but vital fact that the official history glossed over). Many things affect BP readings from background noise to how much you touch the patient. If BP is increased, e.g. ≥150/90, check both arms. If the systolic difference is >10mmHg, consider peripheral vascular disease,²¹ and if the patient could have a thoracic aortic aneurysm or coarctation (rare)? NB: right arm diastolic is normally 2.4–5mmHg higher than left.²²
+
+Postural hypotension
+
+This is an important cause of falls and faints in the elderly. It is defined as a drop in systolic BP >20mmHg or diastolic >10mmHg after standing for 3min vs lying.²³
+
+Causes: Hypovolaemia (early sign); drugs, e.g. nitrates, diuretics, antihypertensives; antipsychotics; Addison’s (p218); hypopituitarism (decreased ACTH), autonomic neuropathy (p509, DM, multisystem atrophy, p498), after a marathon run (peripheral resistance is low for some hours); idiopathic.
+
+Treatment:
+
+• Lie down if feeling faint.
+• Stand slowly (with escape route: don’t move away from the chair too soon!).
+• Consider referral to a ‘falls clinic’, where special equipment is available for monitoring patient under various tilts.
+• Manage autonomic neuropathy, p509.
+• Increased water and salt ingestion can help (e.g. 150mmol Na⁺/d), but Na⁺ has its problems.
+• Physical measures: leg crossing, squatting, elastic compression stockings (check dorsalis pedis pulse is present), and careful exercise may help.
+• If post-prandial dizziness, eat little and often; decrease carbohydrate and alcohol intake.
+• Head-up tilt of the bed at night increases renin release, so decreases fluid loss and increases standing BP.
+• 1st-line drugs: fludrocortisone (retains fluid) 50μg/d; go up to 300μg/24h PO only if tolerated. Monitor weight; beware if CCF, renal impairment or decreased albumin as fludrocortisone worsens oedema.²⁴, ²⁵
+• 2nd-line: sympathomimetics, e.g. midodrine (not always available) or ephedrine;²³ pyridostigmine (e.g. if detrusor under-activity too).²⁶
+• If these fail, turn things on their head and ask: is this really supine hypertension?
+
+Xanthomata
+
+Localized deposits of fat under the skin, occurring over joints (fig 3, p36), tendons, hands, and feet. They are a sign of dyslipidaemia (p704). Xanthelasma refers to xanthoma on the eyelid (p705, fig 1). Corneal arcus (fig 2, p37) is a crescentic-shaped opacity at the periphery of the cornea. Common in those over 60yrs, can be normal, but may represent hyperlipidaemia, especially in those under this age.
+
+
+PAGE 40
+
+The jugular venous pressure
+
+The internal jugular vein acts as a capricious manometer of right atrial pressure. Observe 2 features: the height (jugular venous pressure, JVP) and the waveform of the pulse. JVP observations are often difficult. Do not be downhearted if the skill seems to elude you. Keep on watching necks, and the patterns you see may slowly start to make sense—see fig 2 for the local venous anatomy. Relating the waveform to the arterial pulse (by concomitant palpation) will help to decipher patterns.
+
+The height
+
+Observe the patient at 45°, with his head turned slightly to the left. Good lighting and correct positioning makes the examination a lot easier. Look for the right internal jugular vein as it passes just medial to the clavicular head of the sternocleidomastoid up behind the angle of the jaw to the earlobes. The JVP is the vertical height of the pulse above the sternal angle (measured from the angle of Louis to the upper part of the JVP pulsation). It is raised if >4cm. Pressing on the abdomen normally produces a transient rise in the JVP. If the rise persists throughout a 15s compression, it is a positive abdominojugular reflux sign.¹ This is a sign of right ventricular failure, reflecting inability to eject the increased venous return.²⁷ If you cannot see the JVP at all, lie the patient flat then slowly sit up until the JVP disappears to check height of waveform.
+
+The waveform
+
+See BOX 1.
+
+Abnormalities of the JVP
+
+• Raised JVP with normal waveform: Fluid overload, right heart failure.
+• Fixed raised JVP with absent pulsation: SVC obstruction (p526).
+• Large a wave: Pulmonary hypertension, pulmonary stenosis.
+• Cannon a wave: When the right atrium contracts against a closed tricuspid valve, large ‘cannon’ a waves result. Causes: complete heart block, single chamber ventricular pacing, ventricular arrhythmias/ectopics.
+• Absent a wave: Atrial fibrillation.
+• Large v waves: Tricuspid regurgitation—look for earlobe movement.
+• Constrictive pericarditis: High plateau of JVP (which rises on inspiration—Kussmaul’s sign) with deep x and y descents.
+• Absent JVP: When lying flat, the jugular vein should be filled. If there is reduced circulatory volume (e.g. dehydration, haemorrhage) the JVP may be absent.
+
+Pulses
+
+Assess the radial pulse to determine rate and rhythm. Character and volume are best assessed at the brachial or carotid arteries. A collapsing pulse may also be felt at the radial artery when the patient’s arm is elevated above his head. See fig 3.
+
+Rate
+
+Is the pulse fast (>100bpm, p120) or slow (<60bpm, p118)?
+
+Rhythm
+
+An irregularly irregular pulse occurs in AF or multiple ectopics. A regularly irregular pulse occurs in 2° heart block and ventricular bigeminus.
+
+Character and volume
+
+• Bounding pulses are caused by CO₂ retention, liver failure, and sepsis.
+• Small volume pulses occur in aortic stenosis, shock, and pericardial effusion.
+• Collapsing (‘waterhammer’) pulses are caused by aortic incompetence, AV malformations, and a patent ductus arteriosus.
+• Anacrotic (slow-rising) pulses occur in aortic stenosis.
+• Bisferiens pulses occur in combined aortic stenosis and regurgitation.
+• Pulsus alternans (alternating strong and weak beats) suggests LVF, cardiomyopathy, or aortic stenosis.
+• Jerky pulses occur in H(O)CM.
+• Pulsus paradoxus (systolic pressure weakens in inspiration by >10mmHg) occurs in severe asthma, pericardial constriction, or cardiac tamponade.
+
+Peripheral pulses (See p34.) See p785 for arterial blood gas (ABG) sampling.
+
+¹ This sign was first described by Pasteur in 1885 in the context of tricuspid incompetence.

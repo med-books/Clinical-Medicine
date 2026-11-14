@@ -1,0 +1,349 @@
+PAGE 21
+
+Drawing family trees to reveal dominantly inherited disease¹
+
+Advances in genetics are touching all branches of medicine. It is increasingly important for doctors to identify patients at high risk of genetic disease, and to make appropriate referrals. The key skill is drawing a family tree to help you structure a family history as follows:
+
+1. Start with your patient. Draw a square for a male and a circle for a female. Add a small arrow (see below) to show that this person is the propositus (the person through whom the family tree is ascertained).
+2. Add your patient’s parents, brothers, and sisters. Record basic information only, e.g. age, and if alive and well (a&w). If dead, note age and cause of death, and pass an oblique stroke through that person’s symbol.
+3. Ask the key question “Has anybody else in your family had a similar problem as yourself?”, e.g. heart attack/angina/stroke/cancer. Ask only about the family of diseases that relate to your patient’s main problem. Do not record a potted medical history for each family member: time is too short.
+4. Extend the family tree upwards to include grandparents. If you haven’t revealed a problem by now, go no further—you are unlikely to miss important familial disease. If your patient is elderly it may be impossible to obtain good information about grandparents. If so, fill out the family tree with your patient’s uncles and aunts on both the mother’s and father’s sides.
+5. Shade those in the family tree affected by the disease. • = an affected female; ■ = an affected male. This helps to show any genetic problem and, if there is one, will help demonstrate the pattern of inheritance.
+6. If you have identified a familial susceptibility, or your patient has a recognized genetic disease, extend the family tree down to include children, to identify others who may be at risk and who may benefit from screening. You should find out who is pregnant in the family, or may soon be, and arrange appropriate genetic counselling (OHCS p154). Refer for genetics opinion.
+
+The family tree (fig 1) shows these ideas at work and indicates that there is evidence for genetic risk of colon cancer, meriting referral to a geneticist.
+
+Fig 1. Genetic risk of colon cancer in a family tree.
+
+¹ Use a different approach in paediatrics, and for autosomal or sex-linked disease. Ask if parents are related (consanguinity = risk of recessive diseases). This page owes much to Dr Helen Firth, who we thank.
+
+
+PAGE 22
+
+Functional enquiry
+
+Just as skilled acrobats are happy to work without safety nets, so experienced clinicians may operate without the functional enquiry. But to do this you must be experienced enough to understand all the nuances of the presenting complaint.
+
+General questions
+
+May be the most significant, e.g. in TB, endocrine problems, or cancer: weight loss; night sweats; any lumps; fatigue/malaise/lethargy; sleeping pattern¹; appetite; fevers; itch or rash; recent trauma.
+
+Cardiorespiratory symptoms
+
+• Chest pain (p88).
+• Exertional dyspnoea (= breathlessness): quantify exercise tolerance and how it has changed, e.g. stairs climbed, or distance walked, before onset of breathlessness.
+• Paroxysmal nocturnal dyspnoea (PND). Orthopnoea, i.e. breathlessness on lying flat (a symptom of left ventricular failure): quantify in terms of number of pillows the patient must sleep on to prevent dyspnoea.
+• Oedema: ankles, legs, lower back (dependent areas).
+• Palpitations (awareness of heartbeats): can they tap out the rhythm?
+• Cough: sputum, haemoptysis (coughing up blood).
+• Wheeze.
+
+Gastrointestinal symptoms
+
+• Abdominal pain (constant or colicky, sharp or dull; site; radiation; duration; onset; severity; relationship to eating and bowel action; alleviating or exacerbating, or associated features).
+• Other questions—think of symptoms throughout the GI tract, from mouth to anus:
+  • Swallowing (p240)
+  • Indigestion (p242)
+  • Nausea/vomiting (p240)
+  • Bowel habit (p246 & p248)
+  • Stool: colour, consistency, blood, mucus; difficulty flushing away (p280); tenesmus or urgency.
+• Tenesmus is the feeling of incomplete evacuation of the bowels (e.g. due to a tumour or irritable bowel syndrome).
+• Haematemesis is vomiting blood.
+• Melaena is altered (black) blood passed PR (p252), with a characteristic smell.
+
+Genitourinary symptoms
+
+• Incontinence (stress or urge, p650).
+• Dysuria (painful micturition).
+• Urinary abnormalities: colour? Haematuria (streaks or pink urine?) Frothy?
+• Nocturia (needing to micturate at night).
+• Frequency (frequent micturition) or polyuria (the frequent passing of large volumes of urine).
+• Hesitancy (difficulty starting micturition).
+• Terminal dribbling.
+• Vaginal discharge (p418).
+• Menses: frequency, regularity, heavy or light, duration, painful? First day of last menstrual period (LMP). Number of pregnancies and births. Menarche. Menopause. Any chance of pregnancy now?
+
+Neurological symptoms
+
+• Special senses: sight, hearing, smell, and taste.
+• Seizures, faints, ‘funny turns’.
+• Headache.
+• ‘Pins and needles’ (paraesthesiae) or numbness.
+• Limb weakness (“Are your arms and legs weaker than normal?”), poor balance.
+• Speech problems (p80).
+• Sphincter disturbance.
+• Higher mental function and psychiatric symptoms (p80–p83). The important thing is to assess function: what the patient can and cannot do at home, work, etc.
+
+¹ Too sleepy? Think of myxoedema or narcolepsy. Early waking? Think of depression. Being woken by pain is always a serious sign. For the significance of the other questions listed here, see Chapter 3.
+
+
+PAGE 23
+
+Musculoskeletal symptoms
+
+• Pain, stiffness, swelling of joints.
+• Diurnal variation in symptoms (i.e. worse mornings).
+• Functional deficit.
+• Signs of systemic disease: rashes, mouth ulcers, nasal stuffiness, malaise and constitutional symptoms.
+
+Thyroid symptoms
+
+• Hyperthyroidism: Prefers cold weather, bad tempered, sweaty, diarrhoea, oligomenorrhoea, weight loss (though often increased appetite), tremor, palpitations, visual problems.
+• Hypothyroidism: Depressed, slow, tired, thin hair, croaky voice, heavy periods, constipation, dry skin, prefers warm weather.
+
+History-taking may seem deceptively easy, as if the patient knew the hard facts and the only problem was extracting them; but what a patient says is a mixture of hearsay (“She said I looked very pale”), innuendo (“You know, doctor, down below”), legend (“I suppose I bit my tongue; it was a real fit, you know”), exaggeration (“I didn’t sleep a wink”), and improbabilities (“The Pope put a transmitter in my brain”). The great skill (and pleasure) in taking a history lies not in ignoring these garbled messages, but in making sense of them.
+
+
+PAGE 24
+
+Physical examination
+
+The physical examination is not so much an extension of the history, but more of the first investigation, to confirm, exclude, define, or show the progress of the provisional diagnosis as revealed in the history. Even in the emergency department where the history may be brief, e.g. “trauma”, the examination is to confirm a fracture, or to decide that a fracture is less likely. The examination sheds further light on the history. As you get better, your physical examination gets briefer. Establish your own routine—practice is the key.
+
+End of the bed
+
+• Look at the patient—are they well or in extremis? What makes you think this? Are they in pain? If so, does it make them lie still (e.g. peritonitis) or writhe about (e.g. colic). What is the pattern of breathing: laboured; rapid; shallow; irregular; distressed? Are they obese or cachectic? Is their behaviour appropriate? Can you detect any unusual smell, e.g. hepatic fetor (p258), cigarettes, alcohol?
+• Also take a moment to look around the bed for other clues, e.g. inhalers, insulin administration kit, walking aids, etc.
+
+Face and body habitus
+
+• Does the patient's appearance suggest any particular diseases, e.g. acromegaly, thyrotoxicosis, myxoedema, Cushing’s syndrome, or hypopituitarism? See p196.
+• Is there an abnormal distribution of body hair (e.g. bearded male, or hairless female) suggestive of endocrine disease?
+• Is there anything about the patient to trigger thoughts about Paget’s disease, Marfan’s, myotonia, or Parkinson’s syndrome? Look for rashes, e.g. the malar flush of mitral disease and the butterfly rash of SLE.
+
+Peripheral stigmata of disease
+
+Specific signs are associated with different diseases: consider the nails (koilonychia = iron deficiency), subcutaneous nodules (rheumatoid, neurofibroma?), and look for lymph nodes (cervical, axillary, inguinal). See specific systems for features to assess for, but for all systems consider:
+
+Skin colour:
+
+• Blue/purple = cyanosis (can also be central only, p28).
+• Yellow = jaundice (yellow skin can also be caused by uraemia, pernicious anaemia, carotenaemia—check the sclera: if they are also yellow it is jaundice).
+• Pallor: this is non-specific; anaemia is assessed from the palmar skin creases (when spread) and conjunctivae (fig 1, p319)—usually pale if Hb <80–90g/L: you cannot conclude anything from normal conjunctival colour, but if they are pale, the patient is probably anaemic.
+• Hyperpigmentation: Addison’s, haemochromatosis (slate-grey) and amiodarone, gold, silver, and minocycline therapy.
+
+Charts:
+
+• Temperature: varies during the day; a morning oral temperature >37.2°C or evening >37.7°C constitutes a fever.² Rectal temperatures are generally 0.6°C above oral temperatures. Remember that temperatures are generally lower in elderly patients and therefore fevers may not be as pronounced.³ A core temperature <35°C indicates hypothermia; special low-reading thermometers may be required.
+• Blood pressure and pulse—trends are more important than one-off values; repeat if concerned.
+• Urine: check urinalysis and input/output charts if available.
+
+Fluid status
+
+When admitting an unwell patient, don't forget to assess their degree of hydration, check skin turgor and mucous membranes, look for sunken eyes, and check capillary refill (if well perfused <2s) and JVP.
+
+
+PAGE 25
+
+Unexplained signs and symptoms: How to refer for an opinion
+
+When you don’t know: ask. If you are wondering if you should ask: ask.
+
+Frequently, the skills needed for diagnosis or treatment will lie beyond the team you are working for, so, during ward rounds, agree who should be asked for an opinion. You will be left with the job of making the arrangements, so check before your senior leaves exactly what their question is. Don’t be intimidated: but follow these simple rules:
+
+• Know the history and examination findings (ideally your own), and have the patient’s notes, observations, recent test results and drug charts to hand.
+• At the outset, state if you are just looking for advice or if you are asking if the patient could be seen. Make it clear exactly what the question is that you want addressed, allowing the listener to focus their thoughts and ask relevant questions.
+• Give the patient’s age and run through a brief history including relevant past medical history. If you would like the patient to be seen, give warning if they will be leaving the ward for a test at a particular time.
+• The visiting doctor may be unfamiliar with your ward. When he or she arrives introduce yourself, get the notes and charts, and give your contact details in case they have further questions.
+
+The following table may be useful to bear in mind, as you will be asked!
+
+Team — Key questions
+
+Anaesthetics: Previous anaesthetic? Reaction? Last ate/drank?
+
+Cardiology: Known IHD? BP? ECG findings? Echo findings? Murmurs? Troponin? Temperature/possibility of endocarditis? (ESR, microscopic haematuria etc. p144)
+
+Dermatology: Site, onset and appearance of rash? Drugs? Systemic disease? History of atopy?
+
+Endocrinology: Diabetes: blood glucose, usual insulin regimen, complications. Other: blood results? Stable/unstable—e.g. Addisonian crisis. Usual steroid dose?
+
+Gastroenterology/Hepatology: Bleeding: Rockall score (p253)? Shock? Diarrhoea: Blood? Foreign travel? Frequency per day? Liver disease: signs of decompensation (p258)? Ascites? Encephalopathy grade?
+
+Gynaecology/Obstetrics: LMP? Possibility of pregnancy? Previous pregnancies? Vaginal discharge? Hormonal contraceptives? STIs?
+
+Haematology: Blood results? Splenomegaly? Fever? Lymphadenopathy? Bleeding: Anticoagulants? Clotting results?
+
+Infectious diseases/Microbiology: Possible source? Antibiotics (current/recent/previous)? Foreign travel? Risk factors for HIV?
+
+Nephrology: Creatinine (current, old)? Clotting? Urine output? Potassium? BP? Fluid status? Drugs? Known renal disease?
+
+Neurology/Stroke: Neurological examination?¹ CT/MRI scan findings?
+
+Radiology: See p734. Contrast or not? Creatinine? Clotting? Cannula in situ? Metallic implants?
+
+Respiratory: O₂ sats? Respiratory rate? ABG? CXR? Inhalers/nebs? Home O₂? Respiratory support, e.g. NIV/CPAP?
+
+Surgery (general): Pain? Scan findings? Acutely unwell? Clotting?
+
+Urology: History of LUTS (lower urinary tract symptoms) p644? Catheter? Haematuria? History of stones? Scan findings (ultrasound, CT)?
+
+¹ You would be amazed at how many people refer to neurology/stroke without having done a neurological examination! Don't be one of them...
+
+
+PAGE 26
+
+Symptoms
+
+Symptoms are features which patients report. Physical signs are elicited at the bedside. Together, they constitute the features of the condition in that patient. Their evolution over time and interaction with the physical, psychological, and social spheres comprise the natural history of any disease. Throughout this chapter, we discuss symptoms in isolation and attempt to classify them into a ‘system’ or present them below as ‘non-specific’. This is unnatural but a good first step in learning how to diagnose. All doctors have to know about symptoms and their relief: this is what doctors are for. Part of becoming a good doctor is learning to link symptoms together, to identify those that may be normal, and those that are worrying. There are many online tools and books that can help with this, but there is no substitute for experience. If you aren't sure, ask a specialist in that area for advice.
+
+The following are common ‘non-specific’ presentations.
+
+Itch
+
+Itching (pruritus) is common and, if chronic, most unpleasant.
+
+Local causes: Eczema, atopy, urticaria; scabies; lichen planus; dermatitis herpetiformis; spinal cord tumours (rare).
+
+Systemic causes (do FBC, ESR, glucose, LFT, U&E, ferritin, TFT): Liver disease (bile salts, e.g. PBC); old age; pregnancy; uraemia (e.g. CKD); drugs (e.g. morphine); malignancy (e.g. lymphoma); diabetes mellitus; polycythaemia rubra vera; thyroid disease; iron deficiency anaemia; HIV infection.
+
+Questions: Wheals (urticaria)? Worse at night? Others affected (scabies)? What provokes it? After a bath ≈ polycythaemia rubra vera (p360). Exposure, e.g. to animals (atopy?) or fibre glass (irritant eczema?).
+
+Look for local causes: Scabies burrows in finger webs, lice on hair shafts, knee and elbow blisters (dermatitis herpetiformis). Systemic: Splenomegaly, nodes, jaundice, flushed face or thyroid signs? Treat causes; try soothing bland emollients, e.g. E45®, ± emollient bath oils ± sedative antihistamines at night, e.g. chlorphenamine 4mg PO.
+
+‘Off-legs’—falls and difficulty walking
+
+Common causes of admission in the elderly, and can lead to loss of confidence and independence. Causes are often multifactorial:
+
+Intrinsic: typically osteo- or rheumatoid arthritis, but remember fractured neck of femur, CNS disease, impaired vision, cognitive impairment, depression, postural hypotension, peripheral neuropathy, medication (e.g. antihypertensives, sedatives), pain, e.g. arthritis, parkinsonism (e.g. drugs: prochlorperazine, neuroleptics, metoclopramide), muscle weakness (consider vitamin D deficiency), incontinence, UTI, pneumonia, anaemia, hypothyroidism, renal impairment, hypothermia and alcohol.
+
+Environment: Poor lighting, uneven walking surface. Treatment includes addressing injuries, reducing risk factors, and reducing the risk of injury, e.g. treat osteoporosis (p696). A multidisciplinary multifactorial approach alongside occupational therapists and physiotherapists is likely to be beneficial.⁵ See gait disturbance, p471.
+
+If there is ataxia, the cause is not always alcohol: other chemicals may be involved (e.g. cannabis or prescribed sedatives). There may be a metastatic or non-metastatic manifestation of malignancy, or a cerebellar lesion.
+
+Bilateral weak legs may suggest a cord lesion: see p470. If there is associated urinary or faecal incontinence ± saddle anaesthesia or lower limb sensory loss, urgent imaging (MRI) and treatment for cord compression may well be needed.
+
+
+PAGE 27
+
+Fatigue
+
+So common that it is a variant of normality. Only 1 in 400 episodes of fatigue leads to visiting the doctor. Don’t miss depression (p11). Even if depressed, still rule out common treatable causes—e.g. anaemia, hypothyroidism, diabetes. After history and examination: FBC, ESR, U&E, plasma glucose, TFT, ± CXR. Follow up to see what develops, and to address emotional problems. Take a sleep history.
+
+Fevers, rigors, sweats
+
+While some night sweating is common in anxiety, drenching sweats requiring changes of night-clothes are a more ominous symptom associated with infection (e.g. TB, brucellosis), lymphoproliferative disease, or other malignancies. Patterns of fever may be relevant (see p386).
+
+Rigors are uncontrolled paroxysms of shivering which occur as a patient’s temperature rises rapidly. See p386.
+
+Sweating excessively (hyperhidrosis) may be primary (e.g. hidradenitis suppurativa may be very distressing to the patient)—or secondary to fever, pain or anxiety (cold & sweaty) or a systemic condition: the menopause, hyperthyroidism (warm & sweaty), acromegaly, malignancy, phaeochromocytoma, amyloidosis, or neuroleptic malignant syndrome (+hyperthermia). Or it may reflect gabapentin or opiate withdrawal, or a cholinergic or parasympathomimetic side-effect (amitriptyline, bethanechol, distigmine, spider bites)—also hormonal drugs, e.g. levothyroxine, gonadorelin or somatostatin analogues, vasopressin, and ephedrine. Also amiodarone, ciprofloxacin, L-dopa, lisinopril, rivastigmine, ritonavir, pioglitazone, venlafaxine. At the bedside: Ask about all drugs, examine all over for nodes; any signs of hyperthyroidism? Any splenomegaly? Test the urine; do temperature, ESR, TSH, FBC & blood culture. Treatment: Antiperspirants (aluminium chloride 20%=Driclor®), sympathectomy, or iontophoresis may be tried.
+
+Insomnia
+
+This is trivial—until we ourselves have a few sleepless nights. Then sleep becomes the most desirable thing imaginable, and bestowing it the best thing we can do, like relieving pain. But don’t give drugs without looking for a cause.
+
+• Self-limiting: Jet lag; stress; shift work; in hospital. We need less sleep as we age.
+• Psychic: Depression; anxiety; mania; grief; psychomotor agitation/psychosis.
+• Organic: Drugs (many; e.g. caffeine; mefloquine; nicotine withdrawal); nocturia; alcohol; pain (e.g. acid reflux—worse on lying down); itch; tinnitus; asthma; dystonias; obstructive sleep apnoea (p194); dementia; restless leg syndrome (p712, check ferritin). Rarer: encephalitis (e.g. West Nile virus) and encephalopathy (Whipple’s; pellagra; HIV; prion diseases, e.g. CJD, p710, and fatal familial insomnia).
+
+Sleep hygiene: No daytime naps; don’t turn in till you feel sleepy; regular bedtime routines. Keep a room for sleep; don’t eat or work in it (not viable for much of the world). Less caffeine, nicotine, late exercise (but sexual activity may give excellent torpor!) and alcohol (its abuse causes paradoxical pro-adrenergic tremor and insomnia).⁶ Try monitoring quality with a sleep diary (unless already over-obsessive). Music and relaxation may make sleep more restorative and augment personal resources.⁷
+
+Hypnotic drugs: give for a few nights only (addictive and cause daytime somnolence ± rebound insomnia on stopping). Warn about driving/machine use. Example: zopiclone 3.75–7.5mg. Obstructive sleep apnoea: p194. Parasomnias, sleep paralysis, etc.: OHCS p392. Narcolepsy: p714.
+
+
+PAGE 28
+
+Signs
+
+Over 80% of diagnoses should be made on history alone, with the signs you elicit adding an extra 10% and tests only giving the final 5% or so.⁸ Do not rely on signs or investigations for your diagnosis, but use them rather to confirm what you suspected from the history. The following signs are not specific to a particular system:
+
+Cyanosis
+
+Dusky blue skin (peripheral—of the fingers) or mucosae (central—of the tongue), representing 50g/L of Hb in its reduced (hence hypoxic) form, it occurs more readily in polycythaemia than anaemia. Causes:
+
+• Lung disease with inadequate oxygen transfer, e.g. luminal obstruction, asthma, COPD, pneumonia, PE, pulmonary oedema—may be correctable by increased inspired O₂.
+• Congenital cyanotic heart disease, where there is admixture, e.g. transposition of the great arteries or right-to-left shunt (e.g. VSD with Eisenmenger’s syndrome; see p150)—cyanosis is not reversed by increasing inspired oxygen.
+• Rare causes: methaemoglobinaemia, a congenital or acquired red cell disorder.
+
+Acute cyanosis is an emergency. Is there asthma, an inhaled foreign body, a pneumothorax (p763, fig 1) or pulmonary oedema? See p824.
+
+Peripheral cyanosis will occur in causes of central cyanosis, but may also be induced by changes in the peripheral and cutaneous vascular systems in patients with normal oxygen saturations. It occurs in the cold, in hypovolaemia, and in arterial disease, and is therefore not a specific sign.
+
+Pallor
+
+May be racial or familial—or from anaemia, shock/faints, Stokes-Adams attack (p464, pale first, then flushing), hypothyroidism, hypopituitarism, and albinism.
+
+If it’s just one limb or digit, think of emboli. Anaemia is haemoglobin concentration below the normal range (p318). It may be assessed from the conjunctivae and skin creases. Koilonychia and stomatitis (p24) suggest iron deficiency. Anaemia with jaundice suggests haemolysis.
+
+Skin discolouration
+
+Generalized hyperpigmentation may be genetic (racial) or due to radiation; increased ACTH (cross-reacts with melanin receptors, e.g. Addison’s disease (p218), Nelson’s syndrome (p32), ectopic ACTH in bronchial carcinoma); chronic kidney disease (increased urea, p294); malabsorption; chloasma (seen in pregnancy or with the oral contraceptive pill); biliary cirrhosis; haemochromatosis (‘bronzed diabetes’); carotenaemia; or drugs (e.g. chlorpromazine, busulfan, amiodarone, gold).
+
+Obesity (see OHCS p530)
+
+This is defined by the World Health Organization as a BMI of over 30kg/m². A higher waist to hip ratio, indicating central fat distribution, is commoner in women and is associated with greater health risks, which include type 2 diabetes mellitus, IHD, dyslipidaemia, increased BP, osteoarthritis of weight-bearing joints, and cancer (breast and bowel); see p199. The majority of cases are not due to specific metabolic disorders. Lifestyle change is key to treatment, to increase energy expenditure and reduce intake (p236). Medication ± surgery may be considered if the patient fulfils strict criteria. Conditions associated with obesity include: genetic (Prader–Willi syndrome, Lawrence–Moon syndrome), hypothyroidism, Cushing’s syndrome and hypothalamic damage (e.g. tumour or trauma → damage to satiety regions).
+
+
+PAGE 29
+
+Lymphadenopathy
+
+Causes of lymphadenopathy are either reactive or infiltrative:
+
+Reactive
+
+Infective
+
+• Bacterial: e.g. pyogenic, TB, brucella, syphilis.
+• Viral: EBV, HIV, CMV, infectious hepatitis.
+• Others: toxoplasmosis, trypanosomiasis.
+
+Non-infective: sarcoidosis, amyloidosis, berylliosis, connective tissue disease (e.g. rheumatoid, SLE), dermatological (eczema, psoriasis), drugs (e.g. phenytoin).
+
+Infiltrative
+
+Benign histiocytosis—OHCS p644, lipoidoses.
+
+Malignant
+
+• Haematological: lymphoma or leukaemia: ALL, CLL, AML (p350).
+• Metastatic carcinoma: from breast, lung, bowel, prostate, kidney, or head and neck cancers.
+
+Oedema (see p580)
+
+Pitting oedema: Fluid can either be squeezed out of the veins (increased hydrostatic pressure, e.g. DVT, right heart failure) or diffuse out because of reduced oncotic pressure (low plasma proteins, e.g. cirrhosis, nephrotic syndrome, protein losing enteropathy) leading to an osmotic gradient with the tissues (fig 4 p36, p580). The cause of oedema is still not completely understood.⁹
+
+Periorbital oedema: Oedema around the face has a very different differential; the eyelid skin is very thin so periorbital oedema is usually the first sign—think of allergies (contact dermatitis, e.g. from eye make-up, stings), angioedema (can be hereditary), infection (orbital cellulitis can be life threatening, refer to hospital immediately if concerned, other infections include EBV and sinusitis); if there is proptosis (p211) think Graves’ disease, connective tissue diseases (e.g. dermatomyositis, SLE, sarcoid, amyloid); and many others. Assess for systemic disease before putting it down to allergies.
+
+Non-pitting oedema: i.e. non-indentable, is lymphoedema due to poor lymphatic drainage. Can be due to radiotherapy, malignant infiltration, infection, filariasis or rarely primary lymphoedema (Milroy’s syndrome p720).
+
+Weight loss
+
+This is a feature of chronic disease and depression; also of malnutrition, malignancy, chronic infections (e.g. TB, HIV/enteropathic AIDS), diabetes mellitus and hyperthyroidism (typically in the presence of increased appetite). Severe generalized muscle wasting is also seen as part of a number of degenerative neurological diseases and in cardiac failure (cardiac cachexia), although in the latter, right heart failure may not make weight loss a major complaint. Do not forget anorexia nervosa (OHCS p348) as an underlying cause of weight loss.
+
+Rule out treatable causes, e.g. diabetes is easy to diagnose—TB can be very hard. For example, the CXR may look like cancer so don't forget to send bronchoscopy samples for ZN stain and TB culture. Unintentional weight loss should always ring alarm bells, so assess patients carefully.
+
+Cachexia
+
+General muscle wasting from famine, or decreased eating (dementia; stroke; MND, p510; anorexia nervosa), malabsorption (enteropathic AIDS/slim disease/Cryptosporidium; Whipple’s) or increased catabolism (neoplasia; CCF; TB; chronic kidney disease; leptin increased).¹⁰
+
+
+PAGE 30
+
+Examination of the hands
+
+As with any examination routine, begin by introducing yourself, obtaining consent to examine the patient and position them appropriately. Expose the arms, then ask the patient to rest their hands on a pillow. Always ask about pain or tender areas. With the hands, particularly in acute arthritis, the standard joint examination routine of “look, feel, move” is better amended to “look, ask the patient to move, then feel” to avoid causing pain.
+
+1. Skin
+
+On both the palm and the dorsum start by inspecting the skin for:
+
+1. Colour—pigmentation of creases, jaundice, palmar erythema.
+2. Consistency—tight (sclerodactyly), thick (DM, acromegaly).
+3. Characteristic lesions—pulp infarcts, rashes, purpura, spider naevi, telangiectasia, tophi, scars (e.g. carpal tunnel release).
+
+2. Muscles
+
+Examine the muscles for wasting and fasciculations; on the palm look particularly at the thenar and hypothenar eminences.
+
+• Thenar wasting = median nerve lesion.
+• Generalized wasting, particularly of the interossei on the dorsum, but sparing of the thenar eminence = ulnar nerve lesion.
+
+Also look for Dupuytren's contracture and perform Tinel's test (percuss over the distal skin crease of the wrist—tingling suggests carpal tunnel syndrome).
+
+3. Joints
+
+Examine for acute inflammation (swollen, red joints) as well as the characteristic deformities of chronic arthritis:
+
+• Ulnar deviation at the wrist.
+• Z deformity of the thumb.
